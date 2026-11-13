@@ -1,0 +1,23 @@
+ice_year,band,volcano,country,gvp_start_year,start_month,vei,gvp_category,lat,lon
+1762,tropical,Makian,Indonesia,1760,,4,confirmed,0.32,127.4
+1770,N,Toya,Japan,1769,,4,confirmed,42.54,140.84
+1770,N,Vesuvius,Italy,1770,,3,confirmed,40.82,14.43
+1770,N,Vulcano,Italy,1771,,3,confirmed,38.4,14.96
+1770,N,Makushin,United States,1768,,3,confirmed,53.89,-166.92
+1786,N,Etna,Italy,1787,,4,confirmed,37.75,15.0
+1786,N,Vulcano,Italy,1786,,3,uncertain,38.4,14.96
+1786,N,Amukta,United States,1786,,3,confirmed,52.5,-171.25
+1786,N,Shasta,United States,1786,,3,confirmed,41.41,-122.19
+1796,N,Westdahl,United States,1795,,4,confirmed,54.52,-164.65
+1796,N,Vesuvius,Italy,1796,,3,confirmed,40.82,14.43
+1796,N,Bogoslof,United States,1796,,3,confirmed,53.93,-168.03
+1796,N,Isanotski,United States,1795,,3,uncertain,54.77,-163.72
+1797,N,Westdahl,United States,1795,,4,confirmed,54.52,-164.65
+1797,N,Vesuvius,Italy,1796,,3,confirmed,40.82,14.43
+1797,N,Bogoslof,United States,1796,,3,confirmed,53.93,-168.03
+1797,N,Isanotski,United States,1795,,3,uncertain,54.77,-163.72
+1809,tropical,?,?,1808,,6,confirmed,0.0,0.0
+1809,tropical,Cameroon,Cameroon,1807,,3,confirmed,4.2,9.17
+1846,N,Hekla,Iceland,1845,,4,confirmed,63.98,-19.67
+1846,N,Rasshua,Russia,1846,,3,confirmed,47.77,153.02
+1846,N,Sinarka,Russia,1846,,3,confirmed,48.87,154.18

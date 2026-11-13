@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use these notes, findings or data, please cite them as below, and cite the source datasets named in data/README.md."
+title: "Human/AI collab to identify the missing 1808/9 volcano."
+type: dataset
+authors:
+  - given-names: William John
+    family-names: Suk
+    email: 1808@williamsuk.ai
+    website: "https://williamsuk.ai"
+  - name: "The 1808/09 eruption collaboration (contributors listed in CONTRIBUTORS.md)"
+contact:
+  - given-names: William John
+    family-names: Suk
+    email: 1808@williamsuk.ai
+    website: "https://williamsuk.ai"
+repository-code: "https://github.com/cmngtny5bw-collab/1808-eruption-search"
+url: "https://williamsuk.ai"
+license: CC-BY-4.0
+abstract: >-
+  A literature review and archival search for the unidentified tropical
+  eruption whose sulfate appears in polar ice dated to 1809. The repository
+  holds a source register, one notes file per research strand, a findings
+  table with a verification level on every row, derived data tables and the
+  scripts that made them. Much of the text was written by an AI model
+  (Claude) working for the maintainer and is marked as such. Scripts are MIT;
+  files in data/cc-by-sa/ are CC BY-SA 4.0.
+keywords:
+  - "1809 eruption"
+  - "volcanic sulfate"
+  - "historical climatology"
+  - "archival research"
+  - "ice cores"
+  - "human-AI collaboration"

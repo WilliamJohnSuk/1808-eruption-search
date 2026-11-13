@@ -1,0 +1,32 @@
+title: "[Candidate] "
+labels: ["candidate"]
+body:
+  - type: markdown
+    attributes:
+      value: "One thread per volcano. Upvote the replies you find strongest. Votes set priorities; they do not settle evidence."
+  - type: input
+    id: volcano
+    attributes:
+      label: Volcano (name and GVP number)
+    validations:
+      required: true
+  - type: textarea
+    id: case
+    attributes:
+      label: The case for or against, with links to notes, findings or papers
+    validations:
+      required: true
+  - type: textarea
+    id: test
+    attributes:
+      label: What would test it
+  - type: dropdown
+    id: ai
+    attributes:
+      label: Did an AI system write or substantially draft this post?
+      options:
+        - "No"
+        - "AI-assisted"
+        - "Yes, AI-generated"
+    validations:
+      required: true

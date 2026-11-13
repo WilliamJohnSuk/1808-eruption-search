@@ -1,0 +1,1 @@
+const {chromium}=require('playwright');(async()=>{const b=await chromium.launch();const p=await b.newPage({viewport:{width:1500,height:670}});await p.goto('file:///tmp/claude-0/map/fleet_map_v1.svg');await p.screenshot({path:'fleet_map_v1.png'});await b.close();})();

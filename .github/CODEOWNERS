@@ -1,0 +1,9 @@
+# The maintainer reviews every change to the evidence trail and the rules.
+# Enforced only if branch protection on main has "Require review from Code Owners" turned on.
+/findings/          @cmngtny5bw-collab
+/sources/           @cmngtny5bw-collab
+/GOVERNANCE.md      @cmngtny5bw-collab
+/LICENSE.md         @cmngtny5bw-collab
+/CODE_OF_CONDUCT.md @cmngtny5bw-collab
+/.github/           @cmngtny5bw-collab
+/community/         @cmngtny5bw-collab

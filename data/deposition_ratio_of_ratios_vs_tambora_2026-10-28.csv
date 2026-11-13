@@ -1,0 +1,12 @@
+event,lat,month,pred_RR_vs_Tambora,obs_RR_vs_Tambora_geomean,factor
+Huaynaputina,-16.6,2,0.84,2.85,3.4
+Ruiz,4.9,3,3.32,1.13,2.95
+Parker,6.1,12,4.78,4.58,1.04
+Gamkonora,1.4,5,1.32,1.28,1.03
+Cosiguina,13.0,1,6.51,2.01,3.23
+Makian,0.3,12,3.21,2.52,1.27
+Krakatau,-6.1,8,0.95,2.01,2.13
+Samalas,-8.4,7,0.68,1.79,2.62
+Agung,-8.3,3,1.19,0.62,1.93
+Pinatubo+Hudson,15.1,6,2.52,2.06,1.23
+Colima_1585,19.5,1,7.87,14.93,1.9

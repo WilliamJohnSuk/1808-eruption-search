@@ -1,0 +1,15 @@
+candidate,material,SC_DomeC_1809,SC_SouthPole_1809,SC_Eclipse_1809,SC_SipleDome_1810,SiO2,Al2O3,FeOt,MgO,CaO,Na2O,K2O,note
+"Dukono DK1 (wr, Bani 2021)",whole-rock,0.79,0.84,0.63,0.65,58.79,14.09,9.58,2.03,7.40,3.14,3.75,Claude's calculation; whole-rock scores are indicative only
+Dukono DK2 (wr),whole-rock,0.90,0.91,0.70,0.67,60.80,15.63,7.72,2.76,5.93,3.47,2.55,Claude's calculation; whole-rock scores are indicative only
+Dukono DK3 (wr),whole-rock,0.89,0.93,0.71,0.67,60.42,16.10,7.89,2.34,6.11,3.57,2.55,Claude's calculation; whole-rock scores are indicative only
+Ibu mean IB1-3 (wr),whole-rock,0.68,0.75,0.84,0.73,67.81,15.16,4.56,0.86,3.03,4.44,3.25,Claude's calculation; whole-rock scores are indicative only
+Gamkonora mean GK1-2 (wr),whole-rock,0.88,0.82,0.61,0.63,57.72,17.66,8.06,3.16,6.94,3.78,1.58,Claude's calculation; whole-rock scores are indicative only
+Gamalama GL (wr),whole-rock,0.86,0.79,0.59,0.61,57.03,17.43,8.61,3.52,7.32,3.48,1.57,Claude's calculation; whole-rock scores are indicative only
+Makian MK3 most evolved (wr),whole-rock,0.81,0.77,0.59,0.62,56.59,19.27,7.03,3.40,7.65,3.98,1.23,Claude's calculation; whole-rock scores are indicative only
+Hunga 2022 light pumice (bulk),bulk,0.67,0.63,0.48,0.48,57.50,15.00,13.50,3.70,8.90,2.00,0.60,Claude's calculation; whole-rock scores are indicative only
+NIB marine glass grp C 1.475m (Horz),glass,0.77,0.75,0.55,0.54,60.66,15.12,10.08,2.49,7.29,2.51,0.81,Claude's calculation
+NIB marine glass grp C 1.166m (Horz),glass,0.63,0.63,0.76,0.60,72.35,13.92,3.58,0.72,3.19,4.34,1.13,Claude's calculation
+NIB marine glass grp B 0.068m (Horz),glass,0.64,0.71,0.82,0.68,69.86,14.92,4.08,0.93,2.71,3.20,3.13,Claude's calculation
+Witori W-H6 Tili (glass),glass,0.66,0.66,0.80,0.60,71.97,13.64,3.80,0.90,3.57,4.19,1.22,Claude's calculation
+Dakataua Dk Buludava (glass),glass,0.78,0.77,0.83,0.69,66.53,14.66,5.03,1.39,4.02,4.58,2.15,Claude's calculation
+Long Is. Tibito Ambra A1 (glass),glass,0.88,0.80,0.62,0.59,56.70,15.18,10.90,3.10,7.08,3.39,2.11,Claude's calculation

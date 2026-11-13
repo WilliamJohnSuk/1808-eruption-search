@@ -1,0 +1,75 @@
+name: Re-check a source or finding
+description: Check an existing finding or source again, independently, as a person, an AI system or a mixed team. Every check is recorded, including ones that disagree.
+title: "[Check] "
+labels: ["independent-check", "needs-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        We want several independent checks of every source. Your check becomes a row in [`findings/checks.csv`](../blob/main/findings/checks.csv); the rules are in [`findings/CHECKS_README.md`](../blob/main/findings/CHECKS_README.md). Please read the source itself, not our notes about it.
+  - type: input
+    id: target
+    attributes:
+      label: What are you checking?
+      description: A finding ID (F04), a register row (B53), an unavailable source (U151) or a note path.
+    validations:
+      required: true
+  - type: dropdown
+    id: team
+    attributes:
+      label: Who did the check?
+      options:
+        - "human: a person read the source"
+        - "human+ai: a person and an AI system together; the person checked the result against the source"
+        - "ai: an AI system run by me; I have not checked its result against the source"
+    validations:
+      required: true
+  - type: input
+    id: ai_systems
+    attributes:
+      label: AI systems used (name and version), or none
+    validations:
+      required: true
+  - type: textarea
+    id: read
+    attributes:
+      label: Exactly what was read
+      description: Archive, item, page or image number, edition, URL.
+    validations:
+      required: true
+  - type: dropdown
+    id: level
+    attributes:
+      label: Verification level achieved
+      options:
+        - page-image
+        - ocr
+        - computed
+        - inferred
+    validations:
+      required: true
+  - type: dropdown
+    id: result
+    attributes:
+      label: Result
+      options:
+        - confirms
+        - partly confirms
+        - contradicts
+        - could not reach source
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Details
+      description: What differed, your reading in the original language and in translation, a better link.
+  - type: checkboxes
+    id: independence
+    attributes:
+      label: Independence
+      options:
+        - label: I (or my team) did not produce the item I am checking.
+          required: true
+        - label: I agree that my contribution is released under CC BY 4.0.
+          required: true

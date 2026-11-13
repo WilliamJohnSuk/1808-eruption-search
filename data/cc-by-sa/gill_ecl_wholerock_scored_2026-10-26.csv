@@ -1,0 +1,249 @@
+src,island,volcano,sample,age,name,SiO2,Al2O3,FeOt,MgO,CaO,Na2O,K2O,DomeC,SPole,Eclipse,Siple
+ECL1499,Banda Api,Banda Api,G1,,Dacite,64.75,14.79,7.08,1.85,5.02,4.33,0.77,0.79,0.81,0.67,0.65
+ECL1499,Banda Api,Banda Api,G2,,Dacite,64.43,14.62,7.41,1.85,4.92,4.77,0.8,0.78,0.81,0.68,0.65
+ECL1499,Banda Api,Banda Api,G3,,Dacite,65.55,15.13,6.32,1.63,4.92,4.39,0.85,0.77,0.79,0.7,0.67
+ECL1499,Banda Api,Banda Api,G5,,Dacite,67.8,14.35,5.79,1.33,4.14,4.48,0.89,0.71,0.73,0.75,0.66
+ECL1499,Banda Api,Banda Api,G6,,Dacite,66.78,14.63,6.24,1.28,4.1,4.9,0.89,0.71,0.72,0.76,0.68
+ECL1499,Banda Api,Banda Api,G7,,Dacite,66.66,14.68,6.45,1.31,4.18,4.63,0.91,0.72,0.74,0.75,0.68
+ECL1499,Banda Api,Banda Api,G10,,Dacite,64.15,14.77,7.29,1.69,4.96,5.07,0.83,0.77,0.79,0.7,0.67
+ECL1499,Banda Neira,Banda Neira,N1,,Basalt,51.91,18.78,9.14,4.86,11.38,2.66,0.28,0.65,0.61,0.45,0.5
+ECL1499,Manuk,Manuk,PAJ-1,,Andesite,57.03,17.78,6.77,4.65,8.74,3.09,0.91,0.72,0.69,0.54,0.6
+ECL1499,Manuk,Manuk,PAJ-2,,Andesite,57.48,17.34,6.95,4.91,8.28,3.17,0.89,0.73,0.7,0.55,0.61
+ECL1499,Manuk,Manuk,PAJ-3,,Andesite,57.15,17.61,6.81,4.75,8.72,3.1,0.89,0.72,0.69,0.54,0.6
+ECL1499,Manuk,Manuk,PAJ-4,,Andesite,57.62,17.69,6.74,4.27,8.52,3.2,0.97,0.74,0.71,0.56,0.61
+ECL1499,Manuk,Manuk,PAJ-5,,Andesite,57.33,17.5,6.93,4.7,8.47,3.18,0.95,0.74,0.7,0.55,0.61
+ECL1499,Serua,Serua,T-1,,Andesite,56.97,17.71,7.26,4.82,8.87,2.39,1.16,0.72,0.68,0.53,0.58
+ECL1499,Serua,Serua,T-2,,Andesite,59.24,16.87,6.61,4.72,8.19,2.31,1.21,0.73,0.69,0.56,0.61
+ECL1499,Serua,Serua,T-3,,Andesite,59.89,16.98,6.04,4.41,7.99,2.47,1.39,0.75,0.7,0.58,0.62
+ECL1499,Serua,Serua,T-5,,Andesite,57.56,17.04,6.83,4.9,9.32,2.45,1.06,0.71,0.68,0.54,0.6
+ECL1499,Serua,Serua,T-8,,Andesite,59.52,16.64,6.4,5.02,8.34,2.13,1.09,0.71,0.67,0.55,0.61
+ECL1499,Ambon,Ambon,AS2,4.58 ±0.41,Basalt,52.56,16.86,7.43,7.09,11.7,2.83,0.35,0.63,0.62,0.47,0.55
+ECL1499,Ambon,Ambon,AS9,,Basalt,50.56,18.03,7.45,6.43,14.81,1.66,0.29,0.56,0.55,0.42,0.5
+ECL1502,Halmahera,Jailolo,NH5,Recent blocky lava that reaches coast,Basalt,53.25,18.5,9.32,5.02,10.01,2.39,0.61,0.68,0.62,0.47,0.51
+ECL1502,Halmahera,Jailolo,NH7,Thin lava under tuff; Kailupa(?),Andesite,58.86,18.0,6.04,4.15,8.22,3.23,0.79,0.73,0.69,0.56,0.61
+ECL1502,Halmahera,Jailolo,NH10,Lava from older caldera,Basalt,50.43,20.43,8.69,4.33,12.11,2.22,0.86,0.67,0.62,0.46,0.5
+ECL1502,Halmahera,Jailolo,NH11,Lava from Idamdehe Dome,Andesite,55.96,18.55,6.9,4.72,9.23,2.86,1.0,0.71,0.68,0.53,0.59
+ECL1502,Halmahera,Jailolo,NH12,Lava from Idamadahe(?) Dome,Basalt,50.46,19.46,8.91,5.71,11.9,2.14,0.5,0.63,0.58,0.43,0.49
+ECL1502,Halmahera,Jailolo,NH14,Recent lava on NW side,Andesite,54.55,18.1,8.59,4.69,9.49,2.89,0.76,0.72,0.67,0.5,0.55
+ECL1502,Halmahera,Sahu,NH20,Recent lava on east side,Basalt,51.05,19.23,8.99,6.28,10.24,2.65,0.58,0.66,0.61,0.46,0.51
+ECL1502,Halmahera,Onu,NH33,Lava from sea cliff at Mt. Onu,Andesite,54.43,18.1,8.71,4.71,9.09,2.95,1.01,0.74,0.69,0.52,0.56
+ECL1502,Halmahera,Alon,NH34,Lava north of NH33,Andesite,55.59,18.64,8.53,3.38,8.68,3.21,0.85,0.77,0.72,0.53,0.56
+ECL1502,Halmahera,Alon,NH35,Older lava from Alon,Andesite,60.69,17.6,6.41,2.52,6.36,3.44,1.91,0.88,0.84,0.67,0.67
+ECL1502,Halmahera,Ibu,NH43,Coastal lava north of Ibu,Andesite,55.28,20.3,6.98,3.23,9.14,3.13,1.04,0.75,0.71,0.54,0.58
+ECL1502,Halmahera,Todoke,NH44,Lava south shore Lake Todoke,Andesite,60.9,16.75,7.2,2.57,5.95,3.67,1.85,0.91,0.88,0.67,0.67
+ECL1502,Halmahera,Ibu,NH45,River boulders,Basalt,52.54,19.42,8.44,4.78,10.15,3.03,0.67,0.69,0.65,0.48,0.53
+ECL1502,Halmahera,Ibu,NH46,Lava from cliff,Andesite,54.0,18.38,8.61,4.87,9.33,2.67,1.14,0.73,0.68,0.51,0.55
+ECL1502,Halmahera,Ibu,NH48,Flow from parasitic cone of Ibu,Andesite,55.45,17.85,8.22,4.6,8.58,2.82,1.49,0.77,0.72,0.55,0.58
+ECL1502,Halmahera,Gamkonara (Ibu),NH49,Boulder on crater floor,Andesite,57.36,18.53,7.13,2.83,7.45,3.65,1.37,0.85,0.79,0.6,0.62
+ECL1502,Halmahera,Rano,NH58,Obsidian boulder in crater,Rhyolite,74.72,13.52,1.83,0.19,1.24,4.51,3.66,0.51,0.57,0.59,0.74
+ECL1502,Halmahera,Tarakani,NH62,Scoria from tuff at lake,Andesite,61.9,14.21,8.26,1.68,4.91,3.74,3.62,0.82,0.88,0.71,0.7
+ECL1502,Halmahera,Tarakani,NH67,Coastal lava from near Gahla and Mamuya,Andesite,58.53,18.03,7.14,2.24,7.04,3.49,2.46,0.85,0.87,0.68,0.67
+ECL1502,Halmahera,Tarakani,NH69,Lava east of NH67,Andesite,60.05,16.68,7.39,2.39,6.03,3.65,2.66,0.89,0.93,0.72,0.69
+ECL1502,Hiri,,H1,Tg. Kaocina on west coast.,Basalt,51.98,18.96,9.6,4.94,9.73,3.01,0.65,0.69,0.64,0.48,0.52
+ECL1502,Hiri,,H2,Tg. Kaocina on west coast.,Basalt,51.84,19.03,9.77,4.78,9.78,3.01,0.66,0.69,0.64,0.48,0.52
+ECL1502,Hiri,,H5,Tg. Kaocina on west coast.,Andesite,61.98,17.87,5.44,2.69,6.54,3.81,1.1,0.82,0.79,0.64,0.64
+ECL1502,Hiri,,H9,Lava from east coast,Basalt,51.6,19.04,9.39,5.07,10.44,2.88,0.56,0.68,0.62,0.46,0.51
+ECL1502,Tidore,,TD4,Lava from south coast,Andesite,56.46,18.67,7.54,3.66,7.86,3.58,1.25,0.8,0.76,0.57,0.61
+ECL1502,Tidore,,TD5,Lava from east coast,Andesite,61.41,19.39,4.64,1.5,6.47,4.06,1.73,0.79,0.77,0.74,0.63
+ECL1502,Tidore,,TD13,Lava just west of TD9,Andesite,58.01,18.52,6.86,3.37,7.32,3.3,1.72,0.83,0.78,0.61,0.63
+ECL1502,Tidore,,TD14,Lava from cliff,Andesite,54.5,19.02,8.23,4.17,8.96,3.11,1.03,0.75,0.7,0.52,0.56
+ECL1502,Mare,,MA7,West coast boulder,Basalt,52.43,19.0,8.0,5.52,10.3,2.79,0.92,0.69,0.66,0.49,0.54
+ECL1502,Mare,,MA8,West coast boulder,Andesite,61.48,18.39,5.64,2.58,6.3,3.53,1.42,0.83,0.8,0.65,0.64
+ECL1502,Maitara,,MI1,Lava from west coast,Basalt,50.18,20.39,9.47,5.3,10.93,2.11,0.62,0.63,0.58,0.44,0.48
+ECL1502,Ternate,,T1,Lavas and boulders at Kp Tatau.,Andesite,61.75,16.72,6.89,2.04,5.14,4.09,2.22,0.9,0.9,0.74,0.71
+ECL1502,Ternate,,T2,Lavas and boulders at Kp Tatau.,Andesite,57.31,17.74,7.85,3.62,7.63,3.26,1.6,0.83,0.78,0.59,0.61
+ECL1502,Ternate,,T3,Lavas and boulders at Kp Tatau.,Andesite,56.81,17.81,7.89,3.76,7.78,3.32,1.59,0.83,0.78,0.59,0.61
+ECL1502,Ternate,,T7,Lavas and boulders at Kp Tatau.,Andesite,53.81,18.7,9.03,4.55,8.8,2.93,1.11,0.75,0.68,0.52,0.55
+ECL1502,Ternate,,T8,Older lavas north of above,Andesite,61.28,17.54,6.04,2.18,6.25,3.73,2.08,0.87,0.86,0.7,0.69
+ECL1502,Ternate,,T9,Older lavas north of above,Andesite,54.01,18.66,8.76,4.61,8.85,3.09,0.93,0.74,0.69,0.51,0.55
+ECL1502,Ternate,,T10,Lava from west coast,Andesite,56.9,17.62,8.55,3.28,7.45,3.46,1.55,0.86,0.79,0.59,0.61
+ECL1502,Ternate,,T15,Lava from west coast,Andesite,54.37,18.34,8.93,4.53,8.55,3.16,1.03,0.76,0.7,0.52,0.56
+ECL1502,Ternate,,T16,Lava from north coast,Andesite,58.69,17.6,7.52,3.04,6.56,3.72,1.82,0.9,0.84,0.64,0.65
+ECL1502,Moti,,MT1,Lava from south coast cliff outcrop,Andesite,60.92,19.33,5.19,1.8,6.87,4.16,1.1,0.77,0.76,0.67,0.62
+ECL1502,Moti,,MT3,Lava from south coast cliff outcrop,Basalt,50.65,19.42,8.29,6.15,10.57,3.17,0.67,0.67,0.64,0.47,0.53
+ECL1502,Moti,,MT4,Lava from south coast cliff outcrop,Andesite,53.66,21.19,7.34,3.29,8.84,3.77,0.96,0.76,0.73,0.54,0.58
+ECL1502,Moti,,MT7,Lava from north coast.,Andesite,55.99,19.3,7.55,3.24,8.41,3.71,0.98,0.79,0.75,0.56,0.59
+ECL1502,Moti,,MT11,Lava from small cone near coast ,Basalt,52.74,18.89,7.66,5.33,10.08,3.43,0.79,0.7,0.67,0.51,0.57
+ECL1502,Makian,,MK1,Lava blocks on east coast beach,Andesite,54.35,19.72,6.98,3.89,8.96,3.53,1.55,0.78,0.73,0.57,0.61
+ECL1502,Makian,,MK2,Lava blocks on east coast beach,Andesite,59.29,18.6,6.26,2.68,7.2,4.01,1.29,0.84,0.8,0.63,0.66
+ECL1502,Makian,,MK3,Lava on SE side of island,Basalt,52.84,19.72,8.58,4.72,9.51,2.91,0.86,0.71,0.66,0.49,0.53
+ECL1502,Makian,,MK4,Lava from cliff,Andesite,59.59,18.86,6.07,2.53,6.83,4.22,1.27,0.83,0.82,0.64,0.66
+ECL1502,Makian,,MK6,Clasts in lahar deposits on SW coast ,Andesite,60.54,18.3,5.83,2.77,6.69,3.7,1.46,0.85,0.8,0.64,0.65
+ECL1502,Makian,,MK8,Three domes or parasitic cones nearby,Andesite,60.05,18.61,5.92,2.7,6.76,3.92,1.32,0.84,0.8,0.64,0.65
+ECL1502,Makian,,MK9,Clasts in lahar deposits on SW coast ,Andesite,59.13,18.68,6.33,2.97,6.86,3.91,1.39,0.85,0.8,0.63,0.66
+ECL1502,Makian,,MK10,Clasts in lahar deposits on SW coast ,Basalt,50.77,19.6,8.79,5.06,10.82,2.56,1.28,0.71,0.65,0.49,0.53
+ECL1502,Gunange,Goraici Group,GG-1,P. Guhnange; lava from cliff on NE,Andesite,59.36,19.56,5.0,1.92,9.31,2.81,1.09,0.7,0.69,0.61,0.57
+ECL1502,Gunange,Goraici Group,GG-2,P. Guhnange; lava from cliff on NE,Basalt,51.53,20.13,8.32,5.23,10.86,2.35,0.62,0.65,0.61,0.45,0.51
+ECL1502,P.Tamako,Goraici Group,GI-1,P. Tamako-Mafatu; boulder from North-most tip,Andesite,58.66,18.38,6.77,2.82,7.55,3.6,1.41,0.84,0.79,0.61,0.64
+ECL1502,P.Tamako,Goraici Group,GI-2,nan,Andesite,56.54,18.25,7.46,4.06,8.95,3.25,0.7,0.73,0.7,0.53,0.58
+ECL1502,Kayoa,,KJ7,SE corner of island,Andesite,54.55,17.55,10.29,3.38,6.51,4.09,2.48,0.89,0.84,0.65,0.63
+ECL1502,Muari,,MR1,Massive lava above pillows 5m above sea lebel,Andesite,57.44,16.74,9.68,3.21,7.69,3.22,0.88,0.81,0.74,0.55,0.57
+ECL1502,Muari,,MR6,Pillow lava glassy rind,Andesite,56.43,14.46,12.14,3.37,7.83,3.26,1.2,0.78,0.72,0.54,0.54
+ECL1502,Latalata,,LL1,Pillow lava south side of island,Basalt,52.45,17.68,10.6,4.48,10.52,2.81,0.43,0.67,0.62,0.46,0.51
+ECL1502,Latalata,,LL6,Columnar jointed lava under pillows on north side of island,Andesite,54.9,17.27,10.84,3.56,8.64,3.0,0.55,0.73,0.68,0.5,0.53
+ECL1502,Bacan,,BC1,Hb-andesite lava,Dacite,66.45,15.74,4.36,2.37,5.08,3.0,2.41,0.81,0.84,0.76,0.64
+ECL1502,Bacan,,BC3,Hb-andesite lava,Dacite,65.76,15.74,4.8,2.51,5.34,2.87,2.31,0.83,0.84,0.74,0.64
+ECL1502,Bacan,,BC6,Hb-andesite lava from P. Gandaha,Dacite,67.44,16.08,3.89,1.88,4.74,2.94,2.49,0.77,0.79,0.81,0.63
+ECL1502,Bacan,GET ONE OF 11-22,BC11,P. Gilalang boulder,Andesite,58.62,17.54,6.21,4.53,8.61,2.61,1.09,0.72,0.68,0.56,0.61
+ECL1502,Bacan,,BC12,P. Gilalang boulder,Andesite,57.63,16.83,6.43,5.54,9.28,2.29,1.28,0.7,0.67,0.55,0.61
+ECL1502,Bacan,,BC15,Bacan itself; boulder from tuff,Andesite,58.16,17.6,6.43,4.75,8.74,2.32,1.29,0.72,0.68,0.55,0.61
+ECL1502,Bacan,,BC16,Bacan itself; boulder from tuff,Andesite,58.06,17.58,6.46,4.7,8.91,2.42,1.16,0.71,0.68,0.55,0.6
+ECL1502,Bacan,,BC22,Dike? within above,Andesite,62.41,17.73,5.54,2.48,6.26,3.66,1.31,0.82,0.81,0.66,0.65
+ECL1502,Bacan,GET ONE OF 30 OR 33,BC30,Nusa Babi,Andesite,61.38,17.95,5.76,2.62,6.62,3.4,1.63,0.84,0.8,0.66,0.65
+ECL1502,Bacan,,BC33,Nusa Raloid outcrop,Andesite,62.83,16.94,6.25,3.72,5.74,1.95,1.78,0.81,0.76,0.63,0.65
+ECL1502,Bacan,,BC35,Nusa Raloid outcrop,Basalt,52.15,19.11,9.4,5.67,8.09,3.61,0.96,0.74,0.68,0.51,0.55
+ECL1502,Bacan,,BC38,Bacan itself; congolmerate,Basalt,53.55,16.09,12.05,4.49,8.87,3.08,0.7,0.71,0.66,0.5,0.52
+ECL1502,Bacan,,BC39,Tg. Maregarango,Basalt,53.12,16.16,11.26,5.34,9.53,3.03,0.63,0.69,0.64,0.49,0.52
+ECL1502,Kasiruta,,KR6,West part of idland; Tg Dakah lava,Basalt,51.48,17.35,11.55,5.06,11.36,2.01,0.29,0.61,0.57,0.43,0.47
+ECL1502,Kasiruta,,KR10,North coast pillow lava,Andesite,53.77,14.77,13.53,3.78,8.84,3.2,0.82,0.72,0.67,0.5,0.51
+ECL1502,Dowara,,DW2,Dowora Ici lava,Andesite,57.45,16.29,6.49,5.86,8.4,2.87,1.84,0.77,0.72,0.6,0.64
+ECL1502,Dowara,,DW3,Dowora Ici,Andesite,57.56,16.41,6.53,5.59,8.44,2.9,1.78,0.77,0.72,0.6,0.64
+ECL1502,Dowara,,DW5,Dowora laml hb-bearing lava near village,Andesite,60.94,16.4,4.95,4.03,6.49,3.6,2.91,0.81,0.83,0.71,0.68
+ECL1502,Woka,,W1,Central hill boulder,Andesite,53.2,17.63,7.08,6.35,9.35,2.88,2.32,0.75,0.72,0.59,0.63
+ECL1502,Ganone,,G1,Boulder from east side of island,Andesite,63.04,17.05,3.62,3.19,4.94,2.74,4.63,0.74,0.76,0.7,0.7
+ECL1502,Ganone,,G2,Boulder from south side of island,Andesite,63.26,16.97,3.23,2.96,4.65,2.99,5.2,0.74,0.75,0.7,0.7
+ECL1502,Joronga,,DJ1,Bt-rich clasts from conglomerate,Andesite,62.83,15.73,4.17,3.79,4.13,2.26,6.31,0.68,0.7,0.68,0.67
+ECL1502,Kubi,,K1,Boulder,Andesite,54.62,17.82,6.54,6.39,7.43,3.24,3.14,0.74,0.78,0.62,0.68
+ECL1502,Kubi,,K2,Boulder,Andesite,54.62,18.08,6.58,6.48,7.58,2.9,2.95,0.73,0.76,0.62,0.67
+ECL1502,Gemutu,,GT1,Boulder on coast,Basalt,52.89,15.96,7.06,9.97,8.41,2.89,1.85,0.74,0.7,0.57,0.61
+ECL1502,Kekik,,KK1,Ol-bearing lava NE side island,Basalt,52.94,16.32,7.91,7.15,8.64,2.9,2.61,0.75,0.76,0.61,0.63
+ECL1502,Lawin,,L6,West coast of Lawien itself. ,Dacite,65.11,15.64,2.53,2.92,3.24,2.7,6.94,0.67,0.67,0.67,0.64
+ECL1502,Lawin,,L7,L6+L7 from boulders,Dacite,65.28,15.6,2.64,2.91,3.13,2.65,6.93,0.66,0.67,0.67,0.64
+ECL1502,Pisang,,P2,Lava; all Pisang bt-rich.,Andesite,63.01,18.32,3.04,2.37,4.54,4.67,3.33,0.76,0.84,0.77,0.69
+ECL1502,Pisang,,P3,Lava,Andesite,62.18,17.47,3.5,2.81,4.99,4.78,3.46,0.81,0.84,0.77,0.71
+ECL1502,Pisang,,P4,Inclusion in flow,Basalt,53.16,18.8,6.79,5.44,9.42,3.33,1.76,0.75,0.71,0.57,0.62
+ECL1502,Pisang,,P7,Inclusion in flow,Andesite,56.03,18.52,5.66,4.94,7.48,3.94,2.32,0.8,0.77,0.65,0.66
+ECL1502,Yef Doif,,JD-1,Boulders from tuffs to breccuas,Dacite,66.9,14.82,4.77,2.95,5.3,3.64,1.31,0.83,0.78,0.68,0.62
+ECL1502,Yef Doif,,JD-5,nan,Dacite,67.56,14.61,4.66,2.82,5.06,3.72,1.27,0.82,0.78,0.69,0.61
+ECL1503,Sulawesi,Tompaluan,MM3,nan,Andesite,59.07,16.67,7.04,3.19,6.83,4.19,1.8,0.9,0.84,0.66,0.68
+ECL1503,Sulawesi,Tompaluan,MM7,1974-76 bomb,Andesite,58.9,16.75,7.0,3.18,6.89,4.31,1.8,0.9,0.84,0.66,0.68
+ECL1503,Sulawesi,Aesoput,MM12,1906-12,Basalt,50.36,20.3,9.4,4.95,10.72,2.8,0.35,0.65,0.6,0.44,0.49
+ECL1503,Sulawesi,Aesoput,MM20,1906-12,Basalt,50.33,20.01,9.62,5.07,10.55,2.93,0.34,0.65,0.6,0.44,0.49
+ECL1503,Sulawesi,Soputan,MM27,1966,Basalt,50.24,19.05,10.26,6.16,10.11,2.67,0.38,0.63,0.59,0.44,0.49
+ECL1503,Sulawesi,Soputan,MM28,1966,Basalt,51.2,19.62,9.4,4.98,9.94,3.32,0.39,0.68,0.63,0.46,0.51
+ECL1503,Sulawesi,Soputan,MM29,1966,Basalt,50.09,18.99,10.3,6.08,10.22,2.78,0.39,0.63,0.59,0.44,0.49
+ECL1503,Sulawesi,Batuangus,MM36,1880,Andesite,54.5,19.01,8.51,2.95,9.36,3.42,0.95,0.79,0.74,0.54,0.56
+ECL1503,Sulawesi,Batuangus,MM41,1821,Andesite,54.54,18.99,8.55,2.9,9.2,3.58,0.91,0.8,0.74,0.54,0.57
+ECL1503,Sulawesi,Batuangus,MM42,1801,Andesite,55.07,18.75,8.56,2.81,9.0,3.51,0.97,0.81,0.75,0.55,0.57
+ECL1503,Sulawesi,N.Coast,MM48,lava,Basalt,52.85,18.77,9.12,4.48,9.64,3.21,0.69,0.72,0.66,0.49,0.54
+ECL1503,Sulawesi,N.Coast,MM51,lava,Basalt,52.01,17.82,9.06,5.57,10.34,3.34,0.71,0.71,0.65,0.49,0.55
+ECL1503,Sulawesi,Lokon,MM58,bomb Kajawu,Basalt,50.74,18.77,9.58,5.79,10.15,3.08,0.65,0.68,0.63,0.47,0.52
+ECL1503,Sulawesi,Tompaluan,MM70,1958 bomb,Andesite,58.84,16.88,7.05,3.22,7.03,4.04,1.76,0.89,0.83,0.65,0.67
+ECL1503,Sulawesi,Lokon,MM73,bomb main crk,Basalt,49.12,18.61,9.44,6.7,11.98,2.61,0.46,0.63,0.58,0.44,0.5
+ECL1503,Sulawesi,Duasudara,PJ2c,Bomb,Andesite,59.11,16.19,8.67,2.9,6.64,3.76,1.2,0.89,0.82,0.61,0.61
+ECL1503,Sulawesi,Duasudara,PJ3,Boulder,Andesite,56.62,17.14,8.99,3.65,8.12,3.45,0.8,0.8,0.73,0.54,0.58
+ECL1503,Sulawesi,Duasudara,PJ5,Stream boulder,Basalt,53.44,17.97,9.48,4.81,9.41,2.95,0.69,0.71,0.65,0.49,0.53
+ECL1503,Sulawesi,Duasudara,PJ8,Boulder,Basalt,50.16,20.06,9.69,4.83,10.58,3.11,0.34,0.66,0.61,0.45,0.5
+ECL1503,Sulawesi,Duasudara,PJ9,Boulder,Andesite,53.98,19.1,8.84,3.67,9.05,3.41,0.58,0.75,0.69,0.51,0.54
+ECL1503,Sulawesi,Duasudara,PJ10,dike,Basalt,52.95,18.39,9.91,4.26,8.92,3.65,0.48,0.73,0.67,0.5,0.54
+ECL1503,Sulawesi,Tongkoko,PJ11,block,Basalt,52.87,17.61,9.93,4.94,9.78,2.87,0.68,0.7,0.64,0.48,0.53
+ECL1503,Sulawesi,Tongkoko,PJ13,Block,Andesite,56.85,19.37,4.2,3.83,8.95,3.5,2.14,0.77,0.72,0.66,0.6
+ECL1503,Sulawesi,Tongkoko,PJ14,Block,Basalt,51.37,18.97,8.15,4.58,10.09,3.61,1.95,0.8,0.74,0.57,0.6
+ECL1503,Sulawesi,Tongkoko,PJ18,block,Andesite,54.83,18.56,8.87,3.45,9.07,3.0,0.87,0.77,0.7,0.52,0.55
+ECL1503,Sulawesi,Tongkoko,PJ20,Dome,Dacite,64.6,16.25,5.72,1.44,4.69,4.62,1.45,0.79,0.78,0.78,0.7
+ECL1503,Sulawesi,Tongkoko,PJ21,Dome,Dacite,64.63,16.14,5.76,1.59,4.9,4.29,1.42,0.81,0.81,0.75,0.68
+ECL1503,Sulawesi,Tongkoko,PJ22,Dome,Dacite,65.46,16.17,4.92,1.29,4.53,4.84,1.63,0.77,0.76,0.82,0.69
+ECL1503,Sulawesi,Batuangus,PJ23,1880,Andesite,54.93,18.89,8.63,2.92,9.16,3.21,0.91,0.79,0.73,0.53,0.56
+ECL1503,Sulawesi,Lambeh,PJ26,nan,Basalt,53.49,18.78,9.17,4.28,9.5,2.86,0.61,0.71,0.65,0.48,0.53
+ECL1503,Sulawesi,Lambeh,PJ27,lava,Basalt,51.23,20.59,8.25,4.37,11.04,2.9,0.34,0.65,0.63,0.45,0.51
+ECL1503,Tagulandang,,PJ29,west side dome,Andesite,57.73,18.02,7.2,3.77,7.89,3.41,0.97,0.77,0.74,0.56,0.61
+ECL1503,Tagulandang,,PJ30,west side dome,Andesite,60.29,17.8,6.55,2.9,6.95,3.63,0.98,0.82,0.78,0.6,0.64
+ECL1503,Tagulandang,,PJ31,west side dome,Andesite,58.73,18.37,7.2,3.35,6.95,3.49,0.95,0.8,0.76,0.58,0.61
+ECL1503,Ruang,,PJ34,1949,Andesite,54.25,19.28,8.06,4.15,9.2,3.43,0.64,0.72,0.7,0.51,0.56
+ECL1503,Ruang,,PJ36,Crater rim,Andesite,55.39,19.21,7.92,3.83,8.73,3.24,0.7,0.74,0.71,0.52,0.56
+ECL1503,Ruang,,PJ38,crater floor,Basalt,54.21,19.51,8.04,4.24,9.24,3.39,0.38,0.7,0.68,0.49,0.55
+ECL1503,Ruang,,PJ42,block,Basalt,52.68,19.72,8.49,4.68,10.0,2.85,0.55,0.68,0.64,0.47,0.52
+ECL1503,Tagulandang,,PJ47,N side boulder,Andesite,57.86,18.32,7.22,3.45,7.81,3.42,0.93,0.78,0.74,0.56,0.6
+ECL1503,Tagulandang,,PJ48,N side boulder,Andesite,54.56,18.55,7.63,5.03,9.25,3.12,0.8,0.71,0.68,0.51,0.57
+ECL1503,Ruang,,PJ50,lava,Andesite,57.12,18.81,7.38,3.29,8.36,3.38,0.73,0.76,0.73,0.54,0.58
+ECL1503,Api Siau,Karangetan,PJ54,S foot,Andesite,56.59,18.3,7.6,3.53,7.87,3.78,1.21,0.81,0.77,0.58,0.61
+ECL1503,Api Siau,SW corner,PJ56,lava,Andesite,50.34,20.25,9.4,3.87,11.13,2.92,0.87,0.71,0.65,0.48,0.51
+ECL1503,G. Tamata,,PJ57,boulder,Andesite,55.93,19.78,7.05,2.73,8.41,3.84,1.17,0.81,0.77,0.58,0.61
+ECL1503,G. Tamata,,PJ58,boulder,Basalt,52.39,18.25,10.26,4.12,9.15,3.45,0.9,0.74,0.68,0.51,0.54
+ECL1503,G. Bogangbalo,,PJ63,NW foot,Andesite,57.15,18.27,7.38,3.42,7.87,3.92,1.05,0.81,0.77,0.58,0.62
+ECL1503,G. Bogangbalo,,PJ65,SE foot,Andesite,61.48,17.39,5.96,2.51,6.53,3.99,1.27,0.84,0.82,0.65,0.66
+ECL1503,G. Tamata,,PJ66,boulder,Andesite,57.6,18.23,7.38,3.2,7.59,3.53,1.47,0.84,0.79,0.6,0.62
+ECL1503,Api Siau,Karangetan,PJ67,summit,Basalt,53.35,18.05,9.06,4.35,9.3,3.52,1.14,0.78,0.71,0.53,0.57
+ECL1503,Api Siau,Karangetan,PJ69,1974,,52.79,17.99,9.08,4.6,9.6,3.4,1.22,0.77,0.7,0.53,0.57
+ECL1503,Makalehi,,PJ70,block in tuff,Andesite,58.91,19.4,5.2,2.04,6.82,4.16,2.46,0.82,0.84,0.73,0.67
+ECL1503,Makalehi,,PJ71,lava,Dacite,66.32,16.74,3.55,1.12,4.74,4.42,2.43,0.76,0.77,0.88,0.67
+ECL1503,Makalehi,,PJ73,block in tuff,Basalt,51.7,18.08,9.01,5.05,10.98,2.93,1.02,0.72,0.66,0.5,0.54
+ECL1503,Makalehi,,PJ74,block in tuff,Basalt,51.75,18.03,9.0,4.99,11.15,2.84,1.04,0.72,0.65,0.5,0.54
+ECL1503,Sulawesi,Buhias,PJ77,lava,Basalt,53.24,21.07,7.75,2.77,9.72,3.62,0.58,0.75,0.72,0.52,0.55
+ECL1503,Sulawesi,Buhias,PJ79,boulder,Basalt,50.89,20.56,9.12,3.73,9.88,3.78,0.62,0.74,0.68,0.49,0.53
+ECL1503,Sulawesi,Pahepa,PJ80,lava,Andesite,54.08,20.87,7.43,2.32,9.44,4.0,0.63,0.74,0.76,0.55,0.57
+ECL1503,Sulawesi,Pahepa,PJ81,lava,Andesite,53.62,21.26,7.45,2.49,9.43,3.9,0.64,0.74,0.75,0.54,0.56
+ECL1503,Sulawesi,Pahepa,PJ82,dike,Basalt,49.56,20.25,9.6,4.17,11.72,2.87,0.46,0.66,0.61,0.45,0.49
+ECL1503,Sulawesi,Pahepa,PJ83,lava,Basalt,49.15,19.88,10.27,4.31,11.99,2.59,0.41,0.64,0.59,0.43,0.47
+ECL1503,Sangihe,Awu,PJ84,N foot,Andesite,53.88,18.94,7.98,3.67,9.23,3.83,1.26,0.79,0.75,0.56,0.59
+ECL1503,Sangihe,Awu,PJ86,1966,Andesite,54.4,18.95,7.89,3.7,9.03,3.5,1.37,0.79,0.75,0.56,0.59
+ECL1503,Sangihe,Awu,PJ91,S foot,Andesite,54.1,18.86,8.23,4.06,9.06,3.43,1.14,0.77,0.72,0.54,0.57
+ECL1503,Sangihe,G. Sahendaruman,PJ93,Block in tuff,Andesite,58.97,18.64,6.96,2.97,6.64,3.48,1.41,0.85,0.8,0.61,0.63
+ECL1503,Sangihe,G. Sahendaruman,PJ96,lava,Andesite,58.9,18.42,6.78,2.63,7.22,3.54,1.51,0.84,0.81,0.62,0.64
+ECL1503,Sangihe,Awu,PJ98,summit,Andesite,55.73,18.59,7.44,3.47,8.49,3.94,1.22,0.81,0.76,0.58,0.61
+ECL1503,Sangihe,Awu,PJ103,inclusion,Andesite,55.64,18.62,7.36,3.43,8.54,4.05,1.28,0.81,0.77,0.58,0.62
+ECL1503,Kalama,Banua Wuhu,PJ105,lava,Andesite,55.11,19.47,7.45,3.3,9.58,2.83,1.21,0.76,0.71,0.54,0.57
+ECL1503,Kalama,Banua Wuhu,PJ106,lava,Andesite,55.04,19.68,7.09,3.25,9.46,3.1,1.32,0.77,0.72,0.56,0.59
+ECL1503,Kalama,Banua Wuhu,PJ107,boulder,Basalt,49.98,17.21,10.35,5.68,11.24,3.0,1.24,0.71,0.65,0.5,0.54
+ECL1503,Mahengetang,Banua Wuhu,PJ108,boulder,Andesite,58.71,18.06,6.23,3.16,8.0,3.42,1.44,0.81,0.76,0.61,0.64
+ECL1503,Mahengetang,Banua Wuhu,PJ109,lava,Andesite,61.22,17.67,5.37,2.44,7.06,3.78,1.59,0.83,0.81,0.67,0.65
+ECL1503,Mahengetang,Banua Wuhu,PJ114,nan,Andesite,60.74,17.82,5.67,2.56,7.32,3.36,1.61,0.82,0.8,0.65,0.64
+ECL1503,Kahakitang,Banua Wuhu,PJ115,Block in tuff,Basalt,51.42,20.23,7.97,3.87,10.2,3.74,1.19,0.76,0.72,0.53,0.57
+ECL1503,Kahakitang,Banua Wuhu,PJ117,lava,Basalt,50.86,16.87,8.69,7.3,11.06,3.06,1.01,0.7,0.65,0.5,0.56
+ECL1503,Banua Wuhu,Banua Wuhu,PJ118,block,Andesite,59.71,17.94,5.98,2.88,7.64,3.35,1.58,0.84,0.78,0.63,0.64
+ECL1503,Manado Tua,,PJ122,lava,Andesite,58.27,18.42,6.53,2.87,7.53,3.6,1.58,0.85,0.79,0.62,0.65
+ECL1503,Manado Tua,,PJ125,lava,Basalt,47.76,18.67,10.55,5.97,11.55,2.98,1.0,0.67,0.61,0.47,0.51
+ECL1503,Bunaken,E of M Tua,PJ126,Block in tuff,Basalt,52.15,19.0,10.33,3.8,8.51,3.59,0.93,0.76,0.69,0.52,0.54
+ECL1503,Sulawesi,Empung,PJ130,main crk,Dacite,67.35,15.18,4.39,1.29,3.56,4.55,2.71,0.72,0.77,0.9,0.7
+ECL1503,Sulawesi,Tompaluan,PJ131,crater rim,Andesite,60.1,16.48,6.97,3.21,6.72,3.57,1.76,0.88,0.83,0.65,0.66
+ECL1503,Sulawesi,Tompaluan,PJ132,crater rim,Andesite,59.95,16.56,6.94,3.23,6.66,3.73,1.75,0.89,0.83,0.65,0.67
+ECL1503,Sulawesi,Empung,PJ133,lava,Dacite,67.57,15.15,4.25,1.24,3.43,4.68,2.76,0.71,0.76,0.91,0.7
+ECL1503,Sulawesi,Empung,PJ134,lava,Dacite,67.73,15.16,4.22,1.24,3.79,4.23,2.71,0.73,0.78,0.9,0.68
+ECL1503,Sulawesi,Empung,PJ135,lava,Andesite,59.98,16.44,6.91,3.0,6.61,3.89,1.97,0.92,0.85,0.67,0.68
+ECL1503,Sulawesi,Empung,PJ136,lava,Andesite,59.67,16.57,7.06,3.15,6.78,3.73,1.84,0.9,0.84,0.65,0.67
+ECL1503,Sulawesi,Lokon,PJ137,main crk,Basalt,51.99,18.97,9.36,4.1,10.19,3.33,0.69,0.72,0.66,0.49,0.53
+ECL1503,Sulawesi,Lokon,PJ139, main crk,Basalt,51.72,18.78,9.39,4.29,10.2,3.6,0.66,0.73,0.67,0.49,0.54
+ECL1503,Sulawesi,Lokon,PJ145,Kasehe boulder,Basalt,52.75,18.92,9.95,3.97,8.55,3.46,0.94,0.76,0.69,0.52,0.54
+ECL1503,Sulawesi,Irang,PJ146,dome,Andesite,62.32,16.39,6.1,1.86,4.69,5.4,1.91,0.84,0.82,0.78,0.75
+ECL1503,Sulawesi,Irang,PJ147,dome,Andesite,61.81,16.51,6.17,2.08,4.85,5.38,1.86,0.85,0.84,0.76,0.74
+ECL1503,Sulawesi,Irang,PJ148,dome,Rhyolite,72.28,14.03,2.45,0.6,1.88,4.92,3.33,0.57,0.63,0.72,0.71
+ECL1503,Sulawesi,Mahawu,PJ149,boulder,Andesite,64.1,15.45,5.76,2.2,5.14,3.74,2.54,0.85,0.89,0.76,0.7
+ECL1503,Sulawesi,Mahawu,PJ150,crater rim,Andesite,61.97,15.84,6.54,3.03,5.41,3.63,2.53,0.89,0.89,0.72,0.7
+ECL1503,Sulawesi,Mahawu,PJ151,N slope,Andesite,60.01,16.6,6.86,2.87,6.76,3.78,1.9,0.91,0.85,0.66,0.68
+ECL1503,Sulawesi,Klabat,PJ158,S foot,Andesite,57.17,17.74,7.71,3.69,7.81,3.81,0.95,0.8,0.76,0.57,0.61
+ECL1503,Sulawesi,Klabat,PJ163,crater rim,Andesite,57.62,17.57,7.68,3.57,7.69,3.72,1.02,0.81,0.77,0.57,0.61
+ECL1503,Sulawesi,Lembeh,PJ165,lava,Andesite,61.43,19.25,4.92,1.16,6.53,4.08,1.66,0.77,0.75,0.76,0.64
+ECL1503,Sulawesi,Lembeh,PJ166,lava,Dacite,65.9,16.57,4.82,1.81,4.41,3.47,2.23,0.81,0.8,0.79,0.67
+ECL1503,Sulawesi,Lembeh,PJ167,lava,Andesite,55.46,18.77,8.04,4.01,7.98,3.53,1.02,0.78,0.74,0.55,0.58
+ECL1503,Sulawesi,Lembeh,PJ168,lava,Basalt,54.22,18.41,8.65,4.28,9.29,2.85,1.02,0.74,0.69,0.52,0.55
+ECL1503,Sulawesi,Lembeh,PJ169,lava,Andesite,61.85,16.58,6.03,2.9,6.12,3.09,2.34,0.87,0.84,0.69,0.69
+ECL1503,Sulawesi,Aesoput,PJ172,lava,Basalt,50.31,19.27,9.96,6.01,10.28,2.68,0.34,0.63,0.59,0.44,0.49
+ECL1503,Sulawesi,Aesoput,PJ175,lava,Basalt,50.6,19.88,9.59,5.12,10.45,2.83,0.35,0.65,0.6,0.44,0.49
+ECL1503,Sulawesi,Soputan,PJ176,block,Basalt,49.8,19.09,10.46,6.55,10.09,2.6,0.27,0.61,0.57,0.43,0.48
+ECL1503,Sulawesi,Empung,PJ184,lava,Andesite,61.6,18.01,5.05,1.53,5.79,4.83,2.07,0.82,0.8,0.78,0.69
+ECL1503,Sulawesi,Lokon,PJ185,N foot,Andesite,54.76,18.16,8.52,3.9,8.31,3.99,1.13,0.81,0.75,0.56,0.59
+ECL1503,Sulawesi,Ambang,PJ186,nan,Andesite,61.24,17.53,5.75,3.27,6.57,3.46,1.2,0.81,0.77,0.63,0.64
+ECL1503,Lipang,,nan2-78,lava,Andesite,56.11,18.66,7.19,3.69,8.37,3.68,1.33,0.8,0.75,0.58,0.61
+ECL1503,Lipang,,nan3-78,cumulate in 2-78,Basalt,46.28,20.68,10.76,5.61,12.37,2.48,0.51,0.6,0.55,0.41,0.46
+ECL1503,Liang,,nan5-78,lava,Basalt,49.66,16.63,10.48,5.95,12.3,2.59,1.2,0.69,0.62,0.49,0.53
+ECL1503,Toade,,nan6-78,dike,Basalt,49.63,18.69,10.32,4.96,10.82,2.92,1.19,0.71,0.64,0.49,0.52
+ECL1503,Kawaluso,,nan13-78,nan,Andesite,56.85,19.37,4.2,3.83,8.95,3.5,2.14,0.77,0.72,0.66,0.6
+ECL1503,Kawaluso,,nan14-78,nan,Basalt,51.37,18.97,8.15,4.58,10.09,3.61,1.95,0.8,0.74,0.57,0.6
+ECL1503,Kawaluso,,nan15-78,nan,Andesite,55.46,18.39,6.71,3.72,8.47,3.94,2.27,0.83,0.79,0.64,0.66
+ECL1503,Kawaluso,,nan17-78,lava,Andesite,55.6,19.03,6.27,3.39,8.89,3.94,1.84,0.83,0.77,0.62,0.65
+ECL1503,Kawaluso,,nan19-78,inclusion,Basalt,54.18,19.02,7.15,4.1,9.35,2.93,2.13,0.79,0.74,0.59,0.61
+ECL1503,Kawio,,nan24-78,lava,Basalt,50.19,14.46,10.21,7.14,12.25,2.96,1.92,0.73,0.66,0.52,0.54
+ECL1503,Kawio,,nan25-78,lava,Basalt,50.21,14.17,9.98,7.62,12.24,2.73,1.87,0.71,0.65,0.51,0.53
+ECL1503,Kawio,,nan26-78,lava,Basalt,50.44,14.17,10.0,7.45,12.23,2.7,1.82,0.71,0.64,0.51,0.53
+ECL1503,Kawio,,nan29-78,dike,Basalt,50.0,15.37,10.62,6.16,11.86,2.75,1.97,0.74,0.67,0.53,0.54
+ECL1503,Kawio,,nan31-78,Block in tuff,Andesite,56.91,18.66,6.82,3.48,8.22,3.01,1.84,0.81,0.76,0.6,0.62
+ECL1503,Kamboreng,,nan33-78,Block in tuff,Andesite,56.93,18.73,6.72,2.76,8.08,3.91,1.64,0.85,0.8,0.62,0.64
+ECL1503,Kamboreng,,nan34-78,Block in tuff,Andesite,57.47,18.76,6.42,2.73,7.41,4.3,1.7,0.86,0.82,0.64,0.67
+ECL1503,Kamboreng,,nan35-78,Block in tuff,Andesite,56.33,18.69,6.79,2.95,7.96,4.33,1.71,0.86,0.81,0.63,0.66
+ECL1503,Marore,,nan36-78,lava,Basalt,48.99,19.62,9.71,4.3,10.71,3.81,1.61,0.78,0.7,0.53,0.56
+ECL1503,Marore,,nan37-78,lava,Basalt,48.18,18.79,10.99,5.06,11.44,2.44,1.49,0.69,0.62,0.49,0.51
+ECL1503,Marore,,nan38-78,nan,Andesite,54.55,19.1,7.6,3.28,8.58,3.89,1.94,0.86,0.8,0.61,0.63
+ECL1503,Mamanuk,,nan40-78,lava,Basalt,49.82,14.12,9.79,9.59,11.8,2.61,1.19,0.66,0.6,0.47,0.51
+ECL1503,Dumarehe,,nan45-78,Block in tuff,Dacite,68.0,15.44,4.46,1.34,3.44,4.66,1.43,0.71,0.71,0.83,0.66
+ECL1503,Buang,,nan54-78,Block in tuff,Basalt,54.22,18.93,8.12,3.79,9.33,3.45,0.96,0.76,0.72,0.53,0.57
+ECL1503,Buang,,nan58-78,Block in tuff,Andesite,60.33,17.41,6.15,2.53,6.98,4.8,0.92,0.8,0.8,0.64,0.68
