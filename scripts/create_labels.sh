@@ -1,7 +1,7 @@
 #!/bin/bash
 # Create or update the repository's labels from community/labels.json.
 # Needs the GitHub CLI (gh, logged in) and python3. Run from the repo root:
-#   bash scripts/create_labels.sh cmngtny5bw-collab/1808-eruption-search
+#   bash scripts/create_labels.sh WilliamJohnSuk/1808-eruption-search
 # Licence: MIT.
 set -e
 REPO=${1:?usage: create_labels.sh owner/repo}

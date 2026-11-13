@@ -2,7 +2,7 @@
 
 Drafted 4 Nov 2026 by Claude (AI) for William John Suk, to paste into GitHub Discussions after the eight categories in `DISCUSSIONS_PLAN.md` exist. Each post is marked `ai-generated`; William posts them from his account, so he should read each one first. Titles are in **bold**; the body follows. Category names match the plan exactly.
 
-Paths such as `findings/findings.csv` are relative to the repository. Discussions do not turn them into links, so before posting either leave them as plain paths or prefix them with `https://github.com/cmngtny5bw-collab/1808-eruption-search/blob/main/`.
+Paths such as `findings/findings.csv` are relative to the repository. Discussions do not turn them into links, so before posting either leave them as plain paths or prefix them with `https://github.com/WilliamJohnSuk/1808-eruption-search/blob/main/`.
 
 ---
 
