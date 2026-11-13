@@ -1,0 +1,65 @@
+name: Propose a candidate volcano
+description: Argue that a volcano could be the 1808/09 source, or argue against one already listed.
+title: "[Candidate] "
+labels: ["candidate", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        The current list and the reasoning behind it are in [`strands/candidates/`](../blob/main/strands/candidates/). The debate itself happens in the Discussions category "Candidate volcanoes"; this form records the case so it can be tested.
+  - type: input
+    id: volcano
+    attributes:
+      label: Volcano
+      placeholder: "Name, and Smithsonian GVP number if known"
+    validations:
+      required: true
+  - type: dropdown
+    id: stance
+    attributes:
+      label: Your case
+      options:
+        - For (a new candidate or stronger support for a listed one)
+        - Against (a reason to drop or demote a listed candidate)
+    validations:
+      required: true
+  - type: textarea
+    id: timing
+    attributes:
+      label: Timing evidence
+      description: Dated deposits, radiocarbon or other ages, written records.
+  - type: textarea
+    id: chemistry
+    attributes:
+      label: Chemistry
+      description: How does its glass or rock compare with the 1809 ice glass (iron-rich andesite, about 60% SiO2, medium-K island arc)? Trace elements, if any?
+  - type: textarea
+    id: records
+    attributes:
+      label: Witnesses and records
+      description: Who could have seen it in 1808, and which of their records survive?
+  - type: textarea
+    id: test
+    attributes:
+      label: What would test it?
+      description: A core, a sample, an archive, a measurement. Who holds it?
+    validations:
+      required: true
+  - type: textarea
+    id: refs
+    attributes:
+      label: References
+  - type: dropdown
+    id: ai
+    attributes:
+      label: Did an AI system write or substantially draft this case?
+      options:
+        - "No"
+        - "AI-assisted (I checked and edited it)"
+        - "Yes, AI-generated (name the system below)"
+    validations:
+      required: true
+  - type: input
+    id: ai_system
+    attributes:
+      label: AI system and version, if any

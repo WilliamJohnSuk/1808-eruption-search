@@ -1,0 +1,22 @@
+quantity,pair_or_core,v1809,vTambora,vKrakatau,v1809_minus_or_over_Tambora
+onset_lag,NEEM-S1-WDC06A,0.3,0.2,-0.4,0.1
+onset_lag,NEEM-S1-DSS,0.0,-0.2,-0.9,0.2
+onset_lag,NGRIP-WDC06A,-0.1,0.7,-0.5,-0.8
+onset_lag,NGRIP-DSS,-0.4,0.3,-1.0,-0.7
+midpoint_lag,SU07-SP01,0.29,-0.33,,0.62
+midpoint_lag,SU07-WDC,0.17,-0.08,,0.25
+implied_date_T,WDC06A,1809.27,0.13,,
+implied_date_T,DSS,1809.17,0.53,,
+implied_date_T,NEEM-S1,1809.37,0.33,,
+implied_date_T,NGRIP,1808.47,0.83,,
+implied_date_K,WDC06A,1809.05,0.35,,
+implied_date_K,DSS,1808.85,0.85,,
+implied_date_K,NEEM-S1,1809.75,-0.05,,
+implied_date_K,NGRIP,1809.45,-0.15,,
+duration,WDC06A,2.7,3.0,2.4,
+duration,DSS,1.4,3.5,1.4,
+duration,NEEM-S1,1.5,2.0,2.7,
+duration,NGRIP,2.5,1.8,2.7,
+ratio,NEEM-S1/WDC06A (Sigl 2013),0.91,0.44,1.65,2.06
+ratio,NGRIP/DSS (Plummer 2012),1.57,0.7,0.92,2.23
+ratio,Gao 2007 hemispheric means,1.08,1.16,1.0,0.93

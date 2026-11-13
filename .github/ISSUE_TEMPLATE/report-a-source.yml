@@ -1,0 +1,105 @@
+name: Report a source
+description: Tell us about a document, log, diary, chronicle, newspaper, dataset or core that might cover late 1808 to 1810. No git needed.
+title: "[Source] "
+labels: ["source", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you. A title and a link are enough to start. Please search [`sources/register.md`](../blob/main/sources/register.md) and [`access/unavailable_sources.md`](../blob/main/access/unavailable_sources.md) first; if the source is already there, say what you can add.
+  - type: textarea
+    id: source
+    attributes:
+      label: What is the source?
+      description: Author or creator, title, type (ship's log, diary, letter book, newspaper, parish register, chronicle, ice or sediment core, dataset...).
+      placeholder: "e.g. Log of HMS Psyche, 1808-09 (TNA ADM 52/4576)"
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      description: Catalogue entry, digitized copy or DOI. Leave empty if it is not online.
+  - type: input
+    id: reference
+    attributes:
+      label: Holding archive or library, and item reference
+      placeholder: "e.g. Nationaal Archief 1.04.21 inv. 222"
+  - type: input
+    id: coverage
+    attributes:
+      label: Dates covered
+      description: The window that matters is March 1808 to mid-1810, above all November 1808 to March 1809.
+      placeholder: "e.g. Nov 1808 - Apr 1809"
+    validations:
+      required: true
+  - type: dropdown
+    id: region
+    attributes:
+      label: Region
+      options:
+        - Island Southeast Asia (Philippines, Indonesia, Timor)
+        - Melanesia and Papua New Guinea
+        - Pacific islands
+        - East Asia (China, Japan, Korea, Ryukyu, Vietnam)
+        - Indian Ocean and South Asia
+        - Latin America and the Caribbean
+        - North America
+        - Europe
+        - At sea
+        - Polar or scientific archive
+        - Other or several
+    validations:
+      required: true
+  - type: input
+    id: language
+    attributes:
+      label: Language(s)
+  - type: dropdown
+    id: access
+    attributes:
+      label: How can it be reached?
+      options:
+        - Free online, full text or images
+        - Online but paywalled or login only
+        - Library or interlibrary loan
+        - Archive only (on site or by copy order)
+        - Held by a researcher
+        - Not sure
+    validations:
+      required: true
+  - type: dropdown
+    id: hosting
+    attributes:
+      label: Could a copy be hosted in this repository?
+      description: We host what we made and link to what others scanned. Do not attach scans unless the archive allows redistribution.
+      options:
+        - Yes, public domain or an open licence (say which below)
+        - No, link only
+        - Not sure
+  - type: textarea
+    id: why
+    attributes:
+      label: Why might it help?
+      description: What could it show (a sky description, ashfall, a quake, a ship position, a ship passing a candidate volcano)?
+  - type: dropdown
+    id: ai
+    attributes:
+      label: Did an AI system write or substantially draft this issue?
+      options:
+        - "No"
+        - "AI-assisted (I checked and edited it)"
+        - "Yes, AI-generated (name the system below)"
+    validations:
+      required: true
+  - type: input
+    id: ai_system
+    attributes:
+      label: AI system and version, if any
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks
+      options:
+        - label: I searched the source register and the unavailable-sources list for this item.
+          required: true

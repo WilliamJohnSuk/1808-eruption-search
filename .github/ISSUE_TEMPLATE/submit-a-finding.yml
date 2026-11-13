@@ -1,0 +1,88 @@
+name: Submit a finding
+description: You have read a source and found something, or found nothing. Both are useful.
+title: "[Finding] "
+labels: ["finding", "needs-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Findings are reviewed before they enter [`findings/findings.csv`](../blob/main/findings/findings.csv). Please give enough detail that someone else could find the same page.
+
+        **Negative results:** please phrase them as "I found no report of ... in these issues/pages: ...", not "there was no ...".
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Kind of result
+      options:
+        - Positive (something was observed or recorded)
+        - Negative (I read the source and found no relevant report)
+        - Correction to an existing finding or register row
+    validations:
+      required: true
+  - type: input
+    id: obs_date
+    attributes:
+      label: Date of the observation (as written in the source, and converted if needed)
+      placeholder: "e.g. 9 Jan 1809 (Bunka 5, 12th month, 24th day)"
+  - type: input
+    id: place
+    attributes:
+      label: Place
+  - type: textarea
+    id: observation
+    attributes:
+      label: What the source says
+      description: Short quotation in the original language, then a translation. For a negative result, list exactly what you read (dates, issues, pages).
+      render: text
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source and exact reference
+      description: Archive and item, page or image number, edition, URL.
+    validations:
+      required: true
+  - type: dropdown
+    id: verification
+    attributes:
+      label: Verification level
+      description: If in doubt, choose the weaker level.
+      options:
+        - page-image (read on an image of the original)
+        - ocr (read from machine-transcribed text)
+        - computed (my own calculation; script or method attached)
+        - inferred (my interpretation)
+    validations:
+      required: true
+  - type: textarea
+    id: caveats
+    attributes:
+      label: Caveats and other explanations
+      description: Weather, dust, smoke, a local event, a calendar problem, a copying error?
+  - type: input
+    id: related
+    attributes:
+      label: Related finding, register row, U-number or T-number
+      placeholder: "e.g. F04, B53, U151, T26"
+  - type: dropdown
+    id: ai
+    attributes:
+      label: Did an AI system read the source or draft this finding?
+      options:
+        - "No"
+        - "AI-assisted (I checked the source myself)"
+        - "Yes, AI-generated (name the system below; it stays unverified until a person checks the source)"
+    validations:
+      required: true
+  - type: input
+    id: ai_system
+    attributes:
+      label: AI system and version, if any
+  - type: checkboxes
+    id: licence
+    attributes:
+      label: Licence
+      options:
+        - label: I agree that my contribution is released under CC BY 4.0.
+          required: true

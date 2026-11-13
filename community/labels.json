@@ -1,0 +1,237 @@
+[
+ {
+  "name": "ai-generated",
+  "color": "8250df",
+  "description": "Written or substantially drafted by an AI system; unverified until a person checks it"
+ },
+ {
+  "name": "ai-assisted",
+  "color": "c5b3f5",
+  "description": "A person used AI help and checked the result against the source"
+ },
+ {
+  "name": "human-verified",
+  "color": "1a7f37",
+  "description": "A named person has checked this against the source"
+ },
+ {
+  "name": "page-image",
+  "color": "0969da",
+  "description": "Read on an image of the original page or manuscript"
+ },
+ {
+  "name": "ocr",
+  "color": "0969da",
+  "description": "Read from machine-transcribed text only"
+ },
+ {
+  "name": "computed",
+  "color": "0969da",
+  "description": "Project calculation; script and data in the repo"
+ },
+ {
+  "name": "inferred",
+  "color": "0969da",
+  "description": "Interpretation, stated as such"
+ },
+ {
+  "name": "source",
+  "color": "bf8700",
+  "description": "A new or updated source"
+ },
+ {
+  "name": "finding",
+  "color": "bf8700",
+  "description": "A reading of a source, positive or negative"
+ },
+ {
+  "name": "negative-result",
+  "color": "bf8700",
+  "description": "Source read; no relevant report found in it"
+ },
+ {
+  "name": "candidate",
+  "color": "bf8700",
+  "description": "About a candidate volcano"
+ },
+ {
+  "name": "retrieval",
+  "color": "bf8700",
+  "description": "Document retrieval (maps to a U-number)"
+ },
+ {
+  "name": "task",
+  "color": "bf8700",
+  "description": "An open task (maps to a T-number)"
+ },
+ {
+  "name": "correction",
+  "color": "bf8700",
+  "description": "Fixes an existing row or note"
+ },
+ {
+  "name": "independent-check",
+  "color": "bf8700",
+  "description": "An independent re-check of an existing source or finding (findings/checks.csv)"
+ },
+ {
+  "name": "hosted-scan",
+  "color": "bf8700",
+  "description": "A page image hosted in sources/scans/ (licence stated; takedown on request)"
+ },
+ {
+  "name": "community",
+  "color": "bf8700",
+  "description": "Repo rules, templates, docs"
+ },
+ {
+  "name": "needs-triage",
+  "color": "d4c5f9",
+  "description": "Not yet looked at by a maintainer"
+ },
+ {
+  "name": "needs-review",
+  "color": "fbca04",
+  "description": "Ready for checking against the source"
+ },
+ {
+  "name": "needs-hands",
+  "color": "e99695",
+  "description": "Needs a person at an archive, library, browser or lab"
+ },
+ {
+  "name": "accepted",
+  "color": "0e8a16",
+  "description": "Entered the evidence trail"
+ },
+ {
+  "name": "not-accepted",
+  "color": "b60205",
+  "description": "Reviewed and not entered; reason in the thread"
+ },
+ {
+  "name": "duplicate",
+  "color": "cfd3d7",
+  "description": "Already in the register or another issue"
+ },
+ {
+  "name": "help-wanted:translation",
+  "color": "006b75",
+  "description": "Needs a reader of the source language"
+ },
+ {
+  "name": "good-first-task",
+  "color": "7057ff",
+  "description": "Small and self-contained"
+ },
+ {
+  "name": "candidate:dakataua",
+  "color": "d93f0b",
+  "description": "Candidate volcano: Dakataua"
+ },
+ {
+  "name": "candidate:gaua",
+  "color": "d93f0b",
+  "description": "Candidate volcano: Gaua"
+ },
+ {
+  "name": "candidate:cabalian",
+  "color": "d93f0b",
+  "description": "Candidate volcano: Cabalian"
+ },
+ {
+  "name": "candidate:agung",
+  "color": "d93f0b",
+  "description": "Candidate volcano: Agung"
+ },
+ {
+  "name": "candidate:todoko-ranu",
+  "color": "d93f0b",
+  "description": "Candidate volcano: Todoko Ranu"
+ },
+ {
+  "name": "candidate:dukono",
+  "color": "d93f0b",
+  "description": "Candidate volcano: Dukono"
+ },
+ {
+  "name": "candidate:teon",
+  "color": "d93f0b",
+  "description": "Candidate volcano: Teon"
+ },
+ {
+  "name": "candidate:nila",
+  "color": "d93f0b",
+  "description": "Candidate volcano: Nila"
+ },
+ {
+  "name": "candidate:north-sulawesi",
+  "color": "d93f0b",
+  "description": "Candidate volcano: North Sulawesi"
+ },
+ {
+  "name": "candidate:other",
+  "color": "d93f0b",
+  "description": "A candidate volcano not on the current list"
+ },
+ {
+  "name": "strand:colombia_caldas",
+  "color": "c2e0c6",
+  "description": "Strand folder strands/colombia_caldas/"
+ },
+ {
+  "name": "strand:peru_south",
+  "color": "c2e0c6",
+  "description": "Strand folder strands/peru_south/"
+ },
+ {
+  "name": "strand:mexico_caribbean_spain",
+  "color": "c2e0c6",
+  "description": "Strand folder strands/mexico_caribbean_spain/"
+ },
+ {
+  "name": "strand:portuguese_world",
+  "color": "c2e0c6",
+  "description": "Strand folder strands/portuguese_world/"
+ },
+ {
+  "name": "strand:asia_pacific_arabic",
+  "color": "c2e0c6",
+  "description": "Strand folder strands/asia_pacific_arabic/"
+ },
+ {
+  "name": "strand:north_america",
+  "color": "c2e0c6",
+  "description": "Strand folder strands/north_america/"
+ },
+ {
+  "name": "strand:ship_logs",
+  "color": "c2e0c6",
+  "description": "Strand folder strands/ship_logs/"
+ },
+ {
+  "name": "strand:europe_press",
+  "color": "c2e0c6",
+  "description": "Strand folder strands/europe_press/"
+ },
+ {
+  "name": "strand:science_alternatives",
+  "color": "c2e0c6",
+  "description": "Strand folder strands/science_alternatives/"
+ },
+ {
+  "name": "strand:candidates",
+  "color": "c2e0c6",
+  "description": "Strand folder strands/candidates/"
+ },
+ {
+  "name": "strand:melanesia_oral",
+  "color": "c2e0c6",
+  "description": "Strand folder strands/melanesia_oral/"
+ },
+ {
+  "name": "strand:method",
+  "color": "c2e0c6",
+  "description": "Strand folder strands/method/"
+ }
+]

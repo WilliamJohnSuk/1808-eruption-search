@@ -1,0 +1,37 @@
+title: "[F##] "
+body:
+  - type: markdown
+    attributes:
+      value: "One thread per row of findings/findings.csv. Is it real, is it weather, what would check it? Please give the verification level of anything you add."
+  - type: input
+    id: finding
+    attributes:
+      label: Finding ID (F01, F02, ...)
+    validations:
+      required: true
+  - type: textarea
+    id: comment
+    attributes:
+      label: Your reading or objection
+    validations:
+      required: true
+  - type: dropdown
+    id: verification
+    attributes:
+      label: Verification level of what you add
+      options:
+        - page-image
+        - ocr
+        - computed
+        - inferred
+        - not applicable (a question or opinion)
+  - type: dropdown
+    id: ai
+    attributes:
+      label: Did an AI system write or substantially draft this post?
+      options:
+        - "No"
+        - "AI-assisted"
+        - "Yes, AI-generated"
+    validations:
+      required: true

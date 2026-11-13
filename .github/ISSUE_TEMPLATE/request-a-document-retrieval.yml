@@ -1,0 +1,64 @@
+name: Request or offer a document retrieval
+description: Ask for, or volunteer, the human hands a source needs (archive visit, library loan, copy order, captcha, researcher contact). Maps to the U-list.
+title: "[Retrieval] "
+labels: ["retrieval", "needs-hands"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Sources that need a person to obtain them are listed with U-numbers in [`access/unavailable_sources.md`](../blob/main/access/unavailable_sources.md). Use this form to offer help with one of them or to add a new one.
+
+        Please do not upload scans here unless the archive's terms allow redistribution; a transcription and the item reference are always fine.
+  - type: dropdown
+    id: role
+    attributes:
+      label: I am...
+      options:
+        - Offering to retrieve a listed item
+        - Asking for someone to retrieve an item
+        - Reporting that I have obtained an item
+    validations:
+      required: true
+  - type: input
+    id: unumber
+    attributes:
+      label: U-number (if listed)
+      placeholder: "e.g. U151"
+  - type: textarea
+    id: item
+    attributes:
+      label: Item, holding institution and reference
+    validations:
+      required: true
+  - type: textarea
+    id: pages
+    attributes:
+      label: Which part is needed
+      description: Dates, folios, image numbers. The core window is November 1808 to March 1809.
+  - type: dropdown
+    id: route
+    attributes:
+      label: Route
+      options:
+        - On-site visit
+        - Copy or scan order (paid)
+        - Library or interlibrary loan
+        - Browser-only download (captcha, viewer, login)
+        - Ask a researcher or data holder
+        - Other
+  - type: input
+    id: cost
+    attributes:
+      label: Cost and lead time, if known
+  - type: dropdown
+    id: hosting
+    attributes:
+      label: Can the copy be shared here?
+      options:
+        - Yes, the archive allows redistribution
+        - No, link and transcription only
+        - Not sure
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
