@@ -4,7 +4,7 @@ How decisions are made in this project. Short on purpose; it will change as the 
 
 ## Roles
 
-- **Maintainer:** William John Suk (<https://williamsuk.ai>; GitHub `cmngtny5bw-collab`), who started the project. He merges pull requests, keeps the findings table, and settles disputes under the Code of Conduct. He may name further maintainers later; their names will be added here.
+- **Maintainer:** William John Suk (<https://williamsuk.ai>; GitHub `WilliamJohnSuk`), who started the project. He merges pull requests, keeps the findings table, and settles disputes under the Code of Conduct. He may name further maintainers later; their names will be added here.
 - **Contributors:** anyone who opens an issue, comments, votes or sends a pull request.
 - **AI agents:** treated as tools of the person who runs them. Their work is labelled `ai-generated` and is not counted as human verification, even when it is right.
 

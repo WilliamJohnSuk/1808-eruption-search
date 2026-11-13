@@ -1,6 +1,6 @@
 # Launch checklist (move to `community/archive/` once the repository is public)
 
-What must happen before the first push and before the repository goes public. Written 4 Nov 2026, updated the same day with William's decisions. Keep `access/open_tasks.md` (T-numbers) in step. 13 Nov 2026: William created the empty private repository `cmngtny5bw-collab/1808-eruption-search`; the first push waits on Claude GitHub App access to it.
+What must happen before the first push and before the repository goes public. Written 4 Nov 2026, updated the same day with William's decisions. Keep `access/open_tasks.md` (T-numbers) in step. 13 Nov 2026: William created the empty private repository `WilliamJohnSuk/1808-eruption-search`; initial commit 3a81f27 pushed to `main` the same day (353 files). William renamed his GitHub account to `WilliamJohnSuk` the same day; the repository is now `WilliamJohnSuk/1808-eruption-search` and old links redirect.
 
 ## 1. Evidence: bring the trail up to date (thread "Close the pre-launch gaps in the synthesis")
 
@@ -37,7 +37,7 @@ What must happen before the first push and before the repository goes public. Wr
 3. Settings > General > Features: tick **Issues** and **Discussions**. Both work in a private repository, including the issue forms and the Discussions category forms. On the Discussions tab, create the eight categories in `community/DISCUSSIONS_PLAN.md` with the exact names and formats.
 4. Labels: in Terminal on the Mac, with the GitHub CLI logged in, from the repo folder:
    ```zsh
-   gh auth status && bash scripts/create_labels.sh cmngtny5bw-collab/1808-eruption-search
+   gh auth status && bash scripts/create_labels.sh WilliamJohnSuk/1808-eruption-search
    ```
    (Or ask a thread to run it.)
 5. Test: open one issue with each of the five forms, start a Discussion in two categories, answer a poll, and open a small pull request to see the template. To test as an outsider, invite a friend as a collaborator (Settings > Collaborators). Close or delete the test items afterwards.
