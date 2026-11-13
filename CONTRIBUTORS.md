@@ -4,7 +4,7 @@ Everyone who has contributed to the search, in order of first contribution. Add 
 
 | Name or handle | Role or contribution | Since |
 |---|---|---|
-| [William John Suk](https://williamsuk.ai) (`cmngtny5bw-collab`) | Project lead: questions, archival retrieval, review of all findings | Oct 2026 |
+| [William John Suk](https://williamsuk.ai) (`WilliamJohnSuk`) | Project lead: questions, archival retrieval, review of all findings | Oct 2026 |
 
 ## AI systems used
 

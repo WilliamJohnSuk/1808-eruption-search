@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
   - name: Ask a question or start a debate
-    url: https://github.com/cmngtny5bw-collab/1808-eruption-search/discussions
+    url: https://github.com/WilliamJohnSuk/1808-eruption-search/discussions
     about: Questions, hunches, arguments about candidates and votes belong in Discussions.
   - name: Read the findings so far
-    url: https://github.com/cmngtny5bw-collab/1808-eruption-search/blob/main/findings/findings.csv
+    url: https://github.com/WilliamJohnSuk/1808-eruption-search/blob/main/findings/findings.csv
     about: One row per observation, with its verification level.
