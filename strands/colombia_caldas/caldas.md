@@ -22,6 +22,10 @@ On archive.org:
 
 **No page image was read for any item in this strand.**
 
+_Claude's interpretations (14 Nov 2026), labelled at William's request during his page check of F01; not part of his verification:_
+- _[Claude's interpretation] "En el Reynado de Felipe IV, en todo el año de 1673" (printed p. 39) is Caldas's own slip: Felipe IV died in 1665, and 1673 fell under Carlos II. Either the reign or the year is wrong. It does not bear on the 1808 observation._
+- _[Claude's interpretation] "Mil veces he observado la misma disposición en el Cielo" (p. 39) is Caldas reassuring alarmed readers, so he plays the event down. He still describes this veil as constant day and night and without coronas, which by his own 1808 definition (F15) was not ordinary. Read his "nothing extraordinary" as rhetoric aimed at calming the public, not as a measured judgement._
+
 _Update (16 Oct 2026, recorded 14 Nov): the Noticia (Año 2 Núm. 5) and the 1808 Núm. 7 baseline were later read from page images of William's Banrep downloads. See [strands/method/downloads_2026-10-16_findings.md](../method/downloads_2026-10-16_findings.md) §1–2. That confirms printed pp. 37–40, Banrep p17054coll26 id 1606, and the 5 Feb 1809 masthead. The statements below marked NOT VERIFIED or inference about these points are superseded._
 
 ---
