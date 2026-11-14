@@ -32,16 +32,16 @@ What must happen before the first push and before the repository goes public. Wr
 ## 4. Going live (T34): private first, then public
 
 **Stage A: private test launch**
-1. Create an empty repository at <https://github.com/new>: name `1808-eruption-search`, **Private**, no README, licence or .gitignore. Tell a thread when it exists.
-2. A thread runs the sync one last time and pushes the repo copy (threads cannot create repositories, but can push to one that exists).
-3. Settings > General > Features: tick **Issues** and **Discussions**. Both work in a private repository, including the issue forms and the Discussions category forms. On the Discussions tab, create the eight categories in `community/DISCUSSIONS_PLAN.md` with the exact names and formats.
-4. Labels: in Terminal on the Mac, with the GitHub CLI logged in, from the repo folder:
+1. [x] (done 13 Nov) Create an empty repository at <https://github.com/new>: name `1808-eruption-search`, **Private**, no README, licence or .gitignore. Tell a thread when it exists.
+2. [x] (done 13 Nov, commit 3a81f27) A thread runs the sync one last time and pushes the repo copy (threads cannot create repositories, but can push to one that exists).
+3. [x] (done 14 Nov by William: Issues and Discussions on; the eight categories created with the correct slugs) Settings > General > Features: tick **Issues** and **Discussions**. Both work in a private repository, including the issue forms and the Discussions category forms. On the Discussions tab, create the eight categories in `community/DISCUSSIONS_PLAN.md` with the exact names and formats.
+4. [x] (done 13-14 Nov by William: all 47 labels created) Labels: in Terminal on the Mac, with the GitHub CLI logged in, from the repo folder:
    ```zsh
    gh auth status && bash scripts/create_labels.sh WilliamJohnSuk/1808-eruption-search
    ```
    (Or ask a thread to run it.)
-5. Test: open one issue with each of the five forms, start a Discussion in two categories, answer a poll, and open a small pull request to see the template. To test as an outsider, invite a friend as a collaborator (Settings > Collaborators). Close or delete the test items afterwards.
-6. From this point **GitHub is the master copy**. Threads clone the repository and work through branches and pull requests; `scripts/sync_repo_copy.sh` is retired, because it would overwrite contributors' edits. The library folder stays Claude's working space, and its changes reach GitHub only by pull request.
+5. [ ] (partly done 14 Nov: issue forms tested by William; test issue #4 received the `source` and `needs-triage` labels; still to do: close or delete the test issue, and the Discussion, poll and pull-request tests) Test: open one issue with each of the five forms, start a Discussion in two categories, answer a poll, and open a small pull request to see the template. To test as an outsider, invite a friend as a collaborator (Settings > Collaborators). Close or delete the test items afterwards.
+6. [x] (done 13 Nov) From this point **GitHub is the master copy**. Threads clone the repository and work through branches and pull requests; `scripts/sync_repo_copy.sh` is retired, because it would overwrite contributors' edits. The library folder stays Claude's working space, and its changes reach GitHub only by pull request.
 
 Two things will not work yet while the repository is private, if you are on GitHub Free: **Pages** (the website) and **branch protection with required code-owner review**. Both need a public repository on the Free plan. Outsiders also cannot see, discuss or vote until it is public, so votes in Stage A are only you and anyone you invite.
 
