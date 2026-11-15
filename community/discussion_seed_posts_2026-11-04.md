@@ -10,15 +10,19 @@ Paths such as `findings/findings.csv` are relative to the repository. Discussion
 
 **Welcome: what this project is and how AI work is marked** (pin)
 
-In about 1809 a large tropical volcano erupted somewhere on Earth. Its sulfate fell on Greenland and Antarctica at the same time, and its haze dimmed the sun over Bogotá from 11 December 1808. Nobody knows which volcano it was.
+Late in 1808 (the ice-core literature calls it "the 1809 eruption") a large tropical volcano erupted somewhere on Earth. Its sulfate fell on Greenland and Antarctica at the same time, and its haze dimmed the sun over Bogotá from 11 December 1808. Nobody knows which volcano it was.
 
 This repository is an open search of the historical record for it: newspapers, ships' logs, parish books, court chronicles, missionary letters, ice cores and corals. It holds a source register, notes for each line of research, a findings table where every row carries a verification level, and the data and scripts behind every calculation.
 
-Most of the text so far was written by an AI model (Claude) working under [William Suk](https://williamsuk.ai)'s direction. Every AI-written note says so in its front matter, and nothing it wrote counts as checked until a person has read the source. Your checks are what turn a lead into evidence; see `findings/CHECKS_README.md`.
+Most of the text so far was written by an AI model (Claude) working under [William Suk](https://williamsuk.ai)'s direction. Every AI-written note says so in its front matter, and nothing it wrote counts as checked until a person has read the source. Your checks are what turn a lead into evidence; see [findings/CHECKS_README.md](https://github.com/WilliamJohnSuk/1808-eruption-search/blob/main/findings/CHECKS_README.md). Before launch, William read the page images behind three headline findings (F01, F09, F15). One of those checks caught an AI error, described in Method and AI.
 
-How to help: report a source, re-check a finding, propose a candidate, or take a free task from `access/open_tasks.md`. Votes here guide priorities; they never decide what is true (`GOVERNANCE.md`). Negative results are welcome, phrased as "I found no report of ... in these sources".
+How to help: report a source, re-check a finding, propose a candidate, or take a free task from [access/open_tasks.md](https://github.com/WilliamJohnSuk/1808-eruption-search/blob/main/access/open_tasks.md). Votes here guide priorities; they never decide what is true ([GOVERNANCE.md](https://github.com/WilliamJohnSuk/1808-eruption-search/blob/main/GOVERNANCE.md)). Negative results are welcome, phrased as "I found no report of ... in these sources".
+
+For conduct reports, or anything that should not be public, email 1808@williamsuk.ai.
 
 William John Suk, maintainer (https://williamsuk.ai)
+
+_Drafted by Claude (AI); read and posted by William John Suk._
 
 ---
 
@@ -26,7 +30,9 @@ William John Suk, maintainer (https://williamsuk.ai)
 
 **How do I report a source without git?**
 
-Open an issue with the form "Report a source" (Issues > New issue). A link and one sentence is enough to start. Say how you read it (a page image, OCR text, or someone's summary) and whether an AI tool helped. Before you start, search `sources/register.md` and `access/unavailable_sources.md`: if the source is already listed, say what you can add.
+Open an issue with the form ["Report a source"](https://github.com/WilliamJohnSuk/1808-eruption-search/issues/new?template=report-a-source.yml) (Issues > New issue). A link and one sentence is enough to start. Say how you read it (a page image, OCR text, or someone's summary) and whether an AI tool helped. Before you start, search [sources/register.md](https://github.com/WilliamJohnSuk/1808-eruption-search/blob/main/sources/register.md) and [access/unavailable_sources.md](https://github.com/WilliamJohnSuk/1808-eruption-search/blob/main/access/unavailable_sources.md): if the source is already listed, say what you can add. If the source is in a language you don't read, ask in Translation help.
+
+_Drafted by Claude (AI); read and posted by William John Suk._
 
 ---
 
