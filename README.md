@@ -1,5 +1,9 @@
 # Human/AI collab to identify the missing 1808/9 volcano
 
+![A great plume of red fire and black ash arches over a mountain, with handwritten notes beside it: the Tenmei eruption of Mount Asama, 1783](assets/images/social_preview_asama_1783_1280x640.jpg)
+
+<sub>*Night view of the great eruption of Mount Asama* (浅間山夜分大焼之図), unknown artist, Japan, about 1783. Public domain, via Wikimedia Commons. See [IMAGE_CREDITS.md](IMAGE_CREDITS.md).</sub>
+
 **A crowd-sourced research collaboration between people and AI systems, looking for the unidentified volcanic eruption of 1808/09.**
 
 Some time around the end of 1808, a large volcanic eruption put about twice as much sulfur into the stratosphere as Pinatubo did in 1991. Its sulfate lies in the ice of both Greenland and Antarctica, it helped start the cold decade that Tambora finished in 1815, and nobody knows where it was. We know of no eyewitness account of the eruption itself.
@@ -26,6 +30,8 @@ The detail is in [`findings/findings.csv`](findings/findings.csv) (one row per o
 
 ## How to help
 
+<img src="assets/images/fabris_vesuvius_1779_watchers.jpg" align="right" width="300" alt="Three people on a headland watch Vesuvius smoking across the bay; one points at the plume">
+
 You do not need to know git. Pick whichever path suits you.
 
 **1. Report a source (no git needed).** Know of a diary, ship's log, missionary letter, chronicle, newspaper or core sample that covers late 1808 to 1810? Open a [**Report a source**](../../issues/new?template=report-a-source.yml) issue. A title and a link are enough; we will check it against the [source register](sources/register.md).
@@ -41,6 +47,8 @@ Other ways in:
 - **Languages.** We need readers of Dutch, Spanish, Portuguese, classical Chinese, Japanese (kanbun and sōrōbun), Vietnamese (chữ Hán), Malay/Jawi and Tok Pisin.
 
 **Using an AI agent?** Point it at [AGENTS.md](AGENTS.md) first: it explains the layout, where to start and the rules an agent's work must follow, and a person must stand behind everything it submits.
+
+<sub>Right: people at Posillipo watching Vesuvius on 9 August 1779, the day after its eruption. Pietro Fabris for William Hamilton's *Campi Phlegraei*; Wellcome Collection, public domain. A sighting like theirs, written down somewhere in late 1808, is what this project is looking for.</sub>
 
 Start with [CONTRIBUTING.md](CONTRIBUTING.md). Everyone taking part agrees to the [Code of Conduct](CODE_OF_CONDUCT.md).
 
@@ -65,6 +73,6 @@ The notes keep their original round-by-round structure and repeat each other in 
 
 ## Licences
 
-Text, notes and derived tables: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Scripts: MIT. One exception: the share-alike tables in [`data/cc-by-sa/`](data/cc-by-sa/LICENSE.md) are CC BY-SA 4.0. See [LICENSE.md](LICENSE.md). Third-party datasets keep their own licences; cite the original datasets (CLIWOC 2.1, the oldweather/EEIC keyed logs, NEEM-2011-S1 (PANGAEA 940553), San Fernando (Zenodo 7104289), GEOROC, the Smithsonian Global Volcanism Program and the others named in each data note). By contributing you agree that your contribution is released under the same licences.
+Text, notes and derived tables: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Scripts: MIT. One exception: the share-alike tables in [`data/cc-by-sa/`](data/cc-by-sa/LICENSE.md) are CC BY-SA 4.0. See [LICENSE.md](LICENSE.md). Third-party datasets keep their own licences; cite the original datasets (CLIWOC 2.1, the oldweather/EEIC keyed logs, NEEM-2011-S1 (PANGAEA 940553), San Fernando (Zenodo 7104289), GEOROC, the Smithsonian Global Volcanism Program and the others named in each data note). By contributing you agree that your contribution is released under the same licences. The two historical images are public domain and are credited in [IMAGE_CREDITS.md](IMAGE_CREDITS.md).
 
 **Takedown.** We host historical material we believe is in the public domain or openly licensed, each item with its source and licence stated. If you hold rights in, or believe we should not host, any item here, email 1808@williamsuk.ai and it will be taken down promptly while we look into it.

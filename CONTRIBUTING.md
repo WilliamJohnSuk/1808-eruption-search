@@ -4,11 +4,15 @@ Thank you for helping look for the 1808/09 volcano. Historians, archivists, volc
 
 If you are running an AI agent, have it read [AGENTS.md](AGENTS.md) before it starts. It summarises the rules below for agents and points to the right files.
 
+<img src="assets/images/fabris_vesuvius_9_august_1779.jpg" align="right" width="220" alt="Vesuvius sends up a tall column of smoke over the Bay of Naples while people on the shore watch and point">
+
 ## The short version
 1. **Check the register first.** Search [`sources/register.md`](sources/register.md) (the [register index](sources/register_index.md) lists its sections) and [`access/unavailable_sources.md`](access/unavailable_sources.md) for your source. If it is there, say what you can add (a reading, a page image, a better link).
 2. **Open an issue** with one of the forms. No git is needed, and a link plus one sentence is a fine start.
 3. **Label what you did.** Say how you read the source (verification level) and whether an AI tool wrote any of your text.
 4. **Phrase negatives carefully.** "We found no report of ash in the *Gazeta de Lisboa*, Nov 1808 to Mar 1809 (issues read: ...)", never "there was no ash".
+
+<sub>Right: Vesuvius the day after its eruption of 8 August 1779, watched from Posillipo. Pietro Fabris, for William Hamilton's *Campi Phlegraei*; Wellcome Collection, public domain ([credits](IMAGE_CREDITS.md)). The people on the shore are the kind of witnesses whose notes we are trying to find for 1808.</sub>
 
 ## Ways to contribute
 

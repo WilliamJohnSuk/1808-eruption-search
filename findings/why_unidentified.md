@@ -11,6 +11,10 @@ date: undated
 
 # Why the 1808/09 eruption is so hard to identify
 
+![The Tenmei eruption of Mount Asama, 1783: a plume of red fire and black ash over the mountain, with handwritten notes](../assets/images/asama_tenmei_eruption_1783.jpg)
+
+<sub>*Night view of the great eruption of Mount Asama* (浅間山夜分大焼之図), unknown artist, Japan, about 1783. Public domain, via Wikimedia Commons ([credits](../IMAGE_CREDITS.md)). Its unknown painter set the eruption down in pictures and words. For the 1808/09 eruption we know of no written record like this; the reasons below are why that matters, and why the eruption is still unidentified. (Image and caption added 15 Nov 2026.)</sub>
+
 Compiled 16 Oct 2026 for William. Updated 26 Oct 2026: bullets marked (26 Oct) add that day's results (register B43-B51). Updated 4 Nov 2026: bullets marked (Nov) add the results of 27 Oct-2 Nov (register B54-B74). Each reason says where it comes from. **[Lit]** = argued in published work. **[Project]** = this project's own inference from its searches; not a published claim.
 
 ## 1. The ice says "large and tropical", but not where
