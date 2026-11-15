@@ -4,7 +4,7 @@ Written 4 Nov 2026 (tasks T31 and T38). One line per file: what it is, the sourc
 
 **Licence of these files.** Tables, figures and JSON made by this project are released under **CC BY 4.0** (see `LICENSE.md` at the top of the repository), except the files in `data/cc-by-sa/`, which are **CC BY-SA 4.0** because they adapt share-alike data (see `data/cc-by-sa/LICENSE.md`). The source datasets keep their own licences, given below; please cite them as well as this project when you reuse a file.
 
-**If an item should not be here.** We host only tables we derived ourselves and short extracts we believe the source's licence allows. If you hold rights in, or believe we should not host, any file in this folder, email **william@williamsuk.ai** and it will be taken down promptly while we look into it.
+**If an item should not be here.** We host only tables we derived ourselves and short extracts we believe the source's licence allows. If you hold rights in, or believe we should not host, any file in this folder, email **1808@williamsuk.ai** and it will be taken down promptly while we look into it.
 
 **How the files were made.** Every file was produced by Claude (an AI model) working for the project maintainer; none has yet been checked by a second person (`verified_by: none`). Counts from manuscripts (parish books) were made by reading page images once. Scripts are in `scripts/` (MIT licence). "Script: none" means the table was built by hand or in a one-off session from the note named; the note gives the method.
 

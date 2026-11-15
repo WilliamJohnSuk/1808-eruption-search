@@ -6,4 +6,4 @@ Every image has a line in [`index.csv`](index.csv): file, holding archive, item 
 
 Never hosted here: FamilySearch images, purchased record copies (for example TNA page checks), pages from in-copyright books or paywalled papers, and anything an archive's terms forbid. Those are linked to the archive instead (see `strands/method/hosting_licence_audit_2026-11-04.md` and `data/hosting_licence_audit_2026-11-04.csv`).
 
-**Takedown.** If you hold rights in, or believe we should not host, any item here, email william@williamsuk.ai and it will be taken down promptly while we look into it.
+**Takedown.** If you hold rights in, or believe we should not host, any item here, email 1808@williamsuk.ai and it will be taken down promptly while we look into it.

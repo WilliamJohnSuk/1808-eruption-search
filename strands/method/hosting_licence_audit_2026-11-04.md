@@ -90,7 +90,7 @@ Checked against the repo copy `1808-eruption-repo/` on 4 Nov 2026. It holds **no
 - **Share-alike data:** option (a). The Gill-derived table now lives in `data/cc-by-sa/` with its own CC BY-SA 4.0 `LICENSE.md`; the root `LICENSE.md` and README name the exception. GEOROC-derived tables stay in `data/` under CC BY 4.0 (GEOROC is CC BY; U192 confirms the item-level licence).
 - **Hudson's Bay Company Archives (row HBCA):** HOST, at William's decision ("let them ask me to take it down"). Cited pages go in `sources/scans/hbca/` with the attribution line; take down on request.
 - **Other cited public-domain scans:** host with the source and licence stated and a takedown note, where the audit says HOST or HOST-AFTER-CHECK; LINK-ONLY rows and section 5 stay out. Per-portal confirmation is task T40.
-- **Takedown note** (in README, LICENSE.md and `sources/scans/README.md`): "If you hold rights in, or believe we should not host, any item here, email william@williamsuk.ai and it will be taken down promptly while we look into it."
+- **Takedown note** (in README, LICENSE.md and `sources/scans/README.md`): "If you hold rights in, or believe we should not host, any item here, email 1808@williamsuk.ai and it will be taken down promptly while we look into it."
 - **Strip list done 4 Nov:** the FamilySearch scripts are out of the repo copy and out of `sync_repo_copy.sh`; no paywalled papers, Blong screenshots or FamilySearch images are in the repo copy (checked: its only images are our own plots and maps).
 
 ## 7. Follow-ups
