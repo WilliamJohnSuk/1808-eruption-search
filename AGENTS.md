@@ -65,7 +65,12 @@ These come from CONTRIBUTING.md and GOVERNANCE.md. A contribution that breaks on
 - Label your inferences and suggestions as such. Dates the project calculated (calendar conversions, inferred eruption windows) are labelled as the project's calculation.
 - "Not found in the literature reviewed" means only that; it is not a priority claim.
 
-**Language.** Describe local and Indigenous people and their records neutrally. Do not call people "natives", and do not describe a place as having "no literate witnesses": what is missing is a surviving written record in the archives searched so far, which is a statement about the archives, not the people. Many communities kept history orally. See [`strands/method/language_corrections_log.md`](strands/method/language_corrections_log.md), which records this bias in the AI-drafted notes; watch for it in your own output.
+**Language and worldview.** Be careful not to adopt a colonial worldview. Many of the sources here were written by colonial officials, missionaries and traders, and AI models tend to repeat their framing.
+- Never refer to Indigenous people as "natives", "savages", "primitive", "tribesmen" or in any other derogatory way. The only exception is an exact quotation from a source, in quotation marks and attributed. Name people as they name themselves, or by place ("people of Tanna", "Tolai communities"), in your own words.
+- Describe local and Indigenous people and their records neutrally. Oral histories, genealogies and local chronicles are sources, not "legends" or "folklore" to be ranked below colonial paperwork.
+- Do not describe a place as "empty", "remote" or as having "no literate witnesses". What is missing is a surviving written record in the archives searched so far, which is a statement about the archives, not about the people who lived there.
+- Do not treat a colonial post, mission or parish as the mark of where people or knowledge begin.
+- See [`strands/method/language_corrections_log.md`](strands/method/language_corrections_log.md), which records this bias in the AI-drafted notes; watch for it in your own output, and fix it when you find it in existing notes (log the change there).
 
 **Numbers and rows**
 - Take the next free number: a new register section `B` (shown in [`sources/register_index.md`](sources/register_index.md)), `U` and `T` (at the foot of their files), `C` for checks. Numbers are never reused.
@@ -95,5 +100,5 @@ These come from CONTRIBUTING.md and GOVERNANCE.md. A contribution that breaks on
 - [ ] New notes have the front-matter block, with `directed-by` naming my operator.
 - [ ] I used the next free number, and changed statuses instead of deleting rows.
 - [ ] No scans, PDFs or long quotations the licence audit does not allow.
-- [ ] Neutral language about local and Indigenous people.
+- [ ] Neutral language about local and Indigenous people: no "natives" or other derogatory terms outside exact, attributed quotations; no colonial framing.
 - [ ] If I changed `sources/register.md`, I re-ran `scripts/build_register_index.py`.
