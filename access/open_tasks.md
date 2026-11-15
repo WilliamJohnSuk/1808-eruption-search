@@ -66,6 +66,7 @@ Verification levels as elsewhere: [page image], [text], [calc], [memory], [sugge
 | T59 | Re-screen the current GVP (VOTW 5.x) for confirmed eruptions 1806-1811 within 25N-25S against the May 2018 snapshot (pyvolcans); start with Karthala 1808 (eruption detail and references; eruptions tab failed from the container 12 Nov) | notes/grokipedia_audit_2026-11-12.md 6 | M | open (free) |
 | T60 | Re-try Grokipedia "Agrigan", "Tambo_Quemado", "Unexplained_volcanic_eruption"; re-read "1808 mystery eruption" about Feb 2027 for changed claims; check claims 14-19 against Dai 1991 and doi 10.1029/2006GL028033 | notes/grokipedia_audit_2026-11-12.md 6 | L | open (free) |
 | T61 | After William runs scripts/archive_grokipedia.sh on the Mac (U234), stage archives/grokipedia/<run>/ and check: does the raw HTML hold the article text and the per-article suggestion log; if not, find the JSON/API endpoints in the HTML and add them to the script; then diff against later runs (suggest every 3 months, with T60) | notes/grokipedia_audit_2026-11-12.md 7 | L | open (run needs William) |
+| T62 | F15 scope: read Caldas's other 1808 monthly tables in the JCB copy (semanariodelnuev01unse; Jan PDF p. 71, Mar p. 131, Apr p. 165, May p. 199, Jun p. 245, Jul p. 281), count 've.' and 'cor.' days by counting the sky entries from top and bottom (the column can be offset from the day numbers; see findings/CHECKS_README.md, corrections 1). Until then only Feb 1808 is human-checked | findings F15; human check 15 Nov 2026 | L | open |
 
 ## 2. Decisions waiting on William
 
@@ -106,4 +107,4 @@ These "next steps" sections were written in October strands. **Reconciled by T16
 - candidate_priority_list 5.1-5.6; deposition_ratio_validation 10.3 (seasonal test, needs U126)
 
 ---
-Next free number: **T62**
+Next free number: **T63**

@@ -278,9 +278,9 @@ Is it real, is it weather, and what would check it? If you can read the source, 
 
 **F15: Bogotá, New Granada, Jan-Jul 1808 baseline**
 
-Caldas defines his 'velo' and logs thin and thick veils with coronae (Semanario No. 7, 14 Feb 1808); by that standard the constant coronaless Dec 1808 veil was abnormal
+Caldas defines his 'velo' (Semanario núm. 7, 14 Feb 1808) and logs thin and thick veils, sometimes with a solar corona (Feb 1808 table in núm. 10: veils on 9, 15 and 29 Feb, corona on 15 Feb; corrected from "14 Feb" after a human check). By that standard the constant coronaless Dec 1808 veil was abnormal (Claude's inference).
 
-Source: Semanario del Nuevo Reyno de Granada no. 7. Verification: page image checked. Status: supports F01. Notes: `strands/colombia_caldas/caldas.md`. Checked by a person: none.
+Source: Semanario del Nuevo Reyno de Granada 1808 núm. 7 and núm. 10. Verification: page image checked. Status: supports F01. Notes: `strands/colombia_caldas/caldas.md`. Checked by a person: none.
 
 Is it real, is it weather, and what would check it? If you can read the source, please record a check (`findings/CHECKS_README.md`).
 

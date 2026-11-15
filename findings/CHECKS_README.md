@@ -35,3 +35,17 @@ How it feeds the findings table:
 - A `contradicts` result is never deleted. The maintainer reviews it and either changes the finding's status or explains in the pull request why the finding stands.
 
 To add a check without git, use the issue form [Re-check a source or finding](../../../issues/new?template=recheck-a-source-or-finding.yml).
+
+## Corrections caught by human checks
+
+These are errors in the AI-produced record that a person found by reading the source. Each is kept here, as well as being corrected where it occurred, because it shows what the human checks are for.
+
+### 1. F15: a corona dated to the wrong day (found 15 Nov 2026, check C002)
+
+- **What the AI record said.** Caldas's Bogotá weather table for February 1808 logged a thin veil with a solar corona ("S ve. cla. cor. S.") on **14 Feb 1808**. It cited this as *Semanario* núm. 7.
+- **What the source says.** William John Suk read the table on the page image (JCB copy, archive.org `semanariodelnuev01unse`, PDF p. 105, printed p. 83). For day 14 he read "C. cal. nieb." and found the corona entry on the next line.
+- **Why the AI got it wrong.** The "Estado del Cielo" (state of the sky) column is printed about half a row higher than the day numbers. The OCR text and the AI subagent that read it paired each sky entry with the row beside it, which put every entry one day early.
+- **How it was settled.** The 29 sky entries were counted from the top (entry 1 = day 1) and from the bottom (entry 29 = day 29), on the image, by both William and Claude. Both counts put "S ve. cla. cor. S." on **15 Feb** and "C. cal. nieb." on 14 Feb. Veils ("ve.") appear on 9, 15 and 29 Feb; a corona with a veil only on 15 Feb.
+- **A second slip found at the same time.** The February table is not in núm. 7 (14 Feb 1808), which holds only the definition of "velo" and the key to the codes. It is in **núm. 10 (6 Mar 1808)**.
+- **Does it change the finding?** No. The point of F15 holds: "velo" was a routine category in Caldas's log and could carry a corona. The date and the citation were wrong and are corrected in `findings.csv`, the notes and the seed posts.
+- **Lesson for checkers.** In printed tables, do not trust the alignment of a text column with the day numbers. Count the entries from both ends.
