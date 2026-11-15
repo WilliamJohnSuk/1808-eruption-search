@@ -15,7 +15,7 @@ date: undated
 
 **Question.** What exactly did Francisco José de Caldas see in Bogotá in December 1808, and did anyone else in New Granada or Quito see it?
 
-**What was read.** Caldas's "Noticia meteorológica" in the *Semanario del Nuevo Reyno de Granada* (año 2, no. 5, 5 Feb 1809) and his 1808 baseline issue (no. 7, 14 Feb 1808), both on page images; Roulin's 1831 Académie des sciences account; Restrepo's histories (1827, 1858); the Popayán and Quito correspondents of Caldas; Cotopaxi catalogues.
+**What was read.** Caldas's "Noticia meteorológica" in the *Semanario del Nuevo Reyno de Granada* (año 2, no. 5, 5 Feb 1809) and his 1808 baseline (the 'velo' definition in no. 7, 14 Feb 1808, and the monthly weather tables, e.g. February 1808 in no. 10), both on page images; Roulin's 1831 Académie des sciences account; Restrepo's histories (1827, 1858); the Popayán and Quito correspondents of Caldas; Cotopaxi catalogues.
 
 **Main results**
 - **F01** [page image]: a whitish sky and silvery sun, mistaken for the moon, from 11 Dec 1808 to late January or early February 1809. This is the core dated witness (already published by Guevara-Murua et al. 2014).

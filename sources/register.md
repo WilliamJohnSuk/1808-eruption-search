@@ -31,7 +31,7 @@ From `notes/caldas.md`.
 |---|---|---|---|---|---|
 | *Semanario del Nuevo Reyno de Granada*, Año 2 (1809), JCB copy BC S471D | Bogotá / es | periodical | yes | https://archive.org/details/semanariodelnuev02unse | OCR partial (cut off before No.5 Noticia); images not fetchable |
 | *Semanario*, 1808 vol., JCB | Bogotá / es | periodical | 1808 | https://archive.org/details/semanariodelnuev01unse | not read |
-| *Semanario* Año II N.5 (5 Feb 1809), Banrep p17054coll26 (N.6 = id 1607) | Bogotá / es | periodical scan | yes | via https://www.bibliotecadigitaldebogota.gov.co/resources/2090216/ | digitized-but-not-reached |
+| *Semanario* Año II N.5 (5 Feb 1809), Banrep p17054coll26 (N.6 = id 1607) | Bogotá / es | periodical scan | yes | via https://www.bibliotecadigitaldebogota.gov.co/resources/2090216/ | digitized-but-not-reached; **page images read 16 Oct 2026 (id 1606, pp. 37–40), see section F below** |
 | BNC Colección Digital Caldas: Semanario 1808–09; "1849"; Continuación 1810 | Bogotá / es | periodical scans | yes | catalogoenlinea.bibliotecanacional.gov.co assets 132637/118820/131037 | digitized-but-not-reached |
 | U. Distrital repository, Semanario 1808 bundles | Bogotá / es | scans | 1808 only | http://hdl.handle.net/11349/100133 | catalogue only |
 | Acosta ed., *Semanario de la Nueva Granada*, París 1849 | es | reprint | yes | Banrep p17054coll10/id/4082; Google Books PIU3AQAAMAAJ | digitized-but-not-reached |
