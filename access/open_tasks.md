@@ -109,5 +109,7 @@ These "next steps" sections were written in October strands. **Reconciled by T16
 - long_island_post_tibito 4.1-4.5; lusophone.md 4.1-4.5; mexico_centralam_round3 1-4; north_pacific_round2 1-9; restrepo_date_round3 5; retrospective_round2 2; travel_southcone_pass3 F.1-F.4; wichmann_catalogue follow-up
 - candidate_priority_list 5.1-5.6; deposition_ratio_validation 10.3 (seasonal test, needs U126)
 
+- **T64** (14 Nov 2026, free): identify the 1808 *Semanario* subscribers in Pasto (Gabriel Santa-Cruz), Tunja (José Jovér, Francisco Torres y Roxas), Popayán and the Neiva valley, and check the unchecked biographical notes, using printed genealogies and independence-era rosters on archive.org. Card: strands/colombia_caldas/semanario_subscribers_1808_research_card_2026-11-14.md; list: data/semanario_subscribers_1808.csv. Status: open (free).
+
 ---
-Next free number: **T64**
+Next free number: **T65**
