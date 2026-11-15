@@ -503,7 +503,7 @@ _Drafted by Claude (AI); read and posted by William John Suk._
 
 Greenland minus Antarctic onset lag −0.05 yr (range −0.4 to +0.3): synchronous, so tropical; about 55% of deposited sulfate in the north (NH/SH vs Tambora 1.4, 0.9-2.2); Tambora-analogue eruption date 1809.07 ± 0.41 (Claude's calculation)
 
-Source: Sigl et al. 2013; Plummer et al. 2012; Gao et al. 2007 (tables read as fetched text). Verification (Claude's reading or calculation): computed. Status: method result; tropical only. Notes: [strands/science_alternatives/bipolar_sulfate_lag_2026-10-27.md](https://github.com/WilliamJohnSuk/1808-eruption-search/blob/main/strands/science_alternatives/bipolar_sulfate_lag_2026-10-27.md). Checked by a person: none yet.
+Source: Sigl et al. 2013; Plummer et al. 2012; Gao et al. 2007 (tables read as fetched text). Verification (Claude's reading or calculation): computed. Status: method result; tropical only (Claude's inference; Meuer et al. 2024 argue for a northern extratropical source, see F37). Notes: [strands/science_alternatives/bipolar_sulfate_lag_2026-10-27.md](https://github.com/WilliamJohnSuk/1808-eruption-search/blob/main/strands/science_alternatives/bipolar_sulfate_lag_2026-10-27.md). Checked by a person: none yet.
 
 Is it real, is it weather, and what would check it? If you can read the source, please record a check ([findings/CHECKS_README.md](https://github.com/WilliamJohnSuk/1808-eruption-search/blob/main/findings/CHECKS_README.md)).
 
