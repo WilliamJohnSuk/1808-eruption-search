@@ -67,6 +67,7 @@ Verification levels as elsewhere: [page image], [text], [calc], [memory], [sugge
 | T60 | Re-try Grokipedia "Agrigan", "Tambo_Quemado", "Unexplained_volcanic_eruption"; re-read "1808 mystery eruption" about Feb 2027 for changed claims; check claims 14-19 against Dai 1991 and doi 10.1029/2006GL028033 | notes/grokipedia_audit_2026-11-12.md 6 | L | open (free) |
 | T61 | After William runs scripts/archive_grokipedia.sh on the Mac (U234), stage archives/grokipedia/<run>/ and check: does the raw HTML hold the article text and the per-article suggestion log; if not, find the JSON/API endpoints in the HTML and add them to the script; then diff against later runs (suggest every 3 months, with T60) | notes/grokipedia_audit_2026-11-12.md 7 | L | open (run needs William) |
 | T62 | F15 scope: read Caldas's other 1808 monthly tables in the JCB copy (semanariodelnuev01unse; Jan PDF p. 71, Mar p. 131, Apr p. 165, May p. 199, Jun p. 245, Jul p. 281), count 've.' and 'cor.' days by counting the sky entries from top and bottom (the column can be offset from the day numbers; see findings/CHECKS_README.md, corrections 1). Until then only Feb 1808 is human-checked | findings F15; human check 15 Nov 2026 | L | done 15 Nov 2026: all seven tables read from page images by Claude and by William (veil on 10 of 212 days; corona with veil 15 Feb, 12 Mar; June veil 28 Jun); F15 reworded; check C002 |
+| T63 | Read the Plakaatboek vol. 15 orders on the Great Post Road and compulsory service (heerendiensten), 1808-09 (archive.org nederlandschind01unkngoog; search postweg, heerendiensten, wegen), and check the general-knowledge figures in the F17 context note (road length, deaths, districts affected) against them and against Carey 2007 | F17 context note, newbritain_banda_halmahera notes §1a | L | open |
 
 ## 2. Decisions waiting on William
 
@@ -107,4 +108,4 @@ These "next steps" sections were written in October strands. **Reconciled by T16
 - candidate_priority_list 5.1-5.6; deposition_ratio_validation 10.3 (seasonal test, needs U126)
 
 ---
-Next free number: **T63**
+Next free number: **T64**

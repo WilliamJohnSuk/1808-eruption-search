@@ -298,7 +298,7 @@ Is it real, is it weather, and what would check it? If you can read the source, 
 
 Order on rice shortage: 'the unusual drought of the season' caused a complete rice failure in most districts, substitute root crops failed, some districts without food; 12 koyang of rice issued weekly (Plakaatboek vol. 15 printed p. 912)
 
-Source: Van der Chijs (ed.) Nederlandsch-Indisch Plakaatboek vol. 15 (archive.org nederlandschind01unkngoog). Verification: page image checked; related Mar-Aug 1809 and 1810 rice orders OCR only. Status: lead; not diagnostic (El Niño or Daendels's labour levies possible); El Niño check done 27 Oct (F23): El Niño unlikely (inference); see also F24. Notes: `strands/asia_pacific_arabic/newbritain_banda_halmahera_records_2026-10-26.md`. Checked by a person: none.
+Source: Van der Chijs (ed.) Nederlandsch-Indisch Plakaatboek vol. 15 (archive.org nederlandschind01unkngoog). Verification: page image checked; related Mar-Aug 1809 and 1810 rice orders OCR only. Status: lead; not diagnostic (El Niño, or farmers taken away from their rice fields to build Daendels's Great Post Road, could also explain it); El Niño check done 27 Oct (F23): El Niño unlikely (inference); see also F24. Notes: `strands/asia_pacific_arabic/newbritain_banda_halmahera_records_2026-10-26.md`. Checked by a person: none.
 
 Is it real, is it weather, and what would check it? If you can read the source, please record a check (`findings/CHECKS_README.md`).
 
