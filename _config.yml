@@ -1,0 +1,27 @@
+# GitHub Pages settings for the project's landing page.
+# The site is one page (index.md) that points into the repository.
+# The research files are read on GitHub itself, so they are excluded here:
+# Jekyll cannot render them (many notes carry "date: undated" in their
+# front matter, which stops the build).
+title: Human/AI collab to identify the missing 1808/9 volcano
+description: An open evidence trail for finding the unidentified volcanic eruption of 1808/09.
+theme: jekyll-theme-primer
+
+exclude:
+  - README.md
+  - AGENTS.md
+  - CITATION.cff
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - CONTRIBUTORS.md
+  - GOVERNANCE.md
+  - LAUNCH_CHECKLIST.md
+  - LICENSE.md
+  - access/
+  - community/
+  - data/
+  - figures/
+  - findings/
+  - scripts/
+  - sources/
+  - strands/
