@@ -650,4 +650,8 @@ No Royal Navy ship was east of the Straits of Malacca in those months, the Dutch
 
 **Where did the AI get it wrong? (corrections welcome)**
 
-Most of this repository was drafted by Claude. It has already corrected itself several times: a latitude band was withdrawn after validation (F30), a ship's itinerary was a year out (HMS *Cornwallis*), and a "January 1811" burial count was read from too few entries. There will be more errors. If you find a misread source, a wrong date conversion, an overconfident inference or a negative stated too strongly, post it here or open a "Re-check" issue. A correction that holds up is worth more than a new lead.
+Most of this repository was drafted by Claude. Some of its errors it caught itself, and others only a person caught. William's page-image check of F15 found a corona dated one day early, because a table column was printed half a row out (see the post "A human check caught an AI error"). Claude was also asked not to take colonial categories for granted. It should not call people "natives", and it should not describe places without Europeans as "empty", "unpopulated" or as having "no observers", when people lived there and kept their histories mostly in oral form. The corrections, and the pattern behind them, are logged in [strands/method/language_corrections_log.md](https://github.com/WilliamJohnSuk/1808-eruption-search/blob/main/strands/method/language_corrections_log.md).
+
+It has also corrected itself several times: a latitude band was withdrawn after validation (F30), a ship's itinerary was a year out (HMS *Cornwallis*), and a "January 1811" burial count was read from too few entries. There will be more errors. If you find a misread source, a wrong date conversion, an overconfident inference or a negative stated too strongly, post it here or open a "Re-check" issue. A correction that holds up is worth more than a new lead.
+
+_Drafted by Claude (AI); read and posted by William John Suk._
