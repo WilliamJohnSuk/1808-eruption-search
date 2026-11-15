@@ -43,3 +43,9 @@ The BOE stores these two papers under day folders that are not the issue date. F
 ## Added 4 Nov 2026 (wide source search)
 - `fetch_bl_iiif.py`: downloads every page image of a British Library manuscript from its IIIF manifest. It uses the Python 3 standard library only, can be re-run, and waits 1 s between images. The default target is BL Add MS 12350, the Bugis diary of Bone 1808-1809, which the BL marks Public Domain, saved into `../archives/BL_Add_MS_12350/`. Usage: `python3 fetch_bl_iiif.py [MANIFEST_URL OUT_DIR WIDTH]`. (U34, T50)
 - `detection_floor_2026-11-04/build.py`: great-circle distances from 14 candidate volcanoes to the 1808-10 observer records read so far. It writes `data/detection_floor_distances_2026-11-04.csv`. (T11, first half)
+
+## Register index (`build_register_index.py`)
+
+Writes `sources/register_index.md` and `sources/register_index.csv`: one line per section of `sources/register.md` (id, line number, short title, date, strand, notes file, row counts) and the next free section number. Plain Python 3, no dependencies, runs anywhere. Re-run it from the repository root after any change to the register and commit the outputs with that change:
+
+    python3 scripts/build_register_index.py

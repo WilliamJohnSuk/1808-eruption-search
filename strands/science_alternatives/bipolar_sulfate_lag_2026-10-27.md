@@ -90,7 +90,7 @@ Gao 2007 is the outlier, partly because its Tambora Greenland mean (59, 22 cores
 - Dome C Δ33S: PANGAEA rows through the text tool.
 - All lags, ratios and analogue dates: **Claude's calculation**, with the uncertainties stated above.
 
-## What needs William's hands (suggestions)
+## What needs human hands (suggestions)
 
 The Mac's own Terminal or Safari is needed. This session's VM had no network.
 
@@ -105,4 +105,4 @@ The Mac's own Terminal or Safari is needed. This session's VM had no network.
 ## Suggested next steps (suggestions)
 
 - With items 1-2, compute the onset month in WDC06A and DSS from raw data, using the same 95th-percentile rule as NEEM. That would reduce the lag uncertainty from about ±4 to about ±2 months.
-- A Δ33S profile through 1809 at bi-monthly resolution (Tunu2013/B40, Burke method) would settle tropical vs extratropical. It exists only as unpublished St Andrews work. William decides whether to contact anyone; no letter has been drafted.
+- A Δ33S profile through 1809 at bi-monthly resolution (Tunu2013/B40, Burke method) would settle tropical vs extratropical. It exists only as unpublished St Andrews work. Whether to contact anyone is a project decision; no letter has been drafted.

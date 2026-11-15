@@ -14,7 +14,7 @@ date: 2026-11-04
 AI-generated (Claude, 4 Nov 2026, for the crowd-sourced GitHub redesign). Not legal advice. Every terms statement below carries a verification level:
 
 - **read**: Claude read the portal's terms page today (quotes are from the page as fetched), or read the licence line inside the PDF on William's Mac.
-- **inferred**: the page was blocked from Claude's cloud container and William's Mac shell has no network today, so the statement is from Claude's knowledge and **needs checking**. Each one that needs William's Safari is now in `unavailable_sources.md` (U179-U194).
+- **inferred**: the page was blocked from Claude's cloud container and William's Mac shell has no network today, so the statement is from Claude's knowledge and **needs checking**. Each one that needs a person's browser is now in `unavailable_sources.md` (U179-U194).
 
 Table: `data/hosting_licence_audit_2026-11-04.csv` (54 rows, one per source or per portal where the portal's terms govern; columns: id, source, holder/portal, where it is held, copyright of the underlying work, terms quote, URL, verification, decision, attribution line, notes).
 
@@ -63,7 +63,7 @@ Hand items added: U179-U188 and U190-U194 (needs Safari or captcha: export each 
 
 Register B50 records Gill's EarthChem Library files 1499, 1502, 1503 as CC BY-SA [inferred from register; landing pages not re-read, U194]. `data/gill_ecl_wholerock_scored_2026-10-26.csv` reproduces Gill's values row by row with our scores added, which makes it an adaptation. Under CC BY-SA 4.0 an adaptation must be shared under CC BY-SA (or a compatible licence), so this one file cannot be released under the repo's CC BY 4.0.
 
-Two clean options (William's choice, T37):
+Two clean options (decided 4 Nov 2026, T37):
 - (a) Put it, and any GEOROC row-level table if U192 confirms CC BY-SA, in `data/third_party_share_alike/` with its own LICENSE note (CC BY-SA 4.0, credit to Gill/EarthChem and GEOROC) and a line in README. Everything else stays CC BY.
 - (b) Drop the row-level tables and publish only per-volcano summaries (counts, medians, best match) plus the script that rebuilds the full table from the downloaded files. My recommendation, because it also avoids a 1.7 MB copy of GEOROC.
 
@@ -85,14 +85,14 @@ Checked against the repo copy `1808-eruption-repo/` on 4 Nov 2026. It holds **no
 6. **Check** `scripts/fetch_newspapers.py` and other fetch scripts for hard-coded cookies or bot-wall workarounds before push.
 7. If William later wants scans in the repo: create a `sources/scans/` folder holding only cited pages from HOST rows, each with its attribution line and "public domain, not covered by the repo's CC BY", never full volumes.
 
-## 6a. William's decisions, 4 Nov 2026 (T37 answered)
+## 6a. Decisions, 4 Nov 2026 (T37 answered)
 
 - **Share-alike data:** option (a). The Gill-derived table now lives in `data/cc-by-sa/` with its own CC BY-SA 4.0 `LICENSE.md`; the root `LICENSE.md` and README name the exception. GEOROC-derived tables stay in `data/` under CC BY 4.0 (GEOROC is CC BY; U192 confirms the item-level licence).
-- **Hudson's Bay Company Archives (row HBCA):** HOST, at William's decision ("let them ask me to take it down"). Cited pages go in `sources/scans/hbca/` with the attribution line; take down on request.
+- **Hudson's Bay Company Archives (row HBCA):** HOST, by decision of 4 Nov 2026 ("let them ask me to take it down"). Cited pages go in `sources/scans/hbca/` with the attribution line; take down on request.
 - **Other cited public-domain scans:** host with the source and licence stated and a takedown note, where the audit says HOST or HOST-AFTER-CHECK; LINK-ONLY rows and section 5 stay out. Per-portal confirmation is task T40.
 - **Takedown note** (in README, LICENSE.md and `sources/scans/README.md`): "If you hold rights in, or believe we should not host, any item here, email 1808@williamsuk.ai and it will be taken down promptly while we look into it."
 - **Strip list done 4 Nov:** the FamilySearch scripts are out of the repo copy and out of `sync_repo_copy.sh`; no paywalled papers, Blong screenshots or FamilySearch images are in the repo copy (checked: its only images are our own plots and maps).
 
 ## 7. Follow-ups
 
-Written into `access/open_tasks.md`: T35 (scan notes for long modern quotations), T36 (confirm item-level licences for NOAA, PANGAEA, Zenodo and archive.org files we would host), T37 (decision: share-alike option a or b; host cited PD scans at launch or link only; seek HBCA/BVD permission or not), T38 (apply the audit to the sync script and repo copy after T37), T39 (William's Safari batch of terms pages U179-U194).
+Written into `access/open_tasks.md`: T35 (scan notes for long modern quotations), T36 (confirm item-level licences for NOAA, PANGAEA, Zenodo and archive.org files we would host), T37 (decision: share-alike option a or b; host cited PD scans at launch or link only; seek HBCA/BVD permission or not), T38 (apply the audit to the sync script and repo copy after T37), T39 (browser batch of terms pages U179-U194).

@@ -59,7 +59,7 @@ Reading [suggestion]: the plateau's trees record the 1810s cold decade clearly, 
 
 - U127 (A): the two NOAA files (Everest rongbuk2009.txt, Dasuopu dasuopu2020elem-noaa.txt), needs Mac download; script ready (section 5).
 - U128 (A): Documenta Nepalica catalogue search for VS 1865-1867 (famine, drought, hail, snow, "sun"), needs Safari (form search).
-- U129 (A): the 9th Dalai Lama's and the regent's biographies at BDRC, needs Safari and a Tibetan reader (whom to ask is William's decision).
+- U129 (A): the 9th Dalai Lama's and the regent's biographies at BDRC, needs Safari and a Tibetan reader (whom to ask is a project decision).
 - U69 (B): Qing Shilu Jiaqing 13-15 and the *Qing dai Xizang difang dang'an wenxian xuanbian* (2017) for Tibetan disaster reports 1808-10, library.
 
 ## 5. For William: one paste-able block (zsh-safe) that writes the test script and runs it on the two downloaded files

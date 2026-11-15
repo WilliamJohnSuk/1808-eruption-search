@@ -88,7 +88,7 @@ Suggested reading (not yet read in this project):
 | aschregen 1809 | 211 | No dated 1808-10 ash fall; Aa 1851 "zoogenaamde aschregen" is at Buitenzorg, Java, later. |
 | "in 1809" uitbarsting vulkaan Molukken | 318 | No 1808-10 event. |
 
-## 6. Needs William's hands (shortest first)
+## 6. Needs human hands (shortest first)
 
 1. ~~Plakaatboek pp. 912-913~~ done 26 Oct (page image, above). Optional further pages: printed pp. ~538, ~816-817 and ~850 (the Mar, Jul and Aug 1809 rice edicts). Original item: **Plakaatboek vol. 15, printed pp. 912-913 (5 Oct 1809 rice-failure edict), plus printed pp. ~538 and ~816-817 and ~850**: look at the page images at https://archive.org/details/nederlandschind01unkngoog (search "droogte" in the viewer). Screenshots would let a thread check the "unusual drought" wording and whether the edict names months or other regions.
 2. Optional, not yet received (the 26 Oct screenshots were all Plakaatboek): Parkinson 1907 pp. 972-973 by eye (https://archive.org/details/dreissigjahreind00park , search the viewer for "Q3ulfan"), to see which navigator saw an active volcano on New Britain and when.

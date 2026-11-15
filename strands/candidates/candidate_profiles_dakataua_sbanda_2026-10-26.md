@@ -130,7 +130,7 @@ GVP description (text fetch): the caldera is 10.5 × 13.5 km, with a lake about 
 ## 4. Candidate CSV
 data/gvp_tropical_candidates_1808.csv has no candidate-tag column (its columns are tier, volcano, GVP number, zone, rock type and eruption fields), so it was not changed.
 
-## 5. What would need William's hands (all optional; paywalled or behind blocked hosts)
+## 5. What would need human hands (all optional; paywalled or behind blocked hosts)
 Save to `~/Downloads/1808-9 Volcano Project/papers/` as Author_Year_Journal_topic.pdf:
 1. **Machida et al. 1996**, Quaternary International 34-36:65-78, "Holocene explosive eruptions of Witori and Dakataua caldera volcanoes" (https://doi.org/10.1016/1040-6182(95)00070-4). This is the key paper: it should list the post-caldera Dakataua eruptions and their dates.
 2. **Neall et al. 2021 Table S1** (figshare; Dk and Witori glass, with K2O). The link is in the article: https://doi.org/10.3853/j.1835-4211.34.2021.1740. Figshare downloads are blocked here.

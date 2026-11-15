@@ -9,9 +9,9 @@ strand: candidates
 date: 2026-10-26
 ---
 
-# Glass and rock compositions for the blank-zone candidates, scored against the 1809 ice glass (26 Oct 2026)
+# Glass and rock compositions for the unrecorded-eruption candidates, scored against the 1809 ice glass (26 Oct 2026)
 
-Thread "Compile glass compositions for candidate volcanoes". Asked: compile every published glass composition (whole-rock where glass is absent, flagged) for the 64 tier-B blank-zone candidates (notes/gvp_candidates_and_volcanocafe_2026-10-22.md), New Britain, Halmahera and the Banda arc first, and score them with the 22 Oct method (notes/glass_comparison_2026-10-22.md).
+Thread "Compile glass compositions for candidate volcanoes". Asked: compile every published glass composition (whole-rock where glass is absent, flagged) for the 64 tier-B unrecorded-eruption candidates (notes/gvp_candidates_and_volcanocafe_2026-10-22.md), New Britain, Halmahera and the Banda arc first, and score them with the 22 Oct method (notes/glass_comparison_2026-10-22.md).
 
 Files: data/glass_candidates.csv (14 rows added, same columns), data/glass_similarity_2026-10-26.csv (scores), scripts/glass_similarity_2026-10-26.py, data/glass_ice_1809.csv (H15 row added). William's download filed as `~/Downloads/1808-9 Volcano Project/papers/Faral_2022_JVGR_Ternate_Tidore_tephras.pdf`, key pages rendered to `faral_2022_pages/faral2022_pNN.png`.
 
@@ -49,7 +49,7 @@ Files: data/glass_candidates.csv (14 rows added, same columns), data/glass_simil
 - Banda Besar and Naira calderas (Suhendro et al. 2022, Geosciences 12:428, text fetch): rhyolite 73.1–73.8 and dacite 66.2–67.2 SiO2, prehistoric. Too silicic for the 1809 ice glass.
 - Gill, EarthChem Library 1499 (doi:10.26022/IEDA/111499): Banda Api, Banda Neira, Manuk, Serua, Damar, Ambon whole rock (.xlsx). Vroon 1992 thesis (Utrecht; Sr-Nd-Pb on seven Banda islands): the PDF fetch failed.
 
-### Other blank-zone arcs (quick look)
+### Other unrecorded-eruption arcs (quick look)
 - **Tonga (Hunga):** 2022 products are low-K basaltic andesite, K2O 0.5–0.6, mean tephra glass SiO2 57.9 (Ukstins et al., EGU22-13585, text fetch). Tonga glass is far below the 1809 glass in K2O (inference).
 - **Bougainville:** Bagana lavas are 56–58 SiO2, medium-K, with a calculated groundmass of 63–66 SiO2 (J. Petrol. 2024 egae065, text fetch). No data for Billy Mitchell, Balbi, Loloru or the other tier-B Solomons volcanoes.
 - **SE New Guinea:** Lamington 1951 andesite is 58.7–61.2 SiO2 whole rock, and its enclave glass is rhyolitic (Zhang et al. c. 2015, text fetch). Nothing found for Victory, Waiowa or the other D'Entrecasteaux centres.
@@ -88,7 +88,7 @@ Borchardt similarity on SiO2, Al2O3, FeOt, MgO, CaO, Na2O and K2O. Same-source g
 
 Added to data/glass_ice_1809.csv: H15 (Mizuho Plateau) 1809 layer, "fine ash-like materials (~10 µm)", unanalysed (Kohno et al. 1996, p. 50; register B43). Unanalysed particles were also found in the 1816 layer.
 
-## 6. Needs William's hands (all optional; shortest first)
+## 6. Needs human hands (all optional; shortest first)
 
 1. **GEOROC precompiled files** (convergent-margin CSVs) for New Britain/Bismarck, Halmahera, Sangihe/Sulawesi, Banda, Bougainville/Solomons and PNG. Download them in a browser from the Göttingen Research Online GEOROC dataverse (https://data.goettingen-research-online.de/dataverse/digis) into `1808-9 volcano research/data/georoc/`. A folder thread can then score every analysis with a GLASS or whole-rock label without internet.
 2. **Gill's EarthChem Library sheets:** Halmahera (https://doi.org/10.26022/IEDA/111502), Banda (https://doi.org/10.26022/IEDA/111499), Sangihe (https://ecl.earthchem.org/view.php?id=1503). Use the "Download" button on each page; save to the same folder.

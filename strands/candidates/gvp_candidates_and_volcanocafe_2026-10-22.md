@@ -15,14 +15,14 @@ date: 2026-10-22
 - Source: Smithsonian GVP *Volcanoes of the World* 4.6.7 (snapshot 8 May 2018, as bundled in pyvolcans 1.3.3). Current GVP v5 may differ, so check each volcano page before relying on a row.
 - Table: data/gvp_tropical_candidates_1808.csv. It has 710 Holocene volcanoes within 25° of the equator. Script: scripts/gvp_candidates.py.
 - Zones are an inference from our negative searches:
-  - **blank**: the Moluccas, Sulawesi, Sangihe, the Banda Sea, the central and southern Philippines, New Guinea, Melanesia, Tonga/Fiji/Samoa, the central and eastern Pacific, Galápagos.
+  - **unrecorded** (called "blank" before 15 Nov 2026): regions where we have found no surviving written record of 1808-10 events in the sources searched so far, which says nothing about the people who lived there: the Moluccas, Sulawesi, Sangihe, the Banda Sea, the central and southern Philippines, New Guinea, Melanesia, Tonga/Fiji/Samoa, the central and eastern Pacific, Galápagos.
   - **partly watched**: the Lesser Sundas, the southern Andes and Altiplano, East Africa, the Red Sea, the western Indian Ocean, the Marianas, Hawaii.
   - **watched**: regions whose records were read with negative results.
 - Tiers:
   - **A** (21): GVP has an eruption dated by proxy (or undated) whose range covers 1806–1811, or a "last known eruption" of 1790–1830 with no eruption row. Proxy dates with no stated uncertainty are treated as ±50 years.
-  - **B** (64): blank zone, andesite to rhyolite, no historically observed eruption in 1700–1900, so an unrecorded eruption is possible.
+  - **B** (64): unrecorded zone, andesite to rhyolite, no historically observed eruption in 1700–1900, so an unrecorded eruption is possible.
   - **H** (15): historically observed eruptions in 1806–1811. All are VEI ≤3 and all are already known.
-  - **C**: other blank-zone volcanoes.
+  - **C**: other unrecorded-zone volcanoes.
   - **X**: deep submarine, excluded.
 - Tier A, worth a closer look (inference):
   - **Witori (New Britain, PNG): dacite, VEI 4 by tephrochronology "1800" (no uncertainty given).** This is the W-H6 tephra already noted in the oral-history strand. Dacite fits the andesitic/dacitic ice-core glass. A VEI 4 is probably too small for 13–19 Tg S, but tephra-based VEIs can be underestimates. **Lead:** find the W-H6 dating paper (Machida et al. 1996?; Neall et al. 2008, *JVGR*) and any glass analyses to compare with the South Pole/Dome C 1809 shards.

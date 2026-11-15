@@ -63,7 +63,7 @@ archive.org full-text search for "Huaheine" 1809-1813 gave about 44 hits; the mi
 ## 4. Marsden
 Samuel Marsden was in England from 1807 and returned to Sydney on the *Ann* in Feb 1810, so he saw no part of the Pacific in Nov 1808 to Feb 1810. His NSW correspondence for 1809 is in Historical Records of NSW vol. 7, already searched (B12). The 1858 *Memoirs* (ENZB) has nothing dated 1808-10 in its contents. Elder's *Letters and Journals of Samuel Marsden* (1932) not checked (no free text located). Low priority.
 
-## 5. Needs William's hands
+## 5. Needs human hands
 1. **Davies journal 1808-1810 (SOAS CWM/LMS South Seas Journals Box 3, file 33, 197 pp.)**, plus file 34 (16 pp). Routes: (a) check whether the NLA AJCP microfilm of LMS South Seas Journals is viewable online (guide nla.obj-1126174847; open in Safari); (b) Adam Matthew is a paid database; (c) SOAS reprographics. Ask for the period Nov 1808 to Feb 1810 only.
 2. Optional: borrow Newbury 1961 on archive.org (`historyoftahitia0000davi`) for an hour and screenshot the chapter covering 1808-1810, which summarises the Davies journal.
 3. Optional: *Transactions of the Missionary Society* vol. 4 (1813-18) via ILL; it printed the Huahine journal.

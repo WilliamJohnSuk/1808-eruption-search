@@ -28,10 +28,10 @@ date: 2026-10-22
 - **Witori W-H6 does not match any 1809 ice glass.** It is a low-K rhyolite (SiO2 72, K2O 1.2, FeO 3.8), whereas the Antarctic 1809 glass is a high-Fe andesite. Witori stays possible only if its glass never reached the ice. Its age is also only bounded to post-1426 and pre-c.1914; the "1800" date in GVP is not a direct date.
 - **The Andean dacites (Tutupaca 1802, Ticsani, Tambo Quemado) are poor fits.** Their whole rock is 63–68% SiO2, and the glass of a dacite is more silica-rich still (Tutupaca glass is described as "essentially rhyolitic"). The Antarctic 1809 glass is about 60% SiO2. No glass numbers exist for them, so this is inference, not a test.
 - **The Antarctic 1809 glass belongs to the same family as Long Island's Tibito tephra (Bismarck arc, PNG).** Both are high-Fe arc basaltic andesite to andesite with moderate K. The SC of 0.88 is below the same-source threshold, and Tibito is dated 1665–68, so this is not a match to that eruption. It points to a high-Fe island-arc magma of the Bismarck, Melanesian or Indonesian type rather than the Andes or Witori. Plunkett 2023 likewise calls the South Pole glass comparable to Indonesian glass.
-- **Caveats.** The ice samples are few (6–13 shards) and mostly old EDAX analyses. Three different 1809-era glasses exist, and none needs to come from the main sulfur source. There are no trace-element data. For most blank-zone volcanoes no glass data could be found, so they are untested, not excluded.
+- **Caveats.** The ice samples are few (6–13 shards) and mostly old EDAX analyses. Three different 1809-era glasses exist, and none needs to come from the main sulfur source. There are no trace-element data. For most unrecorded-eruption candidates no glass data could be found, so they are untested, not excluded.
 
 **Next.**
 1. Siple Dome per-shard microprobe files (USAP-DC 609110 and 609126; browser download, reCAPTCHA).
 2. Long Island: check for any eruption after Tibito but before 1900. The GVP history between Tibito and 1953 is blank, and Blong's withdrawn lead-210 dates of 1800–1820 are worth re-reading only as context.
-3. Glass data for Bismarck-arc and Banda/Halmahera volcanoes, through GEOROC in William's browser or a request to a lab.
+3. Glass data for Bismarck-arc and Banda/Halmahera volcanoes, through GEOROC in a person's browser or a request to a lab.
 4. Send this comparison to the St Andrews (Hutchison) or QUB (Plunkett) groups, who have unpublished 1809 cryptotephra.

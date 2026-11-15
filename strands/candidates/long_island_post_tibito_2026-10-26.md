@@ -83,7 +83,7 @@ https://journals.australian.museum/media/Uploads/Journals/17575/292_complete.pdf
 | Kadovar (251002) | andesite | possibly Dampier's 1700 "smoking island"; Johnson 2013: "possibly Kadovar" emitted plumes 1528-1870 | yes | Johnson 2013 ch. 1-2 (OCR/summary) |
 
 - Johnson 2013, *Fire Mountains of the Islands* (ANU Press, open access), ch. 2 "Volcano Sightings by European Navigators: 1528-1870" (OCR/summary): **the chapter records no PNG volcano sighting dated 1797-1826**. The 1800-1830 entries are d'Urville at Ritter in 1827 (no activity) and Morrell at Manam in 1830 (doubtful). https://press-files.anu.edu.au/downloads/press/p223471/html/ch02.xhtml ; ch. 1 (Dampier 1700) https://press-files.anu.edu.au/downloads/press/p223471/html/ch01.xhtml?page=8
-- Inference: nobody watched the Bismarck Sea between D'Entrecasteaux (1793) and d'Urville (1827). An eruption of any of these volcanoes in 1808 would have no European witness, and only Long Island has a stratigraphy and oral history detailed enough to show one.
+- Inference: we know of no written account from the Bismarck Sea between D'Entrecasteaux (1793) and d'Urville (1827). People lived around the Bismarck Sea throughout, but an eruption of any of these volcanoes in 1808 would have left no European written account that we know of, and only Long Island has a stratigraphy and oral history detailed enough to show one.
 
 ## 3. Fit to the 1809 evidence (inference)
 - **Sulfur:** Long Island's VEI 6 gave about 4 Tg S (Gabriel 2025), and its neighbours are smaller, mostly basaltic, open-vent volcanoes. To make the 1809 sulfur, a Bismarck-arc eruption would have to be larger than Tibito. That would leave a highland ash at least as widespread as Tibito, and none exists (Firth 2024; Blong's survey).

@@ -13,7 +13,7 @@ date: 2026-10-28
 
 Thread "Check Cabalían parish records on FamilySearch". Option 10 of notes/creative_next_steps_2026-10-28.md (B62), chosen by William on 28 Oct 2026. Register entry B63. Unavailable-sources list: U35 and U84 updated, U86, U87, U120, U121, U122 added.
 
-Labels used below: **[text]** = text of a FamilySearch catalogue, wiki or collection page fetched from Claude's cloud container on 28 Oct 2026 (no page image seen; no image of any register has been opened); **[calc]** = Claude's calculation; **[memory]** = Claude's general knowledge, not verified this session; **[speculation]** = an idea, not a finding; **(suggestion)** = a proposed step for William to decide on. Nothing in this note is a quotation from a register.
+Labels used below: **[text]** = text of a FamilySearch catalogue, wiki or collection page fetched from Claude's cloud container on 28 Oct 2026 (no page image seen; no image of any register has been opened); **[calc]** = Claude's calculation; **[memory]** = Claude's general knowledge, not verified this session; **[speculation]** = an idea, not a finding; **(suggestion)** = a proposed step for the project to decide on. Nothing in this note is a quotation from a register.
 
 ## 1. Result in four lines
 
@@ -113,7 +113,7 @@ Cabalían keeps its one objective point (a radiocarbon date whose range includes
 
 - unavailable_sources.md: U35 set to "superseded" (reason in the row); U84 text amended (pre-1861 books probably lost; route now diocesan or government copies); new rows U120 (Guiuan and Llorente), U121 (seven Bohol parishes), U122 (Cebu and Negros parishes) in section A, and U86 (Diocese of Cebu archive and Augustinian provincial archive, Valladolid: estados, visitations and parish letters from Leyte 1808-10, speculation) and U87 (National Archives of the Philippines, Leyte provincial bundles c. 1800-15, speculation) in section C. Next free numbers: A U123, C U88.
 - source_register.md: B63 (coverage), B70 (Baclayon result, 05:58Z). unavailable_sources.md later: U121 amended twice, U144 (Dauis gap) added.
-- No letters were drafted to anyone; contacting the Diocese of Maasin, Cebu or any parish is William's decision.
+- No letters were drafted to anyone; contacting the Diocese of Maasin, Cebu or any parish is a project decision.
 
 ## 9. Terminal downloads, 28 Oct 2026 (added 04:55Z): the Baclayon burial film mapped [page images]
 
@@ -282,4 +282,4 @@ January 1812: 19 burials to the 18th (image 1448, last read). Loon Jan-Aug 1806 
 
 (b) **For the 1810-11 crisis.** The shape is a two-year elevation with adults and reservados dying in the second half of 1810 and gratis burials rising, which fits hunger (the 1809-10 drought belt of B51, B60 and B64 reaches 9.6°N; Tagbilaran's 1809 rise would be its first sign), and on top of it a children's wave travelling east to west, Baclayon (January) to Tagbilaran (January-February) to Loon (March-April 1811), which is the signature of a contagious childhood disease (suggestion: smallpox or measles; no source read names one). The books cannot separate the two and they are not exclusive. What would [suggestions]: the Baclayon Padrón de almas 1810-12 (DGS 7769995) for population and any year note; the baptism books for conceptions in 1810-11; Baclayon pp. 178 onward and Tagbilaran and Loon 1812 (U145) for the end of the crisis; the Cebu books (U122), which would show the same wave if it came by sea; the Recollect provincial record (U146, U89). None of this bears on the eruption; it is a side result, M-list material.
 
-**Housekeeping.** unavailable_sources.md: U121 to "downloaded and read", U144 amended (gap c. 1793-1812), U145 (further Bohol pages), U146 (Ruiz 1925) and U89 (Recollect archive) added. Pages worth keeping under the bulk-scan rule: Baclayon 1475-1545, Tagbilaran 2021-2075, Loon 1418-1448, and the dating samples Dauis 1501, 1511, 1551; Tagbilaran 2008-2020 and the 1901-2451 samples, Loon 1360-1417 and its samples, and the other Dauis samples served only to find dates and can go to `_to_delete/` (William's call). Folder access to the Mac is no longer needed for this strand.
+**Housekeeping.** unavailable_sources.md: U121 to "downloaded and read", U144 amended (gap c. 1793-1812), U145 (further Bohol pages), U146 (Ruiz 1925) and U89 (Recollect archive) added. Pages worth keeping under the bulk-scan rule: Baclayon 1475-1545, Tagbilaran 2021-2075, Loon 1418-1448, and the dating samples Dauis 1501, 1511, 1551; Tagbilaran 2008-2020 and the 1901-2451 samples, Loon 1360-1417 and its samples, and the other Dauis samples served only to find dates and can go to `_to_delete/` (housekeeping). Folder access to the Mac is no longer needed for this strand.

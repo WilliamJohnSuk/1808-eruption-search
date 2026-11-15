@@ -2,8 +2,10 @@
 
 Thank you for helping look for the 1808/09 volcano. Historians, archivists, volcanologists, ice-core and coral scientists, sailors, genealogists, translators and curious readers are all useful here, and so are AI agents run by people who stand behind them.
 
+If you are running an AI agent, have it read [AGENTS.md](AGENTS.md) before it starts. It summarises the rules below for agents and points to the right files.
+
 ## The short version
-1. **Check the register first.** Search [`sources/register.md`](sources/register.md) and [`access/unavailable_sources.md`](access/unavailable_sources.md) for your source. If it is there, say what you can add (a reading, a page image, a better link).
+1. **Check the register first.** Search [`sources/register.md`](sources/register.md) (the [register index](sources/register_index.md) lists its sections) and [`access/unavailable_sources.md`](access/unavailable_sources.md) for your source. If it is there, say what you can add (a reading, a page image, a better link).
 2. **Open an issue** with one of the forms. No git is needed, and a link plus one sentence is a fine start.
 3. **Label what you did.** Say how you read the source (verification level) and whether an AI tool wrote any of your text.
 4. **Phrase negatives carefully.** "We found no report of ash in the *Gazeta de Lisboa*, Nov 1808 to Mar 1809 (issues read: ...)", never "there was no ash".
@@ -60,7 +62,7 @@ The existing notes were all written by Claude under William's direction; the scr
 ## Pull requests (for git users)
 
 - Add rows; do not delete them. If a row is wrong, change its status and say why, so the trail stays complete.
-- Source register: add a new row with the next free number shown at the foot of the section. Unavailable sources: next free U-number. Open tasks: next free T-number.
+- Source register: add a new row with the next free number shown at the foot of the section. After changing the register, regenerate its index with `python3 scripts/build_register_index.py` and commit both. Unavailable sources: next free U-number. Open tasks: next free T-number.
 - Findings: propose rows for `findings/findings.csv` in a pull request; the maintainer reviews every change there (see [GOVERNANCE.md](GOVERNANCE.md)).
 - Notes go in the right `strands/<region>/` folder, one file per strand, named with a date (`topic_YYYY-MM-DD.md`).
 - Scripts: plain Python 3 with few dependencies; put the date in the folder name and say what data they read.

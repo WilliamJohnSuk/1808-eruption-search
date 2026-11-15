@@ -161,7 +161,7 @@ ANRI public-services page and SOP no. 130/2025 on the LARISSA service, read thro
 
 ## 12. Indonesian-language search for local archive researchers (2 Nov 2026)
 
-Asked by William. Three web searches in Indonesian (jasa penelusuran arsip ANRI; jasa peneliti arsip Belanda VOC / penerjemah arsip kolonial; penerjemah bahasa Belanda kuno / transkripsi paleografi) [text, web]. **We found no advertised paid service for searching or copying ANRI's colonial archives in these.** Leads only (contact is William's decision; nothing drafted):
+Asked by William. Three web searches in Indonesian (jasa penelusuran arsip ANRI; jasa peneliti arsip Belanda VOC / penerjemah arsip kolonial; penerjemah bahasa Belanda kuno / transkripsi paleografi) [text, web]. **We found no advertised paid service for searching or copying ANRI's colonial archives in these.** Leads only (contact is a project decision; nothing drafted):
 - Universitas Padjadjaran (Bandung), History programme: course "Bahasa Belanda Arsip I & II" trains students to read and translate VOC and Netherlands-Indies archival Dutch; lecturers Prof. Kunto Sofianto and Budi Gustaman, M.A. [course page, text]. A possible route to a trained student assistant [suggestion].
 - ProZ.com profile 1392463: Dutch-Indonesian translator, Universitas Indonesia BA, 16 years, EUR/USD 0.05-0.08 per word, sample from a history dissertation on colonial Batavia; no stated archive-visit or handwriting service [profile, text].
 - ANRI itself has in-house transliterators (its own VOC letter transliteration and translation publications) [text], which supports using LARISSA (section 11) rather than a private intermediary.

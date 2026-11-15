@@ -15,7 +15,7 @@ Thread "Think creatively about next steps". Written for William to pick from by 
 
 ## 1. Where the search stands (five lines, from the register and notes)
 
-- About 19 Tg S reached both ice sheets at the same time, from the stratosphere (Δ33S). The Bogotá veil (11 Dec 1808) and Edo's red skies (from 9 Jan 1809), both page-image, date the eruption to about mid-November to early December 1808. Nobody is known to have seen it.
+- About 19 Tg S reached both ice sheets at the same time, from the stratosphere (Δ33S). The Bogotá veil (11 Dec 1808) and Edo's red skies (from 9 Jan 1809), both page-image, date the eruption to about mid-November to early December 1808. We know of no account of the eruption itself.
 - The 1809 ice glass is an iron-rich medium-K andesite (~60% SiO2). Major elements alone cannot pick the arc; low-K arcs (Tonga, the New Britain front, northern Banda) are out. No trace elements have been published for any 1805-12 ice glass.
 - Priority list (B53): Dakataua/Makalia, Gaua, Cabalían; possible Agung, Todoko-Ranu, Dukono, Teon, Nila, northern Sulawesi.
 - The documentary net is now very wide (Iberian, Dutch, German, British and American papers; EIC, Royal Navy, HBC and whaling logs; China, Korea, Ryukyu, Japan; Dutch Indies archives inv. 19, 20, 22) and almost wholly negative. The positive non-veil signals are the Java drought and rice failure of 1809, the Guangdong-Guangxi drought of 1809, the EIC marine air-temperature step of Dec 1808-Jan 1809, and now the corals (2.3).
@@ -85,9 +85,9 @@ EVA_H (see 2.1) is cloned and runnable after two pip installs. It gives monthly 
 7. **Pre-register the trace-element discriminators.** From GEOROC (if trace columns are in the downloaded CSVs; otherwise a Mac download), compute which ratios (Ba/La, Nb/Zr, Sr/Y, Th/Nb, La/Yb) separate Dakataua, Gaua, the Banda arc, Halmahera, northern Sulawesi and Cabalían, so that the day someone measures the ice glass there is a lookup table. Yield M now, H later; publishable as a short methods note.
 8. **PANGAEA sweep for archives that already exist.** Search PANGAEA metadata (reachable from here) for lake, marine and coral cores within 300 km of each top candidate with sub-decadal resolution through 1800-1820 (Banda Sea, Bismarck Sea, Halmahera, Vanuatu lakes). A core that already exists is cheaper than a new one. Yield M-H.
 
-### B. Needs William's hands first
+### B. Needs human hands first
 
-9. **BL Add MS 12350, Bugis diary, 1808 to 9 July 1809** (also July-August 1812), apparently a copy of the diary of the king of Bone, Aḥmad aṣ-Ṣāliḥ, cross-referenced to Add MS 12354-12357, captured from the palace of Bone in 1814 [text, BL catalogue]. The only indigenous day-by-day record from Sulawesi for the window; Bone is 700 km from the Banda arc, 1,000 km from northern Sulawesi and Halmahera, 2,000 km from New Britain. Bugis court diaries record eclipses, earthquakes, strange skies, epidemics and prices [memory]. Needs Safari for the viewer (if digitised; the catalogue text read here did not say) and a reader of Bugis script; contacting anyone is William's decision. U34. Yield H if anything, L-M if nothing.
+9. **BL Add MS 12350, Bugis diary, 1808 to 9 July 1809** (also July-August 1812), apparently a copy of the diary of the king of Bone, Aḥmad aṣ-Ṣāliḥ, cross-referenced to Add MS 12354-12357, captured from the palace of Bone in 1814 [text, BL catalogue]. The only indigenous day-by-day record from Sulawesi for the window; Bone is 700 km from the Banda arc, 1,000 km from northern Sulawesi and Halmahera, 2,000 km from New Britain. Bugis court diaries record eclipses, earthquakes, strange skies, epidemics and prices [memory]. Needs Safari for the viewer (if digitised; the catalogue text read here did not say) and a reader of Bugis script; contacting anyone is a project decision (Discussion). U34. Yield H if anything, L-M if nothing.
 10. **FamilySearch "Philippines, Eastern Visayas, Church Records, 1716-2014" (collection 5000329)**: browse the images by parish for Cabalían (now San Juan), Sogod, Liloan, Hinunangan and Maasin, 1808-10, looking for burial spikes and marginal notes. Free account plus Safari. The cheapest test of U84, even if 2.1 lowers Cabalían's odds. U35. Yield H for that question.
 11. **Two Mac downloads that unlock options 1 and 3:** the eVolv2k supplement zip (U36) and the Krakatoa report PDF (U37).
 12. **Thai dynastic chronicle** (Thiphakorawong), First Reign (1935 Thai edition, PDF on Wikimedia Commons, Safari; Flood's English translation, library) and the Second Reign from September 1809: omens listed before Rama I's death on 7 Sep 1809 and the Burmese attack on Phuket in late 1809 [memory for the dates]. U38, U65. Yield L-M.
@@ -98,12 +98,12 @@ EVA_H (see 2.1) is cloned and runnable after two pip installs. It gives monthly 
 
 ### C. Reframings
 
-17. **Treat it as a sampling problem, not a reading problem.** Sixty-odd negative sources say the eruption was not seen by anyone who wrote. The remaining effort should go to deposits: ice-glass trace elements, existing cores (option 8), the H15 and Talos Dome ash. A one-page "evidence that would settle it" table, with owner, cost and lead time, is a better basis for William's decisions on contacting researchers than another newspaper run.
+17. **Treat it as a sampling problem, not a reading problem.** Sixty-odd negative sources say the eruption was not seen by anyone who wrote. The remaining effort should go to deposits: ice-glass trace elements, existing cores (option 8), the H15 and Talos Dome ash. A one-page "evidence that would settle it" table, with owner, cost and lead time, is a better basis for the project's decisions on contacting researchers than another newspaper run.
 18. **Two problems, not one.** Separate "which volcano" from "what did the eruption do". The second is answerable now (corals, Java rice, the Guangdong drought, EIC temperatures, Edo's skies, Bogotá) and is the material of a paper whatever happens to the first.
 19. **Invert the ENSO disagreement (B58).** Tree rings say La Niña 1808-10, corals say El Niño-like from December 1808 to May 1809. The Lombok December 1808 spike shows how volcanic cooling at a western-Pacific coral site mimics El Niño in δ18O. A short note arguing that the coral classifier is contaminated by the eruption would resolve a published disagreement [speculation until tested against the Galápagos and Palau records].
 20. **Hemisphere from the veil's own timing** rather than from the ice (option 3): the veil reached Bogotá (4.6°N) and Lima (12°S) within days of each other, Edo (36°N) a month later, and Europe never, in the literature reviewed. With the Krakatau table this becomes a formal test of the source hemisphere.
 
-### D. Needs other people, a field season or a laboratory (William's decisions)
+### D. Needs other people, a field season or a laboratory (project decisions)
 
 21. Ice-glass trace elements (U90-92: Hutchison, Plunkett, McConnell): unchanged as the top physical test.
 22. A Lake Dakataua core, and Machida 1996 for the Dakataua tephra chemistry (U47).

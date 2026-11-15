@@ -153,7 +153,7 @@ FAME COMPLETE (page image), 10 Oct 1809-16 Jul 1810.
 
 **What this strand shows.** American and London whalers left a dense daily record across the S Atlantic, SE Pacific and SE Africa from Sep 1808 to mid-1810, and they saw nothing unusual in the sky or sea. That is a weak negative for any large eruption plume, ash or pumice reaching those waters. It says nothing about the western Pacific or Indonesia, where no American log in this set was present.
 
-## 4. What needs William's hands
+## 4. What needs human hands
 1. Done: the six downloads (27 Oct).
 2. Library visit (already listed): Readex marine lists Dec 1808-Jul 1810 (Salem Gazette, Columbian Centinel, NY Mercantile Advertiser and others). These would show arrivals from Canton, Manila and Sumatra with captains' reports.
 3. Optional, catalogue only, not digitized: Atlas (NHA, Reuben Joy, Pacific 1808-10); Mars (NHA Log 298); PEM Hunter and Hamilton 1809 (microfilm PMB 202); Life at Sea logs Catherine 1809 and Thomas 1809-10 (subscription). Only worth chasing if they reached the western Pacific; the catalogue does not say they did.
@@ -168,8 +168,8 @@ FAME COMPLETE (page image), 10 Oct 1809-16 Jul 1810.
   - No archive.org copy of Choyce was found in a quick search.
 - **Colonial Sydney whalers and sealers.**
   - Small vessels sealed in Bass Strait, New Zealand and the subantarctic in 1808-10. For example, Hasselborough's Perseverance found Campbell Island (Jan 1810) and Macquarie Island (Jul 1810); that is from general knowledge, not checked here. These are Southern Ocean waters, one of the unwatched zones.
-  - Almost no logs survive. Their reports went into the Sydney Gazette shipping news, which still needs William's Trove API key.
+  - Almost no logs survive. Their reports went into the Sydney Gazette shipping news, which still needs a Trove API key.
   - The whalinghistory.org Australian Colonial Whaling database (https://whalinghistory.org/tv/reports/) mainly covers later decades. Not queried.
 - **Dutch, French and other European whaling.** Near nil in 1808-10 because of the war and the British blockade. There are no known southern voyages, and the northern (Greenland/Davis Strait) Dutch and German fleets had stopped. British Greenland whalers (Hull, Whitby) did sail. They worked the Arctic in Apr-Aug only, which is far from a tropical source, though their logs could record the 1809 summer conditions. Not searched.
 - **Japanese whaling.** These were coastal net-whaling groups (kujiragumi) at Taiji (Kii), Tosa, Ikitsuki/Hirado and Gotō (Hizen), and Nagato. The surviving records are catch ledgers, accounts and group histories in Japanese, mostly in print or local archives. They are not ship logs, but they are dated day by day in the winter season (about Dec-Mar). A Kii, Tosa or Kyushu ledger for winter 1808-09 could note odd skies, a tsunami or ash, and Taiji is on the Kii coast where Tsuji 2025 places the small 4 Dec 1808 tsunami. Not found online in this search. This is a lead for a Japanese-reading specialist (suggestion).
-- **What needs William's hands:** nothing new. The Trove key (already listed) would open the Sydney sealing reports. Library or ILL options, all optional: Stackpole *Whales and Destiny* pp. 293-297 (Argo); Choyce *Log of a Jack Tar*; Miller *A Trip to Sea* (in Google Books, which he can open in a browser).
+- **What needs human hands:** nothing new. The Trove key (already listed) would open the Sydney sealing reports. Library or ILL options, all optional: Stackpole *Whales and Destiny* pp. 293-297 (Argo); Choyce *Log of a Jack Tar*; Miller *A Trip to Sea* (in Google Books, which he can open in a browser).

@@ -15,7 +15,7 @@ Thread: "Japanese writing on the 1809 red skies". Question: has anyone writing i
 
 ## Answer
 
-**No one found.** In Japanese-language scholarship reachable from here (J-STAGE full search, metsoc.jp *Tenki* PDFs, KAKEN project records, JpGU/EMS abstracts, NIPR repository, Japanese web), nobody connects the Edo or Tottori red skies to a volcano or to the 1809 sulfate, and nobody catalogues them apart from Musha 1943 (as earthquake omens). Verification: search-result and abstract level; full texts of two key papers could not be opened (see "Needs William").
+**No one found.** In Japanese-language scholarship reachable from here (J-STAGE full search, metsoc.jp *Tenki* PDFs, KAKEN project records, JpGU/EMS abstracts, NIPR repository, Japanese web), nobody connects the Edo or Tottori red skies to a volcano or to the 1809 sulfate, and nobody catalogues them apart from Musha 1943 (as earthquake omens). Verification: search-result and abstract level; full texts of two key papers could not be opened (see "New leads" below).
 
 Three things the search did turn up:
 
@@ -29,7 +29,7 @@ Three things the search did turn up:
 
 So the statement for the blog stays as it is: the Edo red skies are "not found in the literature we reviewed" in a volcanic context; Musha 1943 printed them as earthquake omens.
 
-## New leads (need print or William's hands)
+## New leads (need print or human hands)
 
 | Lead | What it could give | Access |
 |---|---|---|
