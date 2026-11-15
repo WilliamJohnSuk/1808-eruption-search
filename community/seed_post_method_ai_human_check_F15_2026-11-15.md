@@ -16,6 +16,8 @@ Before this repository went public, William John Suk read the page images behind
 
 **Why.** The sky column is printed about half a row higher than the day numbers, so OCR and the AI reader paired each entry with the wrong day. We counted the 29 entries on the image from the top and from the bottom, and both counts put the corona on **15 Feb**. The AI had also cited the wrong issue: the table is in núm. 10 (6 Mar 1808), not núm. 7.
 
+**And a third.** The record also said Caldas logged a veil "a handful of times a month". William then checked all seven 1808 tables himself: there are veils on 10 days out of 212, and a corona only twice.
+
 **What changed.** The date and the citation are corrected. The finding itself stands. The full write-up is in `findings/CHECKS_README.md` under "Corrections caught by human checks".
 
 **Over to you.** Have you met the same trap, with text columns offset from the row numbers, in other historical tables? If you check any finding here and something doesn't match, please open a "Re-check a source or finding" issue. Disagreements are recorded and never deleted.
