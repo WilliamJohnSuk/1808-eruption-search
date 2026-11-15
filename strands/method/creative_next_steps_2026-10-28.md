@@ -15,7 +15,7 @@ Thread "Think creatively about next steps". Written for William to pick from by 
 
 ## 1. Where the search stands (five lines, from the register and notes)
 
-- About 19 Tg S reached both ice sheets at the same time, from the stratosphere (Δ33S). The Bogotá veil (11 Dec 1808) and Edo's red skies (from 9 Jan 1809), both page-image, date the eruption to about mid-November to early December 1808. Nobody is known to have seen it.
+- About 19 Tg S reached both ice sheets at the same time, from the stratosphere (Δ33S). The Bogotá veil (11 Dec 1808) and Edo's red skies (from 9 Jan 1809), both page-image, date the eruption to about mid-November to early December 1808. We know of no account of the eruption itself.
 - The 1809 ice glass is an iron-rich medium-K andesite (~60% SiO2). Major elements alone cannot pick the arc; low-K arcs (Tonga, the New Britain front, northern Banda) are out. No trace elements have been published for any 1805-12 ice glass.
 - Priority list (B53): Dakataua/Makalia, Gaua, Cabalían; possible Agung, Todoko-Ranu, Dukono, Teon, Nila, northern Sulawesi.
 - The documentary net is now very wide (Iberian, Dutch, German, British and American papers; EIC, Royal Navy, HBC and whaling logs; China, Korea, Ryukyu, Japan; Dutch Indies archives inv. 19, 20, 22) and almost wholly negative. The positive non-veil signals are the Java drought and rice failure of 1809, the Guangdong-Guangxi drought of 1809, the EIC marine air-temperature step of Dec 1808-Jan 1809, and now the corals (2.3).

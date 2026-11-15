@@ -2,7 +2,7 @@
 
 **A crowd-sourced research collaboration between people and AI systems, looking for the unidentified volcanic eruption of 1808/09.**
 
-Some time around the end of 1808, a large volcanic eruption put about twice as much sulfur into the stratosphere as Pinatubo did in 1991. Its sulfate lies in the ice of both Greenland and Antarctica, it helped start the cold decade that Tambora finished in 1815, and nobody knows where it was. No eyewitness of the eruption itself has ever been found.
+Some time around the end of 1808, a large volcanic eruption put about twice as much sulfur into the stratosphere as Pinatubo did in 1991. Its sulfate lies in the ice of both Greenland and Antarctica, it helped start the cold decade that Tambora finished in 1815, and nobody knows where it was. We know of no eyewitness account of the eruption itself.
 
 This repository is an open evidence trail for finding it. It holds what has been searched, what came up empty, the leads that might be worth a second look, and the data and scripts behind every calculation. Anyone can add a source, check a reading, argue for a candidate volcano or tell us we are wrong.
 
