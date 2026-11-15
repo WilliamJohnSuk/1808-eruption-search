@@ -88,7 +88,7 @@ Borchardt similarity on SiO2, Al2O3, FeOt, MgO, CaO, Na2O and K2O. Same-source g
 
 Added to data/glass_ice_1809.csv: H15 (Mizuho Plateau) 1809 layer, "fine ash-like materials (~10 µm)", unanalysed (Kohno et al. 1996, p. 50; register B43). Unanalysed particles were also found in the 1816 layer.
 
-## 6. Needs William's hands (all optional; shortest first)
+## 6. Needs human hands (all optional; shortest first)
 
 1. **GEOROC precompiled files** (convergent-margin CSVs) for New Britain/Bismarck, Halmahera, Sangihe/Sulawesi, Banda, Bougainville/Solomons and PNG. Download them in a browser from the Göttingen Research Online GEOROC dataverse (https://data.goettingen-research-online.de/dataverse/digis) into `1808-9 volcano research/data/georoc/`. A folder thread can then score every analysis with a GLASS or whole-rock label without internet.
 2. **Gill's EarthChem Library sheets:** Halmahera (https://doi.org/10.26022/IEDA/111502), Banda (https://doi.org/10.26022/IEDA/111499), Sangihe (https://ecl.earthchem.org/view.php?id=1503). Use the "Download" button on each page; save to the same folder.

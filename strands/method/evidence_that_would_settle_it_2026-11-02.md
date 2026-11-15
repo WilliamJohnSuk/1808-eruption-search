@@ -11,7 +11,7 @@ date: 2026-11-02
 
 # Evidence that would settle it: one-page decision table (T13 = creative option 17), 2 Nov 2026
 
-The question is what single piece of evidence would name the 1808/09 volcano, or rule a top candidate in or out, and what each piece costs. Costs and lead times are Claude's estimates [suggestion] unless a quote exists. "Owner" means who has to act. William decides all contact and payment.
+The question is what single piece of evidence would name the 1808/09 volcano, or rule a top candidate in or out, and what each piece costs. Costs and lead times are Claude's estimates [suggestion] unless a quote exists. "Owner" means who has to act. Contact and payment are project decisions, made in Discussions (GOVERNANCE.md); payment also needs whoever pays to agree.
 
 **Strength scale.** **Decisive**: names the volcano on its own. **Strong**: places the eruption in one arc or confirms or kills one candidate. **Supporting**: narrows the date or region.
 
@@ -34,4 +34,4 @@ The question is what single piece of evidence would name the 1808/09 volcano, or
 
 1. **Free, days:** items 4, 9, 11 and 12. They test the top three candidates directly (Cabalían, Dakataua) or sharpen the geochemical tests.
 2. **Cheap, weeks:** item 5 (one LARISSA request) and item 6 (one Kew page check, £9.92). These are William's money and wording; step-by-step instructions are in the fleet notes, section 15.
-3. **The only decisive route at scale is item 1** (glass trace elements). It needs a researcher, so it is William's decision (T21). The lookup table now makes the request concrete: "measure Zr, Nb, La, Ba on 1809 shards and compare with this pre-registered table".
+3. **The only decisive route at scale is item 1** (glass trace elements). It needs a researcher, so it is a project decision (T21). The lookup table now makes the request concrete: "measure Zr, Nb, La, Ba on 1809 shards and compare with this pre-registered table".

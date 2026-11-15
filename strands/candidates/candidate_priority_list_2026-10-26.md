@@ -25,7 +25,7 @@ Thread "Rank the candidate volcanoes". William asked (26 Oct 23:01): "do we have
 | **Local-record coverage** | Moluccas, N Sulawesi, Mindanao, New Britain, Banda and Halmahera sources silent Nov 1808-mid 1810, weak negative, OCR (B48, B51). Wichmann has no 1809 entry (B49). | A volcano with a European post or chronicle nearby is lowered a little by the silence. A volcano for which we know of no surviving written record nearby is not. |
 | **Ice-core constraints** | Antarctic fallout leads Greenland (Cole-Dai 2009), weakly favouring a southern tropical source. Antarctic 1809/Tambora ratio is even across 15 cores (mean 0.48), so it does not point at any sector; Talos Dome's high ratio is a local Victoria Land eruption, not the main source (B46). | South of the equator gets a small plus. Nothing else in the ice separates the Pacific candidates. |
 
-**The test that would move every candidate at once (suggestion):** trace elements (Zr, Y, Nb, rare earths) on the 1809 ice shards. Nobody has published them. The holders of unpublished 1809 glass are Hutchison (St Andrews), Plunkett (Belfast) and McConnell (DRI); whether to contact them is William's decision.
+**The test that would move every candidate at once (suggestion):** trace elements (Zr, Y, Nb, rare earths) on the 1809 ice shards. Nobody has published them. The holders of unpublished 1809 glass are Hutchison (St Andrews), Plunkett (Belfast) and McConnell (DRI); whether to contact them is a project decision (Discussion).
 
 ## 2. Top tier
 

@@ -1,6 +1,6 @@
 # Launch checklist (move to `community/archive/` once the repository is public)
 
-What must happen before the first push and before the repository goes public. Written 4 Nov 2026, updated the same day with William's decisions. Keep `access/open_tasks.md` (T-numbers) in step. 13 Nov 2026: William created the empty private repository `WilliamJohnSuk/1808-eruption-search`; initial commit 3a81f27 pushed to `main` the same day (353 files). William renamed his GitHub account to `WilliamJohnSuk` the same day; the repository is now `WilliamJohnSuk/1808-eruption-search` and old links redirect.
+What must happen before the first push and before the repository goes public. Written 4 Nov 2026, updated the same day with the decisions taken. Keep `access/open_tasks.md` (T-numbers) in step. 13 Nov 2026: William created the empty private repository `WilliamJohnSuk/1808-eruption-search`; initial commit 3a81f27 pushed to `main` the same day (353 files). William renamed his GitHub account to `WilliamJohnSuk` the same day; the repository is now `WilliamJohnSuk/1808-eruption-search` and old links redirect.
 
 ## 1. Evidence: bring the trail up to date (thread "Close the pre-launch gaps in the synthesis")
 
@@ -17,7 +17,7 @@ What must happen before the first push and before the repository goes public. Wr
 - [x] **Share-alike data**: the Gill-derived table is in `data/cc-by-sa/` with its own CC BY-SA 4.0 `LICENSE.md`; the exception is stated in `LICENSE.md` and the README. GEOROC-derived tables stay in `data/` (CC BY 4.0).
 - [x] **Strip list** from the audit (`strands/method/hosting_licence_audit_2026-11-04.md` section 6): FamilySearch scripts removed from the repo copy and from `sync_repo_copy.sh`; the repo copy holds no paywalled papers, Blong screenshots or FamilySearch images.
 - [x] **Takedown note** (contact 1808@williamsuk.ai) in README, LICENSE.md and `sources/scans/README.md`.
-- [ ] **Hosted scans**: `sources/scans/` is ready (README, `index.csv`). HBCA pages are HOST at William's decision (T41 copies the cited pages from the Mac). Other cited public-domain pages: T40 sets each HOST-AFTER-CHECK row of the audit CSV to HOST or LINK-ONLY. LINK-ONLY rows and the audit's "never" list stay out.
+- [ ] **Hosted scans**: `sources/scans/` is ready (README, `index.csv`). HBCA pages are HOST by decision of 4 Nov 2026 (T41 copies the cited pages from the Mac). Other cited public-domain pages: T40 sets each HOST-AFTER-CHECK row of the audit CSV to HOST or LINK-ONLY. LINK-ONLY rows and the audit's "never" list stay out.
 - [ ] T36 and T39: item-level licence checks (T39 needs Safari); GEOROC and GVP terms U192, U193.
 
 ## 3. Decisions (T33, answered 4 Nov 2026)

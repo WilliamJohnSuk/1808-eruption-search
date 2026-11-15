@@ -33,5 +33,5 @@ date: 2026-10-22
 **Next.**
 1. Siple Dome per-shard microprobe files (USAP-DC 609110 and 609126; browser download, reCAPTCHA).
 2. Long Island: check for any eruption after Tibito but before 1900. The GVP history between Tibito and 1953 is blank, and Blong's withdrawn lead-210 dates of 1800–1820 are worth re-reading only as context.
-3. Glass data for Bismarck-arc and Banda/Halmahera volcanoes, through GEOROC in William's browser or a request to a lab.
+3. Glass data for Bismarck-arc and Banda/Halmahera volcanoes, through GEOROC in a person's browser or a request to a lab.
 4. Send this comparison to the St Andrews (Hutchison) or QUB (Plunkett) groups, who have unpublished 1809 cryptotephra.

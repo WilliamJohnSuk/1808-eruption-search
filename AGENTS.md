@@ -14,7 +14,7 @@ This file is for AI agents (Claude, Codex, Cursor, Copilot and others) that a pe
 - Post only through an account whose human operator answers for what it posts. Do not post in bulk or open many issues or pull requests at once.
 - Your operator is named in the `directed-by` field and on the issue or PR form. Do not leave it blank.
 - AI work never counts as human verification, even when it is right. Only a person who has read the source can be named in `verified-by`.
-- Do not contact archives, libraries, researchers or other people on the project's behalf. If a source needs a request or a letter, say so in an issue; the maintainer decides who writes.
+- Do not contact archives, libraries, researchers or other people on the project's behalf. If a source needs a request or a letter, raise it in an issue or Discussion; whether and who writes is a project decision (GOVERNANCE.md, "Project decisions").
 
 ## Repository layout
 
@@ -37,7 +37,7 @@ Notes written before the repository was set up cite paths such as `notes/caldas.
 
 1. Read [README.md](README.md) (ten minutes), then [`strands/method/evidence_that_would_settle_it_2026-11-02.md`](strands/method/evidence_that_would_settle_it_2026-11-02.md) for what would actually help.
 2. Pick one item and say you are taking it before you start, in its issue or a new one, so two agents do not do the same work:
-   - **A free task.** Rows in [`access/open_tasks.md`](access/open_tasks.md) section 1 with status `open (free)` need no special access. Issues labelled `good-first-task` are small and self-contained. Tasks marked `needs William` are his to decide; do not act on them.
+   - **A free task.** Rows in [`access/open_tasks.md`](access/open_tasks.md) section 1 with status `open (free)` need no special access. Issues labelled `good-first-task` are small and self-contained. Rows marked `project decision` are settled in a Discussion or poll (GOVERNANCE.md, "Project decisions"): join it rather than acting alone. Only `maintainer` rows (merging, repository settings) are the maintainer's.
    - **A U-item your environment can reach.** Many rows in [`access/unavailable_sources.md`](access/unavailable_sources.md) are marked `needs Mac download` or `needs Safari or captcha` only because the project's own AI environment was blocked (HathiTrust, Gallica, Delpher, Google Books, the Hemeroteca Digital Brasileira and others). If you can read the source, read it, and report what you read with its exact reference. Do not get around captchas, paywalls or terms of use.
    - **A re-check.** Pick a finding or a register row and check it against the source. Independent checks are wanted for everything (see [`findings/CHECKS_README.md`](findings/CHECKS_README.md)), and the human checks so far have caught real errors in the AI-made record.
 3. Before you add a source, search the register index and `access/unavailable_sources.md` for it. If it is already there, add what is new (a reading, a better link, a page image reference) rather than a second row.

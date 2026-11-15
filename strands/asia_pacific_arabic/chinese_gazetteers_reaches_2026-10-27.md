@@ -97,7 +97,7 @@ In JQ14 (1809) 26 county sites in Guangdong and Guangxi (box 20-25.6°N, 106-117
 - Adds: the first systematic check of mainland South China gazetteers for 1808-1810, with gazetteer and juan for every row; no red-sky or ash record in South China in the Edo window; two late-spring snow clusters (1808, 1809); a regional Guangdong-Guangxi drought-famine in 1809 parallel to Batavia's.
 - Does not: give any verbatim Chinese text. REACHES is only as complete as Zhang De'er, who selected weather records and may have left out omen-only entries (e.g. a plain 天赤 or 日赤 might be coded or might be omitted).
 
-## 9. Needs William's hands (library)
+## 9. Needs human hands (library)
 
 1. **Zhang De'er 2004, vol. 3, pp. 2748-2768** (JQ13-15), photographs or scans, to read the original sentences for the rows above (especially 2755-10/22/23, 2756-16/17, 2757-07, 2759-07/08/24/34, 2761-12, the Guangdong famine pages 2761-2762). Interlibrary loan; the 2013 2nd edition renumbers pages, so ask for the 2004 edition or note the edition.
 2. 中國方志庫 (Airusheng) or 中國地方志數據庫 / CADAL, if Syracuse University subscribes: full-text search of 嘉慶十三年 / 十四年 with 天赤, 日赤, 日無光, 紅光, 雨灰, 海溢, 霜 in Fujian, Guangdong, Guangxi, Hainan, Zhejiang gazetteers. This is the only way to catch omen entries Zhang De'er left out.

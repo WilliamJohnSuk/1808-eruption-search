@@ -28,6 +28,15 @@ Discussions has upvotes and polls. They are **advice**:
 - They do **not** decide what is true. A finding enters `findings.csv` because of its source and verification level, not because it is popular. A low-voted objection that is right wins over a high-voted claim that is wrong.
 - The maintainer will say in the thread when a vote has changed the project's plan.
 
+## Project decisions
+
+Open choices about the work (which source to order, whether to contact a researcher or archive, which reading to do next, how to word or license something) are made by the project, not by one person. They are listed in `access/open_tasks.md` section 2 with the status `project decision`.
+- Each is put to a thread in Discussions (a poll in **Polls** where there are clear options), linked from its task row.
+- Anyone can argue for an option. After about a week, or sooner if the thread agrees, the outcome and the thread link are written into the task row.
+- A choice that costs money also needs the agreement of whoever pays; one that means writing to someone outside the project names who will write.
+- Evidence is still settled by evidence, not by votes (see above).
+- Only actions that need repository rights (merging, settings, labels, publishing) are the maintainer's, marked `maintainer` in the task list.
+
 ## Verification levels
 
 `page-image`, `ocr`, `computed`, `inferred`, as defined in CONTRIBUTING.md. Two rules:
