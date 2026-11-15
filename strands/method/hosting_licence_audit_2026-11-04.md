@@ -22,6 +22,8 @@ Decisions used: **HOST** (may go in the repo now, with the attribution line), **
 
 Count: HOST 12, HOST-AFTER-CHECK 22, LINK-ONLY 17, TRANSCRIBE-ONLY 3.
 
+_Update 14 Nov 2026: BANREP moved from HOST-AFTER-CHECK to HOST. William read the item page for Semanario id 1606 in Safari: "Derechos de autor: Dominio público" (U181 closed). Counts now HOST 13, HOST-AFTER-CHECK 21._
+
 ## 1. The rule of thumb, now checked
 
 Host what we made; link to what others scanned; transcribe what we cannot host. Three findings sharpen it:

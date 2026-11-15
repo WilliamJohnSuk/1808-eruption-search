@@ -22,6 +22,12 @@ On archive.org:
 
 **No page image was read for any item in this strand.**
 
+_Claude's interpretations (14 Nov 2026), labelled at William's request during his page check of F01; not part of his verification:_
+- _[Claude's interpretation] "En el Reynado de Felipe IV, en todo el año de 1673" (printed p. 39) is Caldas's own slip: Felipe IV died in 1665, and 1673 fell under Carlos II. Either the reign or the year is wrong. It does not bear on the 1808 observation._
+- _[Claude's interpretation] "Mil veces he observado la misma disposición en el Cielo" (p. 39) is Caldas reassuring alarmed readers, so he plays the event down. He still describes this veil as constant day and night and without coronas, which by his own 1808 definition (F15) was not ordinary. Read his "nothing extraordinary" as rhetoric aimed at calming the public, not as a measured judgement._
+
+_Update (16 Oct 2026, recorded 14 Nov): the Noticia (Año 2 Núm. 5, William's Banrep download) and the 1808 Núm. 7 baseline (JCB copy on archive.org, also on William's Mac) were later read from page images. See [strands/method/downloads_2026-10-16_findings.md](../method/downloads_2026-10-16_findings.md) §1–2. That confirms printed pp. 37–40, Banrep p17054coll26 id 1606, and the 5 Feb 1809 masthead. The statements below marked NOT VERIFIED or inference about these points are superseded._
+
 ---
 
 ## 1. Caldas, "Noticia Meteorológica" (Semanario, Feb 1809)
@@ -38,9 +44,9 @@ On archive.org:
   - Spanish Wikipedia lists N. 5 as "2 de febrero". That is probably an error.
 - **Contents of No. 5:** "Memoria sobre el río de Prado", followed by the "Noticia Meteorológica" (es.wikipedia issue list; JCB OCR breaks off inside the Prado memoir).
 - **Writing date:** early February 1809. The Nota says "el fenómeno que ha dos meses observamos", i.e. about two months after 11 Dec 1808.
-- **Original 1809 page numbers: NOT VERIFIED.** The 1809 volume is paginated continuously. If issues ran about 8 pp each, No. 5 would fall around pp. 33–40, but this is an inference only. The JCB copy (archive.org `semanariodelnuev02unse`, John Carter Brown Library, call no. BC S471D) holds the issue. Its OCR was cut off just before the Noticia, and its page images could not be fetched.
+- **Original 1809 page numbers: NOT VERIFIED.** The 1809 volume is paginated continuously. If issues ran about 8 pp each, No. 5 would fall around pp. 33–40, but this is an inference only. The JCB copy (archive.org `semanariodelnuev02unse`, John Carter Brown Library, call no. BC S471D) holds the issue. Its OCR was cut off just before the Noticia, and its page images could not be fetched. **[Superseded 16 Oct 2026: printed pp. 37–40, page images of Banrep id 1606.]**
 - **Scans that exist but were not reached:**
-  - Banrep CONTENTdm collection p17054coll26. N.6 is id 1607 (thumbnail URL); N.5 is very probably id 1606, an inference.
+  - Banrep CONTENTdm collection p17054coll26. N.6 is id 1607 (thumbnail URL); N.5 is very probably id 1606, an inference. **[Confirmed 16 Oct 2026 from William's download.]**
   - BNC Colección Digital F. J. de Caldas: assets 132637 (1808–1809), 118820 (labelled 1849) and 131037 (1810).
   - Universidad Distrital repository (hdl 11349/100133). It holds 1808 monthly bundles only; no 1809 bundle is listed.
 - **Reprint pagination:**

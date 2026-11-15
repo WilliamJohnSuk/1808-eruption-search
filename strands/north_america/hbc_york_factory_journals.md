@@ -17,6 +17,33 @@ date: undated
 **B.239/a/119, PDF p8L (ms p.4): "4 Friday The darkest day I have seen in Hudsons Bay"**. This is the entry for **Friday 4 November 1808** (the weekday has been checked against the calendar). It was read at 400 dpi and **the reading is certain**. No cause is given: there is no mention of snow, gale, rain or smoke that day or the days either side. Nov 3: "Ind[ian]s went away". Nov 5: "Three wooders came home". The London copy (B.239/a/115) summarises this week and **omits the remark**. It is the only spontaneous remark about darkness or the sky found in about two and a half years of these journals.
 - **Interpretation.** It cannot tell a heavy overcast or snow-laden sky in early November (low sun, about 6° at noon on the solstice side) apart from smoke or an aerosol veil. A writer who already had a previous full season at York (he was writing B.239/a/114 in 1807–08) calling it "the darkest day I have seen" does mark it as exceptional. Late-season forest-fire smoke is possible but unlikely after freeze-up began, since river ice had been running since 5 Oct. **Recommended cross-check:** the Churchill (B.42/a), Severn (B.198/a), Albany (B.3/a), Moose (B.135/a) and inland-post journals for 3–5 Nov 1808, and any Canadian or New England "dark day" reports for that date.
 
+### Full transcription of B.239/a/119, PDF p. 8, left page (20 Oct - 7 Nov 1808)
+
+Read by Claude from the page image at 300 dpi on 15 Nov 2026 and checked line by line by William John Suk (check C003). [?] marks an uncertain reading.
+
+> 1808
+> Octr 20 Thursday Mr Cook came from his tent at 10 Shg Creek [?] good Sums [?] there
+> 21 Friday Mr Cook retd to his tent
+> 22 Saturday Heavy Ice driving in the river
+> 23 Sunday Divine Service
+> 24 Monday very few partridges about the Factory haunts
+> 25 Tuesday a Wolf from Stewards Guns
+> 26 Wednesday Blows a Gale - Snow & Drift
+> 27 Thursday a few rabbs from the Snares
+> 28 Friday a Fox from Mr Bunn
+> 29 Saturday Three Wooders came home
+> 30 Sunday Divine Service - Wooders returned
+> 31 Monday a Fox from Stewards Guns
+> Novr 1 Tuesday Three foxes from Guns & traps
+> 2 Wednesday Two Inds brought 100 rabbits
+> 3 Thursday Inds went away
+> 4 Friday The darkest day I have seen in Hudsons Bay
+> 5 Saturday Three wooders came home
+> 6 Sunday Divine Service - wooders retd
+> 7 Monday Two men came from Penny cutaway [?] with 2 Sled [?] loads of fish
+
+No weather word on 3-5 Nov. The facing (right) page begins in November: 18 Nov "Four Indians brought Deerskins from the Nward [?]"; 19 Nov ends with a line adapted from Virgil, *Georgics* 1.486 ("et altae per noctem resonare lupis ululantibus sylvae", Virgil has "urbes").
+
 ## Volume list and page mapping
 
 | Vol. | Contents (verified from title pages and dates) | Writer | Character |

@@ -278,9 +278,9 @@ Is it real, is it weather, and what would check it? If you can read the source, 
 
 **F15: Bogotá, New Granada, Jan-Jul 1808 baseline**
 
-Caldas defines his 'velo' and logs thin and thick veils with coronae (Semanario No. 7, 14 Feb 1808); by that standard the constant coronaless Dec 1808 veil was abnormal
+Caldas defines his 'velo' (Semanario núm. 7, 14 Feb 1808) and logs thin and thick veils, sometimes with a solar corona (Feb 1808 table in núm. 10: veils on 9, 15 and 29 Feb, corona on 15 Feb; corrected from "14 Feb" after a human check). By that standard the constant coronaless Dec 1808 veil was abnormal (Claude's inference).
 
-Source: Semanario del Nuevo Reyno de Granada no. 7. Verification: page image checked. Status: supports F01. Notes: `strands/colombia_caldas/caldas.md`. Checked by a person: none.
+Source: Semanario del Nuevo Reyno de Granada 1808 núm. 7 and núm. 10. Verification: page image checked. Status: supports F01. Notes: `strands/colombia_caldas/caldas.md`. Checked by a person: none.
 
 Is it real, is it weather, and what would check it? If you can read the source, please record a check (`findings/CHECKS_README.md`).
 
@@ -298,7 +298,7 @@ Is it real, is it weather, and what would check it? If you can read the source, 
 
 Order on rice shortage: 'the unusual drought of the season' caused a complete rice failure in most districts, substitute root crops failed, some districts without food; 12 koyang of rice issued weekly (Plakaatboek vol. 15 printed p. 912)
 
-Source: Van der Chijs (ed.) Nederlandsch-Indisch Plakaatboek vol. 15 (archive.org nederlandschind01unkngoog). Verification: page image checked; related Mar-Aug 1809 and 1810 rice orders OCR only. Status: lead; not diagnostic (El Niño or Daendels's labour levies possible); El Niño check done 27 Oct (F23): El Niño unlikely (inference); see also F24. Notes: `strands/asia_pacific_arabic/newbritain_banda_halmahera_records_2026-10-26.md`. Checked by a person: none.
+Source: Van der Chijs (ed.) Nederlandsch-Indisch Plakaatboek vol. 15 (archive.org nederlandschind01unkngoog). Verification: page image checked; related Mar-Aug 1809 and 1810 rice orders OCR only. Status: lead; not diagnostic (El Niño, or farmers taken away from their rice fields to build Daendels's Great Post Road, could also explain it); El Niño check done 27 Oct (F23): El Niño unlikely (inference); see also F24. Notes: `strands/asia_pacific_arabic/newbritain_banda_halmahera_records_2026-10-26.md`. Checked by a person: none.
 
 Is it real, is it weather, and what would check it? If you can read the source, please record a check (`findings/CHECKS_README.md`).
 
