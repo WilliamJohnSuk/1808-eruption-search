@@ -38,7 +38,7 @@ Run of 27 Oct 2026 22:25 UTC: U16, U17, U18 (S_Summary_1771_1813.pdf and _text.p
 
 | ID | Item | Why it matters | Yield | Where / exact reference | Route | Status | Ref |
 |---|---|---|---|---|---|---|---|
-| U1 | USAP-DC 601038 SDWheatley_tephra-data.xlsx (8 MB) | 1809 tephra data for RICE, WDC06A, SPRESSO, SPICE cores; unread | H | https://www.usap-dc.org/view/dataset/601038 | Safari; save to data/tephra/ | needs Safari or captcha | B56 |
+| U1 | USAP-DC 601038 SDWheatley_tephra-data.xlsx (8 MB) | 1809 tephra data for RICE, WDC06A, SPRESSO, SPICE cores; unread | H | https://www.usap-dc.org/view/dataset/601038 | Safari; save to data/tephra/ | downloaded and read | B56; B82 (obtained by William 15 Nov 2026; rhyolite shards dated 1811-12, no trace elements) |
 | U2 | USAP-DC 601666 SPC-14_Cryptotephra.xlsx (29 kB) | South Pole cryptotephra; may include 1809 | M | https://www.usap-dc.org/view/dataset/601666 | Safari | needs Safari or captcha | B56 |
 | U3 | USAP-DC 609110 / 609126 Siple Dome per-shard microprobe files (siple_glass_eprobe.xls, images sipleA_33.4, 33.6, 34.4) | Shard-by-shard data for the 1810 Siple trachyte; tests one vs two populations | M | https://www.usap-dc.org/view/dataset/609110 ; https://www.usap-dc.org/view/dataset/609126 (doi:10.7265/N50P0WXF) | Safari | needs Safari or captcha | B50; notes/glass_ice_1809_compositions.md |
 | U4 | USAP-DC 601052 AntT.zip (96 MB), optional | Antarctic tephra database; not searchable from here | L | https://www.usap-dc.org/view/dataset/601052 | Safari | needs Safari or captcha | B56 |
