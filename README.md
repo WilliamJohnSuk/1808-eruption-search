@@ -40,6 +40,8 @@ Other ways in:
 - **Pick an open task** from [`access/open_tasks.md`](access/open_tasks.md) (T-numbers).
 - **Languages.** We need readers of Dutch, Spanish, Portuguese, classical Chinese, Japanese (kanbun and sōrōbun), Vietnamese (chữ Hán), Malay/Jawi and Tok Pisin.
 
+**Using an AI agent?** Point it at [AGENTS.md](AGENTS.md) first: it explains the layout, where to start and the rules an agent's work must follow, and a person must stand behind everything it submits.
+
 Start with [CONTRIBUTING.md](CONTRIBUTING.md). Everyone taking part agrees to the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Credit
@@ -51,7 +53,7 @@ Credit is collective, in the spirit of the [Polymath Project](https://polymathpr
 | Folder | Contents |
 |---|---|
 | `findings/` | `findings.csv` (one row per observation, with its verification level, status and provenance), `checks.csv` (independent re-checks), `why_unidentified.md`, `archive/` (superseded summaries) |
-| `sources/` | `register.md`: every source consulted or identified, with its URL, coverage and whether it was reached; `scans/`: hosted page images of cited public-domain records |
+| `sources/` | `register.md`: every source consulted or identified, with its URL, coverage and whether it was reached; `register_index.md` / `.csv`: one line per register section, for finding your way in it; `scans/`: hosted page images of cited public-domain records |
 | `strands/` | Working notes, one folder per region or source type: `colombia_caldas`, `peru_south`, `mexico_caribbean_spain`, `portuguese_world`, `asia_pacific_arabic`, `north_america`, `ship_logs`, `europe_press`, `science_alternatives`, `candidates`, `melanesia_oral`, `method` |
 | `access/` | How to reach each archive and digitized newspaper, the sources that need human hands (`unavailable_sources.md`) and the open tasks (`open_tasks.md`) |
 | `data/`, `figures/` | Derived tables, plots and maps (`data/cc-by-sa/` holds the share-alike tables) |
