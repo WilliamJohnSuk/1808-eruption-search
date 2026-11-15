@@ -18,4 +18,6 @@ Third-party datasets used to build the derived tables keep their own licences; s
 
 **Hosted archival material.** Page images of public-domain historical records hosted in `sources/scans/` are not covered by the licences above; each carries its own attribution line.
 
+**Historical images.** The two images in `assets/images/` (an anonymous Japanese painting of the 1783 Asama eruption, and Pietro Fabris's 1779 etching of Vesuvius) are in the public domain and are not covered by the licences above; see `IMAGE_CREDITS.md` for their makers, holders and sources.
+
 **Takedown.** We host historical material we believe is in the public domain or openly licensed, each item with its source and licence stated. If you hold rights in, or believe we should not host, any item here, email 1808@williamsuk.ai and it will be taken down promptly while we look into it.
