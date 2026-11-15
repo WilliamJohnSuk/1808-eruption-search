@@ -18,4 +18,4 @@ Third-party datasets used to build the derived tables keep their own licences; s
 
 **Hosted archival material.** Page images of public-domain historical records hosted in `sources/scans/` are not covered by the licences above; each carries its own attribution line.
 
-**Takedown.** We host historical material we believe is in the public domain or openly licensed, each item with its source and licence stated. If you hold rights in, or believe we should not host, any item here, email widzodev@icloud.com and it will be taken down promptly while we look into it.
+**Takedown.** We host historical material we believe is in the public domain or openly licensed, each item with its source and licence stated. If you hold rights in, or believe we should not host, any item here, email william@williamsuk.ai and it will be taken down promptly while we look into it.

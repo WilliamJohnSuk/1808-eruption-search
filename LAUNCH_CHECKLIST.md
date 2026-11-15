@@ -16,13 +16,13 @@ What must happen before the first push and before the repository goes public. Wr
 
 - [x] **Share-alike data**: the Gill-derived table is in `data/cc-by-sa/` with its own CC BY-SA 4.0 `LICENSE.md`; the exception is stated in `LICENSE.md` and the README. GEOROC-derived tables stay in `data/` (CC BY 4.0).
 - [x] **Strip list** from the audit (`strands/method/hosting_licence_audit_2026-11-04.md` section 6): FamilySearch scripts removed from the repo copy and from `sync_repo_copy.sh`; the repo copy holds no paywalled papers, Blong screenshots or FamilySearch images.
-- [x] **Takedown note** (contact widzodev@icloud.com) in README, LICENSE.md and `sources/scans/README.md`.
+- [x] **Takedown note** (contact william@williamsuk.ai) in README, LICENSE.md and `sources/scans/README.md`.
 - [ ] **Hosted scans**: `sources/scans/` is ready (README, `index.csv`). HBCA pages are HOST at William's decision (T41 copies the cited pages from the Mac). Other cited public-domain pages: T40 sets each HOST-AFTER-CHECK row of the audit CSV to HOST or LINK-ONLY. LINK-ONLY rows and the audit's "never" list stay out.
 - [ ] T36 and T39: item-level licence checks (T39 needs Safari); GEOROC and GVP terms U192, U193.
 
 ## 3. Decisions (T33, answered 4 Nov 2026)
 
-- [x] (a) Conduct and takedown contact: widzodev@icloud.com.
+- [x] (a) Conduct and takedown contact: william@williamsuk.ai.
 - [x] (b) Title: "Human/AI collab to identify the missing 1808/9 volcano." Proposed slug: keep **`1808-eruption-search`** (planned since October and already in the forms, CITATION.cff and the blog placeholder). A shorter alternative is `missing-1808-volcano`; if you choose it, replace the slug in `.github/ISSUE_TEMPLATE/config.yml`, `CITATION.cff` and step 4.4 below.
 - [x] (c) AI marking stays in the research files (front matter, findings columns, labels); no banner on the front page.
 - [x] (d) `findings.csv` has `ai_generated`, `verified_by` and `independent_checks`; `findings/checks.csv` records any number of independent human, AI or mixed checks (rules in `findings/CHECKS_README.md`, form "Re-check a source or finding").

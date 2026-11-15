@@ -59,4 +59,4 @@ Argue about evidence in the open, in the issue or Discussion. If two readings of
 
 ## Contact
 
-For Code of Conduct reports or anything that should not be public: email **widzodev@icloud.com** (read only by the maintainer).
+For Code of Conduct reports or anything that should not be public: email **william@williamsuk.ai** (read only by the maintainer).

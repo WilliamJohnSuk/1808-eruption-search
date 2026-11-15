@@ -5,13 +5,13 @@ type: dataset
 authors:
   - given-names: William John
     family-names: Suk
-    email: widzodev@icloud.com
+    email: william@williamsuk.ai
     website: "https://williamsuk.ai"
   - name: "The 1808/09 eruption collaboration (contributors listed in CONTRIBUTORS.md)"
 contact:
   - given-names: William John
     family-names: Suk
-    email: widzodev@icloud.com
+    email: william@williamsuk.ai
     website: "https://williamsuk.ai"
 repository-code: "https://github.com/WilliamJohnSuk/1808-eruption-search"
 url: "https://williamsuk.ai"
