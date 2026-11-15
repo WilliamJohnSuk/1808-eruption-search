@@ -625,16 +625,24 @@ _Drafted by Claude (AI); read and posted by William John Suk._
 
 **Which hand item should be retrieved first?**
 
-Options (from `access/open_tasks.md` section 3):
+Votes set priorities; they don't settle evidence.
+
+Options (from [access/open_tasks.md](https://github.com/WilliamJohnSuk/1808-eruption-search/blob/main/access/open_tasks.md) section 3):
 1. The *Ramoncita*'s diary, Lima to Manila 1809, passing Cabalían (U151)
 2. HMS *Psyche*'s master's log at Surigao, Apr-Oct 1809 (T17)
 3. The Banda and Ternate day registers, 1808-10, in Jakarta (T20)
 4. The Bugis court diary of Bone, 1808-09, British Library (U34)
 5. Unpublished 1809 ice-glass analyses held by researchers (U90-U92)
 
+_Drafted by Claude (AI); read and posted by William John Suk._
+
 **Which candidate should the next free check test?**
 
+Votes set priorities; they don't settle evidence.
+
 Options: Dakataua, Gaua, Cabalían, Agung, a Halmahera volcano (Todoko-Ranu or Dukono), a southern Banda volcano (Teon or Nila).
+
+_Drafted by Claude (AI); read and posted by William John Suk._
 
 ---
 
@@ -642,7 +650,9 @@ Options: Dakataua, Gaua, Cabalían, Agung, a Halmahera volcano (Todoko-Ranu or D
 
 **Ship logs from the eastern islands, Nov 1808-Mar 1809: who might have them?**
 
-No Royal Navy ship was east of the Straits of Malacca in those months, the Dutch navy kept no journal, and the CLIWOC database is empty there (`strands/ship_logs/fleet_log_inventory_2026-11-02.md`). Who else was at sea: country traders from Bengal, American traders to Canton, Spanish galleons, Bugis and Chinese junks? If you know of a surviving log, journal or letter book for a ship in the Moluccas, Banda, New Guinea or the Philippines in these months, please post it.
+On the free evidence, Claude placed no Royal Navy ship east of the Straits of Malacca and south of the China coast in those months (Claude's judgement; a few were in the South China Sea). The Nationaal Archief catalogue lists no Dutch navy journal after June 1808, and CLIWOC has no entries there ([strands/ship_logs/fleet_log_inventory_2026-11-02.md](https://github.com/WilliamJohnSuk/1808-eruption-search/blob/main/strands/ship_logs/fleet_log_inventory_2026-11-02.md)). Who else was at sea: country traders from Bengal, American traders to Canton, Spanish galleons, Bugis and Chinese junks? If you know of a surviving log, journal or letter book for a ship in the Moluccas, Banda, New Guinea or the Philippines in these months, please post it.
+
+_Drafted by Claude (AI); read and posted by William John Suk._
 
 ---
 
@@ -653,5 +663,22 @@ No Royal Navy ship was east of the Straits of Malacca in those months, the Dutch
 Most of this repository was drafted by Claude. Some of its errors it caught itself, and others only a person caught. William's page-image check of F15 found a corona dated one day early, because a table column was printed half a row out (see the post "A human check caught an AI error"). Claude was also asked not to take colonial categories for granted. It should not call people "natives", and it should not describe places without Europeans as "empty", "unpopulated" or as having "no observers", when people lived there and kept their histories mostly in oral form. The corrections, and the pattern behind them, are logged in [strands/method/language_corrections_log.md](https://github.com/WilliamJohnSuk/1808-eruption-search/blob/main/strands/method/language_corrections_log.md).
 
 It has also corrected itself several times: a latitude band was withdrawn after validation (F30), a ship's itinerary was a year out (HMS *Cornwallis*), and a "January 1811" burial count was read from too few entries. There will be more errors. If you find a misread source, a wrong date conversion, an overconfident inference or a negative stated too strongly, post it here or open a "Re-check" issue. A correction that holds up is worth more than a new lead.
+
+_Drafted by Claude (AI); read and posted by William John Suk._
+
+---
+
+## 8. Translation help
+
+**Can you read one of these? Passages waiting for a reader**
+
+Several findings rest on Claude's reading of a language, and no person has checked that reading yet. If you read one of these, please reply here or open a ["Re-check a source or finding"](https://github.com/WilliamJohnSuk/1808-eruption-search/issues/new?template=recheck-a-source-or-finding.yml) issue:
+
+- Japanese: the Edo chronicle behind F04 (one reader is already checking it; a second check is welcome) and the Tottori entry behind F05.
+- Dutch: the Batavia rice orders behind F17 and F24, and the Deshima day register behind F33.
+- Vietnamese and literary Chinese: the Đại Nam thực lục passages behind F26 (we read only the modern translation; the Hán original is unseen) and the South China gazetteer entries coded in F25.
+- Bugis script: the Bone court diary, 1808-09 (U34).
+
+Say which page you read, and whether an AI tool helped.
 
 _Drafted by Claude (AI); read and posted by William John Suk._
