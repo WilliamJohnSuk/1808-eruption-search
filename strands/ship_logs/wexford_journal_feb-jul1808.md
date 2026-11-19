@@ -26,7 +26,7 @@ Legibility: in-port pages (Bombay 0142–0147, Bushire 0165–0171) are in a fai
 **Coverage, as found:** Fri 19 Feb 1808 to Sun 8 May 1808. That is narrower than the expected "late May". Image 0154 ends at 8 May, at about 16°N, 62–63°E in the Arabian Sea, still short of Muscat.
 - 19 Feb–2 Mar: sailing north along the Konkan coast (Goa/Aguada, Vingorla, Gheria, Rutnagherry) in a fleet with the Commodore. Troops of HM 47th Regt are on board.
 - 3 Mar–25 Apr: at anchor in Bombay Harbour.
-- 25/26 Apr–8 May: Bombay toward the Persian Gulf. The ship carries Native troops and General Malcolm's suite and stores for the Persian Court. Positions are given by noon observation, and from 29 Apr the distance from Muscat is logged.
+- 25/26 Apr–8 May: Bombay toward the Persian Gulf. The ship carries sepoy troops and General Malcolm's suite and stores for the Persian Court. Positions are given by noon observation, and from 29 Apr the distance from Muscat is logged.
 
 **Conventions:** The log day runs noon to noon. "Remarks" is the right-hand column. Notes from the Winds column are marked [winds col.]. [?] marks an uncertain reading. While in port the clerk writes one narrative across all the columns.
 **Thermometer:** From 27 Apr a "Ther." value is entered, about 85–88°F at noon.
@@ -135,7 +135,7 @@ Legibility: in-port pages (Bombay 0142–0147, Bushire 0165–0171) are in a fai
 | Mon 11 | "Moderate breezes with pleasant weather." A lieutenant, a midshipman and 50 seamen from HMS Culloden to help fit out. HM frigate Phaeton sailed south. |
 | Tue 12 | **"Light winds & hot sultry weather throt."** Fidded topmasts; ballast and alkali. |
 | Wed 13 | "Winds & weather as yesterday." Crossed t.g. yards. |
-| Thu 14 | "Moderate breezes with cloudy & fair weather." 100 live sheep and stores for the Native troops. HM ships Doris and Blanche sailed. |
+| Thu 14 | "Moderate breezes with cloudy & fair weather." 100 live sheep and stores for the sepoy troops. HM ships Doris and Blanche sailed. |
 | Fri 15 | "Light winds & cloudy weather mostly." Ship's powder received; stores of Genl Malcolm for the Persian Court. |
 | Sat 16 | "Light breezes & fair weather." Filling salt water. HMS Diadem[?] sailed. Pumped 16 in. |
 
@@ -147,7 +147,7 @@ Legibility: in-port pages (Bombay 0142–0147, Bushire 0165–0171) are in a fai
 | Tue 19 | "Light winds variable in the first & middle parts, latter blowing strong from the N[orth]w[ar]d. With[?] … weather throt." Baggage of Genl Malcolm's suite; a boat loading shot. |
 | Wed 20 | "Land & sea breezes with fair weather throt." PM blacked the bends. Nichs. Clure (the seaman thought drowned) put in irons for desertion. |
 | Thu 21 | **"Light winds airs[?] & hot weather throt."** Pilot Mr Mack came on board; unmoored, but too little wind to move the ship. |
-| Fri 22 | "First part a light breeze from the W[est]w[ar]d, middle calm, latter a fresh breeze from the S[outh]w[ar]d [?]." Took on a detachment of Native troops. Weighed, dropped down below the middle ground and furled sails. Received a detachment of Native troops (pioneers). "Arrived HMS [San Fiorenzo?] and Piemontaise, French frigate, her prize." Draught 21'0"[?] fwd. |
+| Fri 22 | "First part a light breeze from the W[est]w[ar]d, middle calm, latter a fresh breeze from the S[outh]w[ar]d [?]." Took on a detachment of sepoy troops. Weighed, dropped down below the middle ground and furled sails. Received a detachment of sepoy troops (pioneers). "Arrived HMS [San Fiorenzo?] and Piemontaise, French frigate, her prize." Draught 21'0"[?] fwd. |
 | Sat 23 | **"Light variable winds thro' the day with hot sultry weather, in the night blowing strong from the SSW and much lightning."** Receiving baggage and stores for the Embassy. |
 
 ## 0148: Sun 24 – Tue 26 Apr, Bombay to sea
@@ -167,7 +167,7 @@ Legibility: in-port pages (Bombay 0142–0147, Bushire 0165–0171) are in a fai
 | Day | Position | Remarks |
 |---|---|---|
 | Fri 29 Apr | Lat. obs. 16°32'N, Lon. in 69°00'E. Ther. 85½°. Muscat N52W, dist. 674 mi [?] | "First and middle parts fresh breezes from the SW [?], latter light airs inclinable to calm." [winds col.] "Squally, in 2nd reefs." Lascars picking oakum; securing the sheet anchor. Sick 13. |
-| Sat 30 Apr | Lat. obs. 15°53'N, Lon. in 67°29'E. Ther. 86°. Muscat … dist. 5[?]3 | "Fresh breezes in general from the NW and fair weather." Exercised the great guns, and the Native troops at small arms. Sick 14. |
+| Sat 30 Apr | Lat. obs. 15°53'N, Lon. in 67°29'E. Ther. 86°. Muscat … dist. 5[?]3 | "Fresh breezes in general from the NW and fair weather." Exercised the great guns, and the sepoy troops at small arms. Sick 14. |
 
 ## 0151: Sun 1 – Mon 2 May
 | Day | Position | Remarks |

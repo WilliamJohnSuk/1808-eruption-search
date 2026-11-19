@@ -52,5 +52,5 @@ Notes on the table:
 ## Other notes
 - 1809-05-13, p.4 (18090513-4.jpg), Tarragona 29 de Abril: the French "en el Norte" (in Germany) lost men, and "los demás tuvieron que escapar por los montes muertos de hambre y frio" (the rest had to flee through the mountains dying of hunger and cold). This is war rhetoric, not a weather report.
 - 1809-05-21, p.1 (18090521-1.jpg), patriotic essay: "En la hermosa estacion que nos hallamos todo presenta á nuestra vista un semblante risueño y placentero: la bella primavera acaba de reanimar todos los vegetales". A conventional description of a fine spring in Palma, used as metaphor, with nothing unusual.
-- 1809-05-26, p.5 (18090526-5.jpg): Suplemento with a letter from Xalapa, Mexico, 23 Oct 1808, about loyalty to Fernando VII. The reference to "un Señor muy fuerte [que] habia venido del Sol" is Native lore, not a sky observation.
+- 1809-05-26, p.5 (18090526-5.jpg): Suplemento with a letter from Xalapa, Mexico, 23 Oct 1808, about loyalty to Fernando VII. The reference to "un Señor muy fuerte [que] habia venido del Sol" is a mythological reference in the letter, not a sky observation.
 - 1809-05-15, p.3, and 1809-05-25, p.3-4: naval news (Basque Roads, the taking of Cayenne). None of it mentions storms.
