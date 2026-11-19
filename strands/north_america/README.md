@@ -24,3 +24,5 @@ date: undated
 - No North Pacific or Icelandic eruption with a firm date in 1808-1810 was found. Candidates for a small Northern Hemisphere contribution are poorly dated (Sheveluch, Klyuchevskoy "1810", Zaō late 1809, Tarumae).
 
 **Files.** `hbc_*_journals.md`, `nw_america_round2.md`, `north_pacific_round2.md`, `daily_journals_round2.md`.
+
+**Follow-up (19 Nov 2026).** [Flinders reconciliation](flinders_reconciliation_2026-11-19.md) records a reported lead awaiting source verification (T65), with the main/pending-PR comparison; it adds no accepted finding.

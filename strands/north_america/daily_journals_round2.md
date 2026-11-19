@@ -27,6 +27,8 @@ Verification levels are given per item. The WebFetch budget (shared, 400/h) ran 
 
 ## 1. Matthew Flinders, Private Journal, SLNSW Mitchell Library Safe 1/58
 
+**Follow-up, 19 Nov 2026 (`inferred`; indexed excerpt `ocr`):** the partial reading below remains the record of this pass. Indexed a007 text reaches July 1808, so the statement below that a007 is only the first part needs rechecking. The reported December lead has not been verified in this reconciliation; see [the follow-up note](flinders_reconciliation_2026-11-19.md) and task T65.
+
 - **Item.** 1 volume, 17 Dec 1803 – 8 Jul 1814. Digitised, with a transcript.
   - Catalogue: https://devfeature-collection.sl.nsw.gov.au/record/9NaAQqgY (opened).
   - Old catalogue: http://archival.sl.nsw.gov.au/Details/archive/110315398 (robots-blocked).
