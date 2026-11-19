@@ -25,4 +25,4 @@ date: undated
 
 **Files.** `hbc_*_journals.md`, `nw_america_round2.md`, `north_pacific_round2.md`, `daily_journals_round2.md`.
 
-**Follow-up (19 Nov 2026).** [Flinders reconciliation](flinders_reconciliation_2026-11-19.md) records a reported lead awaiting source verification (T65), with the main/pending-PR comparison; it adds no accepted finding.
+**Follow-up (19 Nov 2026).** [Flinders reconciliation](flinders_reconciliation_2026-11-19.md) records Dot’s supplied transcript passage as one joint entry for 29–30 Dec 1808, with uncertain cause and no manuscript-image check (T65 partly done). It includes the main/pending-PR comparison and adds no accepted finding.

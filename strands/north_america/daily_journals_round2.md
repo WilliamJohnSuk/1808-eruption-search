@@ -27,7 +27,7 @@ Verification levels are given per item. The WebFetch budget (shared, 400/h) ran 
 
 ## 1. Matthew Flinders, Private Journal, SLNSW Mitchell Library Safe 1/58
 
-**Follow-up, 19 Nov 2026 (`inferred`; indexed excerpt `ocr`):** the partial reading below remains the record of this pass. Indexed a007 text reaches July 1808, so the statement below that a007 is only the first part needs rechecking. The reported December lead has not been verified in this reconciliation; see [the follow-up note](flinders_reconciliation_2026-11-19.md) and task T65.
+**Follow-up, 19 Nov 2026 (`ocr`; interpretation `inferred`):** Dot's complete response supplied through William gives one joint entry for 29–30 Dec 1808, p. 183 / a007183, describing evening sky redness with a hurricane forecast. No manuscript image was checked and no cause established. The file extends beyond the earlier partial reading below; see [the follow-up note](flinders_reconciliation_2026-11-19.md) and partly completed task T65. The original pass below is retained as an audit record, superseded on transcript coverage by this follow-up.
 
 - **Item.** 1 volume, 17 Dec 1803 – 8 Jul 1814. Digitised, with a transcript.
   - Catalogue: https://devfeature-collection.sl.nsw.gov.au/record/9NaAQqgY (opened).
