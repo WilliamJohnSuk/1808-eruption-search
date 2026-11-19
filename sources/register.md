@@ -632,7 +632,7 @@ _From notes/daily_journals_round2.md (merged 2026-10-16 07:05 UTC)._
 | Source/edition | Region/lang | Type | Covers 1808–09? | Digitized (URL) | Access from here | Opened from here? |
 |---|---|---|---|---|---|---|
 | Flinders, Private Journal, SLNSW Safe 1/58 (catalogue) | Mauritius; EN | MS diary | yes | https://devfeature-collection.sl.nsw.gov.au/record/9NaAQqgY | catalogue | yes |
-| Same, transcript part a007 | Mauritius; EN | transcript | no (to 14 Nov 1804) | http://acms.sl.nsw.gov.au/_transcript/2013/D17745/a007.html | full text | yes |
+| Same, transcript part a007 | Mauritius; EN | transcript | yes: one joint entry 29-30 Dec 1808, p. 183 / a007183 (Dot-supplied library transcription, ocr, 19 Nov 2026); earlier partial read stopped in 1804 | http://acms.sl.nsw.gov.au/_transcript/2013/D17745/a007.html ; https://acms.sl.nsw.gov.au/_transcript/2007/D00007/a007.html | evening sky redness with hurricane forecast; cause uncertain; no page-image check; T65 partly done, strands/north_america/flinders_reconciliation_2026-11-19.md | supplied passage read; indexed weather sentence also recovered; full live page not read in this reconciliation |
 | Same, transcript parts a008, a009… | Mauritius; EN | transcript | probably (later files) | http://acms.sl.nsw.gov.au/_transcript/2013/D17745/a008.html | robots-blocked; open in a browser | blocked |
 | Same, SLNSW item page | Mauritius; EN | web page | no (1803 excerpt) | https://www.sl.nsw.gov.au/node/40491 | yes | yes |
 | Same, old catalogue | – | catalogue | – | http://archival.sl.nsw.gov.au/Details/archive/110315398 | robots-blocked | blocked |
