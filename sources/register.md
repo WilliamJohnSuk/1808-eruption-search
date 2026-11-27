@@ -1816,7 +1816,7 @@ Complete (desk search; fetched text only, no page images; B55 left for the sulfa
 | Source | Region / lang | Type | Window | Access | Status |
 |---|---|---|---|---|---|
 | Helmick et al. 2022 EGU22-8881; Helmick MS thesis 2022 (ProQuest 2800167734) | South Pole SPC14; EN | abstract, thesis | 1809, 1815 | meetingorganizer.copernicus.org/EGU22/EGU22-8881.html | abstract read (fetched text); thesis not read (ILL) |
-| Kurbatov 2017 USAP-DC 601038 SDWheatley_tephra-data.xlsx | RICE, WDC06A, SPRESSO, SPICE; data | dataset | 1809, 1815 | https://www.usap-dc.org/view/dataset/601038 | landing page read; file needs a person's browser |
+| Kurbatov 2017 USAP-DC 601038 SDWheatley_tephra-data.xlsx | RICE, WDC06A, SPRESSO, SPICE; data | dataset | 1809, 1815 | https://www.usap-dc.org/view/dataset/601038 | landing page read; file read 15 Nov 2026, see B82 (1809 sheet: 7 rhyolite shards, WDC and SPRESSO, dated 1811-12; no trace elements) |
 | Kurbatov et al. 2023 USAP-DC 601666 SPC-14_Cryptotephra.xlsx | South Pole; data | dataset | not stated | https://www.usap-dc.org/view/dataset/601666 | landing page read; file needs a person's browser |
 | AntT static site USAP-DC 601052; tephrochronology.org/AntT | Antarctica; data | database | all | https://www.usap-dc.org/view/dataset/601052 | not searchable from here |
 | Abbott et al. 2024 QSR 329:108544 | Dronning Maud Land B53, B54; EN | paper | 1809 | https://par.nsf.gov/servlets/purl/10566107 | fetched text; negative (no glass) |
@@ -2264,3 +2264,11 @@ Verification: list transcribed from page images [page image]; series facts from 
 | *Semanario del Nuevo Reyno de Granada* año 2 no. 5 (5 Feb 1809), "Lista de los Señores Subscriptores ... 1808", banrep 1606 leaves 9-12 | ES | subscriber list | 1808 | Mac newspapers/Semanario_Nuevo_Reyno_de_Granada/banrep_1809/ | transcribed [page image]: 252 entries in 58 places (Santafé 72, Cartagena 25, Popayán 12, Mompox 10, Quito 9); Viceroy 7 copies, Real Consulado de Cartagena 6, J. I. Pombo 3; Administradores de Correos of Quito, Cuenca, Lima |
 | Loaiza Cano 2016, "Una revolución letrada", *Iberoamericana* 16(62):87-106 | ES | article | 1807-1811 | https://journals.iai.spk-berlin.de/index.php/iberoamericana/article/download/1168/1848/4679 | read [text]: no subscriber data; contributors mostly criollos (p. 94) |
 | Puerta Olaya, "Ciencia criolla: El Semanario de Caldas", *Catalejo* (EAFIT) | ES | article | 1808-1810 | https://publicaciones.eafit.edu.co/index.php/revista-catalejo/article/download/6617/5340/24100 | read [text]: last memoria no. 11, "Elogio histórico de don Miguel Cabal"; ended for lack of press and subscribers (p. 19) |
+
+### B82. Kurbatov 2017 / Wheatley Antarctic ice-core tephra data (USAP-DC 601038): the "1809" shards are rhyolite dated 1811-1812, not the 1809 andesite (strands/science_alternatives/wheatley_tephra_1809_2026-11-15.md; data/kurbatov_wheatley_2017_antarctic_tephra_shards.csv)
+
+Verification: spreadsheet read in full [data file]; licence from the landing page via WebFetch [text]; all similarity scores and interpretations are Claude's calculations, not checked by a person. File downloaded by William John Suk and uploaded 15 Nov 2026 (U1). No new hand items.
+
+| Source | Lang | Type | Covers | Link | Result |
+|---|---|---|---|---|---|
+| Kurbatov, A. V. 2017, "Antarctic Ice Core Tephra Analysis", USAP-DC doi:10.15784/601038, file SDWheatley_tephra-data.xlsx (MD5 96cdbe97... matches landing page) | EN | dataset (SEM-EDS, 8 oxides, no trace elements) | 1991, 1963, 1815, 1809, 1257 CE | https://www.usap-dc.org/view/dataset/601038 | read [data file]: 96 shards with IGSNs. "1809" sheet: 4 shards WDC-06A 60.12-60.259 m (README age 1812) and 3 shards SPRESSO 29.50-29.55 m (age 1811); all rhyolite, mean SiO2 74.5, FeO 1.3, K2O 3.0. Licence CC0 1.0. 1815 sheet (11 shards) scores 0.83 against Tambora glass; 1809 shards score 0.49 against Dome C andesite and at most 0.62 against any candidate glass (Claude's calculation) |
