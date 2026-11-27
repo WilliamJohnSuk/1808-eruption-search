@@ -30,11 +30,13 @@ The Spanish Wikipedia article uses four files [text, API 27 Nov 2026]: the Espin
 
 ## 2. On Wikimedia Commons but not in the Wikipedia article
 
+No. 7 turned out not to be Caldas (see its row); two usable Commons-only portraits remain.
+
 | # | Image | Maker, date | Holder | Size | Rights | Host or link |
 |---|---|---|---|---|---|---|
 | 5 | Bust, woodcut, *Papel Periódico Ilustrado* | signed Rodríguez (Commons gives no first name), 1881-87 | Banrep (scan cited on Commons from the old lablaa.org page) | 418 × 600 | Public domain [text] | Host; a better scan of the PPI page would help (U251) |
 | 6 | Standing, engraving, *Magazine of American History* 1884, v. 12 p. 212 | unknown | Library of Congress, cph.3a03392 | 882 × 1255 (Commons); LoC reference JPEG 417 × 640 | No known restrictions; published 1884 [text] | Host |
-| 7 | Bust with signature, glass-plate copy of an engraving (Wellcome M0001444EB, made 22 Nov 1930; Commons file is named "…EA") | unknown engraver | Wellcome Collection | 2746 × 4146 | CC BY 4.0 [text] | Host with credit "Wellcome Collection, CC BY 4.0" |
+| 7 | ~~Bust with signature, glass-plate copy, Wellcome M0001444EA~~ | — | Wellcome Collection | 2746 × 4146 | CC BY 4.0 | **Not Caldas.** [update 27 Nov 2026: seen at full size [page image], the Commons file "Francisco Jose de Caldas, 1770-1816 Wellcome M0001444EA" shows Hipólito Ruiz López and is signed "Hipólito Ruiz". Wellcome's record (works/twp6w9wv) puts Ruiz (EA) and Caldas (EB) on one negative; the Caldas half is not online. Do not host.] |
 
 ## 3. New finds, not on Commons
 
@@ -77,7 +79,7 @@ The Spanish Wikipedia article uses four files [text, API 27 Nov 2026]: the Espin
 - **Library of Congress:** Prints & Photographs search "Caldas" gives only no. 6 (and a 1969 item not digitised) [text]. The item page then showed a captcha.
 - **Europeana** (API, "Francisco José de Caldas", images): 7 results, nos. 11 and 13 only [text].
 - **Gallica** (SRU, images, "Caldas"): 14 results, none of him [text].
-- **Wellcome:** nos. 7 and 8 only [text].
+- **Wellcome:** no. 8, and the record behind no. 7, whose Caldas half is not digitised [text].
 - **Internet Archive:** no image items of him; books checked: no. 8 found; Posada, *Cartas de Caldas* (1917, Banrep copy on William's Mac): no portrait in the first 12 pages [page image].
 - **Banrep Biblioteca Virtual (Babel):** full-text search is noisy (173 hits for "Caldas retrato", mostly unrelated periodicals) [text]; the 1849 *Semanario* (p17054coll10 id 4082, "Dominio público") did not render in the viewer here (U249).
 - **Not reached:** BNE Biblioteca Digital Hispánica (captcha), Biblioteca Nacional de Colombia digital library (refused), Banrep art collection search (timed out), Museo Nacional iconographic booklet CALDAS.WEB.pdf (26 MB, text not extractable here). These are U248, U250, U251.

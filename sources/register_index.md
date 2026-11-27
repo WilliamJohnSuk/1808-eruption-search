@@ -101,4 +101,4 @@ Sections: 94. Table rows: 1670. Next free section number: **B86**.
 | B81 | 2258 | Research card on the 1808 *Semanario* subscriber list |  | colombia_caldas | `strands/colombia_caldas/semanario_subscribers_1808_research_card_2026-11-14.md` | 3 | 0 |
 | B83 | 2268 | Social context of the documentary traces, 22 Nov 2026 | 22 Nov 2026 | method | `strands/method/social_context_of_traces_2026-11-22.md` | 11 | 3 |
 | B84 | 2286 | Slave-trade and colonial records, 22 Nov 2026 | 22 Nov 2026 | ship_logs | `strands/ship_logs/slave_trade_colonial_records_2026-11-22.md` | 16 | 8 |
-| B85 | 2309 | Public-domain portraits of Caldas beyond those used on Wikipedia | 27 Nov 2026 | colombia_caldas | `strands/colombia_caldas/caldas_portraits_public_domain_2026-11-27.md` | 10 | 1 |
+| B85 | 2309 | Public-domain portraits of Caldas beyond those used on Wikipedia | 27 Nov 2026 | colombia_caldas | `strands/colombia_caldas/caldas_portraits_public_domain_2026-11-27.md` | 10 | 2 |
