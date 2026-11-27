@@ -66,6 +66,8 @@ We found no sign of fabricated sources. Every document Claude could reach exists
 
 ## 6. Worth adopting (proposals; each needs William's go-ahead before it touches the register or findings)
 
+Items 1 and 2 were applied on 27 Nov 2026 at William's request. They are ChatGPT's findings; Claude reproduced and applied them.
+
 1. Re-bin F22's monthly values with the nearest-month rule for Lombok and Palau (Guam keeps the floor rule), update the strand's monthly figures, and soften F22's "starts Dec 1808" to "peaks in Dec 1808". (T69)
 2. Remove "P = 0.05" from F12 and the strand; say "3 of 6 days on one voyage, against 15% in the same month and box in other years (20/132 records, 18 ships)"; list Preston and Ceylon as controls. (T70)
 3. Check the Golovnin 1864 Commons PDF ourselves (pp. 194-195, 216, 227-228) and, if it holds, change U195's status. (T71)
