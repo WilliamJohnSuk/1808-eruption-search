@@ -2282,3 +2282,26 @@ Verification: page images read by Claude for the *Semanario* and the Kagoshima c
 | Bentley, *Diary* vol. 3, archive.org full text | EN | diary | 1808-09 | https://archive.org/details/diaryofwilliambe03bent | not reached this pass (connection failed); earlier OCR reading used (B-section of free_sources_round5) |
 | Logs of the Madras homeward fleet (Ceylon, Preston, Phoenix, Ann, HMS Albion; Tigris remarks) | EN | ship logs | Oct 1808-Jan 1809 | BL IOR/L/MAR/B; TNA ADM 51/52 | not reached; archives only: U235 |
 | 続徳川実紀, Bunka 5 11th-12th month (Kokushi taikei) | JA | official chronicle | Dec 1808-Feb 1809 | NDL Digital Collections | not reached (NDL blocked): U236 |
+
+### B84. Slave-trade and colonial records, 22 Nov 2026: West Africa coast (Royal Navy, prize courts, Company of Merchants, CMS missionaries), Mozambique and Madagascar, Portuguese Angola and Brazil, HBC remainder; no sky report found; HMS *Blossom*'s Gulf of Guinea log is the best new hand item (strands/ship_logs/slave_trade_colonial_records_2026-11-22.md)
+
+Verification: TNA Discovery API catalogue text fetched in Claude's built-in browser on William's Mac [catalogue]; CMS *Proceedings* and AHU Bahia catalogue read as archive.org OCR [OCR]; year counts by Claude's regex [count]; readings [inference]. Asked by William John Suk (22 Nov 2026). B83 is the social-context thread's section. Hand items U237-U247; free checks T66-T68.
+
+| Source | Lang | Type | Covers | Link | Result |
+|---|---|---|---|---|---|
+| HMS *Blossom* captain's log, TNA ADM 51/2011; Probyn's letter ADM 1/2334/174 | EN | RN log; letter | 7 Oct 1808-21 May 1809 | https://discovery.nationalarchives.gov.uk/ | catalogue only: Africa convoy to Cape Coast and Príncipe, Downs 14 Apr 1809 (U237) |
+| HMS *Derwent* log ADM 51/2291 (from 9 Jul 1809); Parker's report ADM 1/2333/44 (13 Oct 1808); HMS *Tigress* ADM 51/2904, ADM 52/4637 | EN | RN logs; letters | 1808-10 | as above | catalogue only; *Derwent* log for Nov 1807-Jul 1809 not found (U238) |
+| HMS *Little Belt* letters ADM 1/1653/114-116 | EN | letters | Jun 1808-Jan 1809 | as above | catalogue: Africa convoy 1808, left the coast before 25 Dec 1808; no log found for the voyage |
+| TNA HCA 49/97, 49/97A, Sierra Leone Vice-Admiralty Court | EN | court registers | Jun 1808- | as above | catalogue only (U239) |
+| TNA HCA 42 and HCA 45 slave-ship appeals 1808-11 (25 cases) | EN | prize appeals | captures 1805-1810 | as above | catalogue read: no capture inside Dec 1808-Jul 1810; two Aug 1810 Sierra Leone captures |
+| TNA T 70/1588-1591, T 70/809-814 (Company of Merchants trading to Africa) | EN | letters, fort reports; ledgers | 1808-10 | as above | catalogue only; descriptions silent on weather (U240) |
+| CMS *Proceedings* vol. 3 (1810-12), Appendix I, missionaries' journals Jul 1808-Mar 1810 | EN | printed journals | Rio Pongas, Freetown | https://archive.org/details/per_proceedings-church-missionary-soc-for-africa-a_1810-1812_3 | read [OCR]: Feb 1809 hot days and cold dews, rice plentiful; no sky remark. Originals U241 |
+| CMS *Proceedings* vol. 2 (1806-09) | EN | printed reports | to 1809 | https://archive.org/details/per_proceedings-church-missionary-soc-for-africa-a_1806-1809_2 | searched [OCR]: nothing in the window |
+| T. P. Thompson letters, Leeds MS277/1/1-2, MS277/3/42; Hull U DTH | EN | letters | 1809-10 | as above | catalogue only (U242) |
+| E. H. Columbine papers, UIC Library; BL RP 324 | EN | journals, letters | 1802-11 | as above | catalogue only (U243) |
+| UKHO remark books MP 62/48 (*Charwell*, 31 Aug 1808-14 Feb 1809), MP 65/45 (Mozambique 1809) | EN | remark books | Cape, Madagascar, Mozambique | as above | catalogue only (U244) |
+| *Revista do IHGB* vol. 250 (1961), IHGB manuscript catalogue | PT | catalogue | Mozambique 1809 | https://archive.org/details/instituto-historico-e-geografico-brasileiro-revista_1961_250 | OCR snippet: Lata 106 Ms. 1763 and governors' letters (U245) |
+| AHU, *Documentos manuscritos avulsos da Capitania da Bahia* vol. II (Projeto Resgate) | PT | archive catalogue | 1753-1828 | https://archive.org/details/bahia-avulsos-ii | counted [count]: 1807: 301, 1808: 59, 1809: 75, 1810: 94 entries; 1808-10 weather search negative (three false hits) |
+| Arquivo Nacional (Rio), SIAN | PT | archive catalogue | 1808-10 | https://sian.an.gov.br | login page only; account needed (U246) |
+| Prize Papers Portal | EN etc. | digitised prize papers | 1652-1815 | https://portal.prizepapers.de/ | checked: 1808-10 ship papers not yet online |
+| HBCA ships' logs (*King George*, *Prince of Wales*, *Eddystone*) and Severn, Albany, Eastmain, Cumberland, Brandon House, Fidler journals (refs in B37) | EN | logs, post journals | 1808-10 | Keystone | not read (U247) |
