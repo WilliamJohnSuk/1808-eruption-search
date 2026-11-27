@@ -21,7 +21,7 @@ date: undated
 - **F08**: NEEM sulfate crosses background about October 1809, implying an eruption about December 1808 to March 1809.
 - **F29**: Greenland and Antarctic deposition began within about a month of each other, so the source is tropical; about 55% of the sulfate fell in the north. **F30**: a latitude band read from that split was tested against eleven known eruptions and withdrawn.
 - **F18, F19**: an unanalysed ash-like layer in the Japanese H15 core; a Talos Dome sulfate excess that points to a small local Victoria Land eruption.
-- **F22, F23**: corals turn cool and dry from December 1808 at Lombok and Palau, with extremes in 1810-12; not an ENSO pattern.
+- **F22, F23**: corals peak cool and dry in December 1808 at Lombok and Palau (month binning corrected 27 Nov 2026, found by ChatGPT), with extremes in 1810-12; not an ENSO pattern.
 - **F28**: the Everest ice core records Tambora but nothing in 1809-10.
 - **F07**: EIC noon air temperatures drop about 0.65 °C from Dec 1808-Jan 1809 in the tropical Indian Ocean.
 - No trace-element analysis of 1805-1812 ice glass has been published.
