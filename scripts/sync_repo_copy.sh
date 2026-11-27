@@ -4,7 +4,7 @@ set -e; S=/mnt/project-files/1808-eruption; N=$S/notes; R=${1:-/mnt/project-file
 cd $R
 cp $S/why_unidentified.md findings/; cp $S/interim_summary.md findings/archive/; cp $S/source_register.md sources/register.md
 declare -A M=(
-[colombia_caldas]="caldas.md caldas_letters_round2.md caldas_roulin_golovnin_pass2.md caldas_correspondents_pass3.md restrepo_date_round3.md cotopaxi_1808_round3.md"
+[colombia_caldas]="caldas.md caldas_portraits_public_domain_2026-11-27.md caldas_letters_round2.md caldas_roulin_golovnin_pass2.md caldas_correspondents_pass3.md restrepo_date_round3.md cotopaxi_1808_round3.md"
 [peru_south]="unanue_south.md andes_south_catalogues_round3.md travel_southcone_pass3.md"
 [mexico_caribbean_spain]="spanish_north.md mexico_centralam_round3.md central_america_round4.md caribbean_papers_round3.md gazeta_mexico_reading_passes gazeta_madrid_reading_passes mallorca_reading_passes diario_mexico_reading_passes caracas_reading_passes"
 [portuguese_world]="lusophone.md iberian_fulltext_pass2.md iberian_logs_round2.md ramoncita_bvd_2026-11-02.md"

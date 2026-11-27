@@ -2305,3 +2305,20 @@ Verification: TNA Discovery API catalogue text fetched in Claude's built-in brow
 | Arquivo Nacional (Rio), SIAN | PT | archive catalogue | 1808-10 | https://sian.an.gov.br | login page only; account needed (U246) |
 | Prize Papers Portal | EN etc. | digitised prize papers | 1652-1815 | https://portal.prizepapers.de/ | checked: 1808-10 ship papers not yet online |
 | HBCA ships' logs (*King George*, *Prince of Wales*, *Eddystone*) and Severn, Albany, Eastmain, Cumberland, Brandon House, Fidler journals (refs in B37) | EN | logs, post journals | 1808-10 | Keystone | not read (U247) |
+
+### B85. Public-domain portraits of Caldas beyond those used on Wikipedia: Maurin lithograph (Mendoza 1909), Rosario oil, Quito ivory miniature, 1955 statue photo (27 Nov 2026; strands/colombia_caldas/caldas_portraits_public_domain_2026-11-27.md)
+
+Verification: holders' catalogue and rights text read in a browser on William's Mac [text]; nos. 8 and the Posada front pages looked at as images [page image]; dating of the Maurin print and the miniature are Claude's [inference]. Asked by William John Suk (27 Nov 2026). Hand items U248-U253. B83 and B84 are claimed by open PRs #76 and #77.
+
+| Source | Lang | Type | Covers | Link | Result |
+|---|---|---|---|---|---|
+| Wikimedia Commons, Category:Francisco José de Caldas, and es.wikipedia article images | ES/EN | image database | portraits | https://commons.wikimedia.org/wiki/Category:Francisco_Jos%C3%A9_de_Caldas | read [text]: 7 portraits; es.wikipedia uses Espinosa c. 1836, "El Sabio Caldas", Urdaneta c. 1880, signature; Commons-only: PPI woodcut (Rodríguez), LoC 1884 engraving; the Commons "Wellcome M0001444EA" file is Hipólito Ruiz, not Caldas [page image] |
+| Mendoza, D., *Expedición botánica de José Celestino Mutis ... y Memorias inéditas de Francisco José de Caldas*, Madrid 1909, frontispiece | ES | book plate | portrait | https://archive.org/details/expedicionbotani00mend/page/n9 | seen [page image]: bust lithograph signed "A. Maurin", 1895 × 3518 px, same type as Espinosa 1836 [inference]; public domain; host |
+| Museo de la Universidad del Rosario, *Francisco José de Caldas*, anonymous, 19th c., oil, 82 × 65 cm | ES | museum record | portrait | https://urosario.edu.co/museo/coleccion/francisco-jose-de-caldas | read [text]: dividers, zodiac globe, Rosario *beca*; photo 952 × 1200 px, no licence stated; hosting a project decision |
+| Museo Nacional, poster exhibition *Francisco José de Caldas* (2002) | ES | exhibition page | portrait | https://www.museonacional.gov.co/exposiciones/carteles/francisco-jose-de-caldas/Paginas/default.aspx | read [text]: anonymous Quito miniature, watercolour on ivory, 18th-19th c., Casa Museo del 20 de Julio; thumbnail only; U252; booklet U248 |
+| Museum of World Culture, Wassén photo 3088D (1955), statue in Popayán (1910) | SV | photo | statue | https://collections.smvk.se/carlotta-vkm/web/object/114722 | read [text]: CC0, 295 × 287 px |
+| NYPL, Print Collection portrait file, statue in Bogotá (clipping) | EN | print | statue | https://digitalcollections.nypl.org/items/ddf4c570-c540-012f-ece1-58d385a7bc34 | read [text]: rights undetermined; link only |
+| Europeana API, "Francisco José de Caldas", images | multi | aggregator | all | https://api.europeana.eu | searched [text]: 7 hits, the Wassén photo and Colombian stamps 1910-37 (CC BY-NC, link only) |
+| Library of Congress P&P; Gallica SRU; Wellcome catalogue | EN/FR | catalogues | all | loc.gov/pictures; gallica.bnf.fr/SRU; api.wellcomecollection.org | searched [text]: LoC only cph.3a03392; Gallica none; Wellcome: Mendoza 1909 copy, and a 1930 negative whose Caldas half (M0001444EB) is not online |
+| Posada (ed.), *Cartas de Caldas*, 1917 (Banrep, on William's Mac) | ES | book | portrait? | Mac books/Posada_1917_Cartas_de_Caldas/ | first 12 PDF pages seen [page image]: no portrait |
+| BNE BDH; Biblioteca Nacional de Colombia digital; Banrep art collection; Banrep 1849 *Semanario* | ES | catalogues | all | see U249-U251 | not reached (captcha, refused, timed out, viewer did not render) |
