@@ -83,20 +83,20 @@ Sections: 92. Table rows: 1643. Next free section number: **B86**.
 | B63 | 1930 | Cabalían parish records on FamilySearch | 28 Oct 2026 | candidates | `strands/candidates/cabalian_parish_records_familysearch_2026-10-28.md` | 6 | 1 |
 | B64 | 1941 | Đại Nam thực lục, Gia Long 7-9 (1808-10), read as page images | 28 Oct 2026 | asia_pacific_arabic | `strands/asia_pacific_arabic/dai_nam_thuc_luc_1808-10_2026-10-28.md` | 6 | 2 |
 | B65 | 1954 | Coral footprint of 1809-1812 | 28 Oct 2026 | science_alternatives | `strands/science_alternatives/coral_footprint_1809-12_2026-10-28.md` | 11 | 0 |
-| B66 | 1973 | Hemispheric sulfate-ratio latitude band tested and withdrawn | 28 Oct 2026 | science_alternatives | `strands/science_alternatives/deposition_ratio_validation_2026-10-28.md` | 11 | 0 |
-| B67 | 1990 | Tibet and the Himalaya, 1808-10 | 28 Oct 2026 | science_alternatives | `strands/science_alternatives/tibet_himalaya_records_2026-10-28.md` | 8 | 0 |
-| B68 | 2005 | Everest and Dasuopu ice-core trace-element files, read through William's run of himalaya_1809.py v2.1 | 28 Oct 2026 | science_alternatives | `strands/science_alternatives/tibet_himalaya_records_2026-10-28.md` | 3 | 0 |
-| B69 | 2017 | Existing sediment, coral and speleothem archives within 300 km of the candidates | 28 Oct 2026 | candidates | `strands/candidates/existing_cores_near_candidates_2026-10-28.md` | 15 | 2 |
-| B70 | 2039 | Baclayon (Bohol) burial book read as page images, February 1806 to December 1810 | 28 Oct 2026 | candidates | `strands/candidates/cabalian_parish_records_familysearch_2026-10-28.md` | 2 | 1 |
-| B71 | 2046 | Tagbilaran and Loon burial books read 1807-1811, Baclayon followed to April 1811, Dauis film found to skip ... | 28 Oct 2026 | candidates | `strands/candidates/cabalian_parish_records_familysearch_2026-10-28.md`, `strands/candidates/bohol_burial_entries_by_image_2026-10-28.md` | 4 | 0 |
-| B72 | 2055 | The National Archives (Kew) record copying route tested on the HMS Cornwallis captain's log ADM 51/2046 | 28 Oct 2026 | ship_logs | `strands/ship_logs/tna_record_copying_test_cornwallis_2026-10-28.md` | 6 | 0 |
-| B73 | 2069 | Tracks of the Kew logs for the eruption window checked from catalogue, Horsburgh and biographies | 28 Oct 2026 | ship_logs | `strands/ship_logs/tna_record_copying_test_cornwallis_2026-10-28.md` | 4 | 0 |
-| B74 | 2080 | Royal Navy logs worldwide for the window, first pass | 2 Nov 2026 | ship_logs | `strands/ship_logs/fleet_log_inventory_2026-11-02.md` | 20 | 2 |
-| B75 | 2107 | Wide source search, 4 Nov 2026 | 4 Nov 2026 | method | `strands/method/wide_source_search_2026-11-04.md` | 24 | 5 |
-| B76 | 2138 | Wide source search, second pass | 4 Nov 2026 | method | `strands/method/wide_source_search_2026-11-04.md` | 22 | 2 |
-| B77 | 2167 | Wide source search, third pass | 4 Nov 2026 | method | `strands/method/wide_source_search_2026-11-04.md` | 45 | 5 |
-| B78 | 2219 | New scholarship check, 12 Nov 2026 | 12 Nov 2026 | method | `strands/method/new_scholarship_check_2026-11-12.md` | 6 | 0 |
-| B79 | 2232 | Grokipedia audit, 12 Nov 2026 | 12 Nov 2026 | method | `strands/method/grokipedia_audit_2026-11-12.md` | 7 | 0 |
-| B80 | 2246 | Caldas's letters to Santiago Arroyo, Nov 1808-Aug 1809, read in Posada 1917 (U31); 1808 Semanario ... |  | colombia_caldas | `strands/colombia_caldas/caldas_arroyo_letters_posada1917_2026-11-14.md` | 3 | 0 |
-| B81 | 2256 | Research card on the 1808 *Semanario* subscriber list |  | colombia_caldas | `strands/colombia_caldas/semanario_subscribers_1808_research_card_2026-11-14.md` | 3 | 0 |
-| B85 | 2266 | Public-domain portraits of Caldas beyond those used on Wikipedia | 27 Nov 2026 | colombia_caldas | `strands/colombia_caldas/caldas_portraits_public_domain_2026-11-27.md` | 10 | 1 |
+| B66 | 1975 | Hemispheric sulfate-ratio latitude band tested and withdrawn | 28 Oct 2026 | science_alternatives | `strands/science_alternatives/deposition_ratio_validation_2026-10-28.md` | 11 | 0 |
+| B67 | 1992 | Tibet and the Himalaya, 1808-10 | 28 Oct 2026 | science_alternatives | `strands/science_alternatives/tibet_himalaya_records_2026-10-28.md` | 8 | 0 |
+| B68 | 2007 | Everest and Dasuopu ice-core trace-element files, read through William's run of himalaya_1809.py v2.1 | 28 Oct 2026 | science_alternatives | `strands/science_alternatives/tibet_himalaya_records_2026-10-28.md` | 3 | 0 |
+| B69 | 2019 | Existing sediment, coral and speleothem archives within 300 km of the candidates | 28 Oct 2026 | candidates | `strands/candidates/existing_cores_near_candidates_2026-10-28.md` | 15 | 2 |
+| B70 | 2041 | Baclayon (Bohol) burial book read as page images, February 1806 to December 1810 | 28 Oct 2026 | candidates | `strands/candidates/cabalian_parish_records_familysearch_2026-10-28.md` | 2 | 1 |
+| B71 | 2048 | Tagbilaran and Loon burial books read 1807-1811, Baclayon followed to April 1811, Dauis film found to skip ... | 28 Oct 2026 | candidates | `strands/candidates/cabalian_parish_records_familysearch_2026-10-28.md`, `strands/candidates/bohol_burial_entries_by_image_2026-10-28.md` | 4 | 0 |
+| B72 | 2057 | The National Archives (Kew) record copying route tested on the HMS Cornwallis captain's log ADM 51/2046 | 28 Oct 2026 | ship_logs | `strands/ship_logs/tna_record_copying_test_cornwallis_2026-10-28.md` | 6 | 0 |
+| B73 | 2071 | Tracks of the Kew logs for the eruption window checked from catalogue, Horsburgh and biographies | 28 Oct 2026 | ship_logs | `strands/ship_logs/tna_record_copying_test_cornwallis_2026-10-28.md` | 4 | 0 |
+| B74 | 2082 | Royal Navy logs worldwide for the window, first pass | 2 Nov 2026 | ship_logs | `strands/ship_logs/fleet_log_inventory_2026-11-02.md` | 20 | 2 |
+| B75 | 2109 | Wide source search, 4 Nov 2026 | 4 Nov 2026 | method | `strands/method/wide_source_search_2026-11-04.md` | 24 | 5 |
+| B76 | 2140 | Wide source search, second pass | 4 Nov 2026 | method | `strands/method/wide_source_search_2026-11-04.md` | 22 | 2 |
+| B77 | 2169 | Wide source search, third pass | 4 Nov 2026 | method | `strands/method/wide_source_search_2026-11-04.md` | 45 | 5 |
+| B78 | 2221 | New scholarship check, 12 Nov 2026 | 12 Nov 2026 | method | `strands/method/new_scholarship_check_2026-11-12.md` | 6 | 0 |
+| B79 | 2234 | Grokipedia audit, 12 Nov 2026 | 12 Nov 2026 | method | `strands/method/grokipedia_audit_2026-11-12.md` | 7 | 0 |
+| B80 | 2248 | Caldas's letters to Santiago Arroyo, Nov 1808-Aug 1809, read in Posada 1917 (U31); 1808 Semanario ... |  | colombia_caldas | `strands/colombia_caldas/caldas_arroyo_letters_posada1917_2026-11-14.md` | 3 | 0 |
+| B81 | 2258 | Research card on the 1808 *Semanario* subscriber list |  | colombia_caldas | `strands/colombia_caldas/semanario_subscribers_1808_research_card_2026-11-14.md` | 3 | 0 |
+| B85 | 2268 | Public-domain portraits of Caldas beyond those used on Wikipedia | 27 Nov 2026 | colombia_caldas | `strands/colombia_caldas/caldas_portraits_public_domain_2026-11-27.md` | 10 | 1 |
