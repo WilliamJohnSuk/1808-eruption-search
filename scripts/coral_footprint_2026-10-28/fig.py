@@ -14,9 +14,16 @@ def fl(x):
     except: return float('nan')
 def pts(r):
     return sorted([(a,b) for a,b in zip(map(fl,r['year']),map(fl,r['paleoData_values'])) if not (math.isnan(a) or math.isnan(b))])
-def month(a): return min(11, int(math.floor((a - math.floor(a))*12 + 1e-9)))
+def make_month(times):
+    # Corrected 27 Nov 2026 (from the ChatGPT handoff): nearest-month binning for records on a
+    # start-of-month grid with two-decimal dates; floor rule kept for mid-month or irregular grids.
+    fr=[(a*12)%1 for a in times]
+    if fr and all(min(f,1-f)<0.1 for f in fr): return lambda a: int(round(a*12))%12
+    return lambda a: min(11, int(math.floor((a - math.floor(a))*12 + 1e-9)))
+month=None
 def monthly_z(r, lo=1790, hi=1831):
-    p=pts(r); by=defaultdict(list)
+    global month
+    p=pts(r); by=defaultdict(list); month=make_month([a for a,b in p])
     for a,b in p:
         if lo<=a<hi: by[month(a)].append(b)
     clim={m:st.mean(x) for m,x in by.items()}
@@ -57,8 +64,8 @@ def endlabel(ax,xs,ys,text,color,dy=0):
 # (a) Lombok monthly
 ax=axs[0]; z=monthly_z(recs['Ocn-Lombok.Charles.2003|d18O']); xs=[a for a,v in z if X0<=a<=X1]; ys=[v for a,v in z if X0<=a<=X1]
 ax.plot(xs,ys,color=S1,linewidth=1.8); style(ax,'a. Lombok Strait, 13 km from Agung: monthly δ18O anomaly','sd (positive = cooler / drier)'); ax.set_ylim(-3,4.5); vlabels(ax)
-ax.annotate('Dec 1808 +2.1',xy=(1808.92,2.07),xytext=(1806.2,3.6),fontsize=8,color=INK2,arrowprops=dict(arrowstyle='-',color=MUTED,lw=0.8))
-ax.annotate('Mar 1811 +4.0',xy=(1811.17,3.98),xytext=(1811.6,4.1),fontsize=8,color=INK2)
+ax.annotate('Dec 1808 +2.1',xy=(1808.92,2.12),xytext=(1806.2,3.6),fontsize=8,color=INK2,arrowprops=dict(arrowstyle='-',color=MUTED,lw=0.8))
+ax.annotate('Mar 1811 +4.1',xy=(1811.17,4.08),xytext=(1811.6,4.1),fontsize=8,color=INK2)
 # (b) Palau and Guam monthly
 ax=axs[1]
 for key,col,name,dy in [('Ocn-PalauUlongChannel.Osborne.2014|d18O',S1,'Palau 7°N',0.3),('Ocn-DoubleReef.Asami.2005|d18O',S2,'Guam 14°N',-0.3)]:
@@ -92,6 +99,6 @@ ax.plot(ys_,[s[y] for y in ys_],color=S1,linewidth=1.8,marker='o',markersize=4.5
 style(ax,'f. Queensland rainfall from GBR coral luminescence (Lough 2007), Oct-Sep years','% of mean',base=100); ax.set_ylim(70,135); vlabels(ax)
 fig.text(0.02,0.975,'The 1809-1812 excursion in Indo-Pacific corals, 1805-1818',fontsize=14,color=INK,weight='bold')
 fig.text(0.02,0.955,"Panels a-d: anomalies in standard deviations from the 1790-1830 climatology (Vanuatu: 1807-1899), raw proxy sign, so higher δ18O or Sr/Ca = cooler and/or saltier (drier). Panel e: Ocean2k regional SST in °C. Panel f: rainfall as % of mean.",fontsize=8.5,color=INK2)
-fig.text(0.02,0.937,"Monthly series use decimal years; annual values are plotted at the calendar year. Claude's calculation from PAGES2k v2 (mirror fzhu2e/cfr-data) and NOAA/NCEI data files, 28 Oct 2026; tables in data/, note coral_footprint_1809-12_2026-10-28.md.",fontsize=8.5,color=INK2)
+fig.text(0.02,0.937,"Monthly series use decimal years; annual values are plotted at the calendar year. Claude's calculation from PAGES2k v2 (mirror fzhu2e/cfr-data) and NOAA/NCEI data files, 28 Oct 2026 (Lombok and Palau month binning corrected 27 Nov 2026, found by ChatGPT); tables in data/, note coral_footprint_1809-12_2026-10-28.md.",fontsize=8.5,color=INK2)
 fig.subplots_adjust(left=0.05,right=0.985,top=0.89,bottom=0.06,hspace=0.62,wspace=0.15)
 fig.savefig(out,dpi=150,facecolor=SURF); print('saved',out)
