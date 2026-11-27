@@ -21,8 +21,9 @@ date: undated
 - We found no ash, darkness, pumice or odd sky in the *Wexford*, *Royal George* or the four American logs. None was near a candidate in the window.
 - **F06, F11, F12** [computed]: a few ships logged "hazy" more than usual (the packet *Townsend* in the Atlantic, Dec 1808-Jan 1809; *Penelope*, *Tigris*); all weak.
 - **Fleet map** [page image of the Navy List; catalogue]: no Royal Navy ship was east of the Straits of Malacca and south of China in Nov 1808-Mar 1809, and none was in the Pacific. *Psyche* and *Doris* reached the Philippines (Surigao, about 70 km from Cabalían) in Apr-Oct 1809. On the Atlantic side 86 of 145 ships have a Kew log for the whole window.
+- **Slave trade and West Africa (22 Nov 2026)** [catalogue; OCR]: we found no report of haze or an odd sky in the printed Rio Pongas missionary journals (Feb 1809) or in about 60 catalogue descriptions. HMS *Blossom*'s log, 7 Oct 1808-21 May 1809, on an Africa convoy to Cape Coast and Príncipe, is the best new hand item (U237). After Mar 1808 the Angola and Mozambique governors wrote to Rio, so their letters are in Rio archives (U246).
 - HMS *Cornwallis* was wrongly thought to be in the Moluccas in early 1809; she was at Madras and in the Persian Gulf. The copying route works: about £10 per page check and £1.52 per image.
 
 **Open.** A page check of the *Psyche* master's log (T17); the West India convoy logs of mid-December 1808 for haze timing.
 
-**Files.** `fleet_log_inventory_2026-11-02.md` (start here), `tna_record_copying_test_cornwallis_2026-10-28.md`, `american_logbooks_2026-10-27.md`, the *Wexford* and *Royal George* journals, `indian_atlantic_pass3.md`.
+**Files.** `fleet_log_inventory_2026-11-02.md` (start here), `tna_record_copying_test_cornwallis_2026-10-28.md`, `american_logbooks_2026-10-27.md`, the *Wexford* and *Royal George* journals, `indian_atlantic_pass3.md`, `slave_trade_colonial_records_2026-11-22.md`.
