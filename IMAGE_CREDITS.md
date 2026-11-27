@@ -1,6 +1,6 @@
 # Image credits
 
-The repository and its Pages site use two historical images. Both are in the public domain. The files in [`assets/images/`](assets/images/) are resized or cropped copies made for this project on 15 November 2026. Please credit the original makers and holders when you reuse them, as we do here.
+The repository and its Pages site use two historical images (sections 1 and 2); section 3 lists portraits of Caldas kept for the notes and the blog. Both are in the public domain. The files in [`assets/images/`](assets/images/) are resized or cropped copies made for this project on 15 November 2026. Please credit the original makers and holders when you reuse them, as we do here.
 
 ## 1. Night view of the great eruption of Mount Asama, 1783
 
@@ -31,3 +31,12 @@ The repository and its Pages site use two historical images. Both are in the pub
 ## Why these two
 
 Both show an eruption as the people who lived beside it saw it: one from Japan, one from the Bay of Naples. That is the kind of record this project is looking for and has not found for 1808/09. Neither volcano is a candidate for the 1808/09 eruption.
+
+## 3. Portraits of Francisco José de Caldas (added 27 November 2026)
+
+All made after Caldas's death in 1816. Search notes, sizes and rights checks: [`strands/colombia_caldas/caldas_portraits_public_domain_2026-11-27.md`](strands/colombia_caldas/caldas_portraits_public_domain_2026-11-27.md). Files in [`assets/images/caldas/`](assets/images/caldas/), downloaded unchanged from the sources below.
+
+- **`caldas_maurin_lithograph_mendoza1909.jpg`**: bust portrait, lithograph signed "A. Maurin" (Antoine Maurin, 1793–1860), after the type of José María Espinosa's lithograph of about 1836; frontispiece of Diego Mendoza, *Expedición botánica de José Celestino Mutis al Nuevo Reino de Granada y Memorias inéditas de Francisco José de Caldas* (Madrid, 1909). Scan: University of California Libraries, via the Internet Archive, https://archive.org/details/expedicionbotani00mend/page/n9. Public domain.
+- **`caldas_wellcome_M0001444EB_ccby.jpg`**: bust portrait with signature, glass-plate copy (1930) of an unidentified engraving. Wellcome Collection, https://wellcomecollection.org/works/twp6w9wv. Licence: CC BY 4.0 (credit "Wellcome Collection").
+- **`caldas_magazine_american_history_1884.jpg`**: standing portrait, engraving in *Magazine of American History* 12 (1884), p. 212. Library of Congress, Prints and Photographs, cph.3a03392, https://www.loc.gov/pictures/item/2003653423/. No known restrictions.
+- **`caldas_statue_popayan_wassen_1955.jpg`**: the 1910 statue of Caldas in Popayán, photograph by Henry Wassén, 1955. Museum of World Culture (Världskulturmuseerna), Gothenburg, 3088D, https://collections.smvk.se/carlotta-vkm/web/object/114722. CC0.
