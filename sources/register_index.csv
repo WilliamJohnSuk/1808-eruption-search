@@ -90,4 +90,5 @@ B78,2221,"New scholarship check, 12 Nov 2026",12 Nov 2026,method,strands/method/
 B79,2234,"Grokipedia audit, 12 Nov 2026",12 Nov 2026,method,strands/method/grokipedia_audit_2026-11-12.md,,7,0
 B80,2248,"Caldas's letters to Santiago Arroyo, Nov 1808-Aug 1809, read in Posada 1917 (U31); 1808 Semanario ...",,colombia_caldas,strands/colombia_caldas/caldas_arroyo_letters_posada1917_2026-11-14.md,,3,0
 B81,2258,Research card on the 1808 *Semanario* subscriber list,,colombia_caldas,strands/colombia_caldas/semanario_subscribers_1808_research_card_2026-11-14.md,data/semanario_subscribers_1808.csv,3,0
-B84,2268,"Slave-trade and colonial records, 22 Nov 2026",22 Nov 2026,ship_logs,strands/ship_logs/slave_trade_colonial_records_2026-11-22.md,,16,8
+B83,2268,"Social context of the documentary traces, 22 Nov 2026",22 Nov 2026,method,strands/method/social_context_of_traces_2026-11-22.md,,11,3
+B84,2286,"Slave-trade and colonial records, 22 Nov 2026",22 Nov 2026,ship_logs,strands/ship_logs/slave_trade_colonial_records_2026-11-22.md,,16,8
