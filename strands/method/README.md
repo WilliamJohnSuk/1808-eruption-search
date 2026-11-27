@@ -21,6 +21,7 @@ date: undated
 - `hosting_licence_audit_2026-11-04.md`: what the repository may host and what it can only link.
 - `eruption_clue_search_terms.md`: the search vocabulary in several languages.
 - `novelty_check_round3.md`: which findings were already in the literature.
+- `social_context_of_traces_2026-11-22.md`: who produced each documentary trace (government, company, ship, church, scholar), what was printed or written next to it, and the political setting; full *Semanario* No. 5 passages on public fear of the veil.
 - `language_corrections_log.md`: wording corrected for colonial framing of literacy and inhabitants, and the AI bias behind it.
 
 **Other files.** Audits of leads (`october_leads_audit_T16_2026-11-02.md`), free checks (`free_checks_T5-T10_2026-11-02.md`, which also holds the Deshima register reading, F33), lists of downloads read, and `eruption_markers_knowledge_base.md`.
