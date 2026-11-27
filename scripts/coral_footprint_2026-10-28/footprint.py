@@ -11,6 +11,15 @@ def fl(x):
     try: return float(x)
     except: return float('nan')
 SIGN = {'d18O': 1, 'Sr_Ca': 1, 'temperature': -1, 'calcification': None}
+def make_month(times):
+    """Month index 0-11 for a record's time stamps (corrected 27 Nov 2026, from the ChatGPT handoff).
+    Records stored on a start-of-month grid with two-decimal dates (e.g. 1808.83 = November) are
+    binned to the nearest month; floor() put 1808.83 in October and 1809.08 in January. Records on
+    mid-month or irregular grids keep the original floor rule."""
+    fr = [(a*12) % 1 for a in times]
+    if fr and all(min(f, 1-f) < 0.1 for f in fr):
+        return lambda a: int(round(a*12)) % 12
+    return lambda a: min(11, int(math.floor((a - math.floor(a))*12 + 1e-9)))
 rows = []; yearly_out = {}; monthly_keep = {}
 for r in recs:
     if 'coral' not in str(r.get('archiveType','')).lower(): continue
@@ -30,7 +39,7 @@ for r in recs:
     if sub:
         # monthly climatology 1790-1830 by calendar month
         by_m = defaultdict(list)
-        def month(a): return min(11, int(math.floor((a - math.floor(a))*12 + 1e-9)))
+        month = make_month(ts)
         for a,b in pts:
             if 1790 <= a < 1831: by_m[month(a)].append(b)
         base_lo, base_hi = 1790, 1831
