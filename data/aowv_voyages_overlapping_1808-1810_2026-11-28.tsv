@@ -1,0 +1,192 @@
+voyageID	voyageName	port	sailingFrom	ground	yearOut	dayOut	yearIn	dayIn	returnCode	fate	end	master	vesselID	vessel	rig	tonnage	logbookExists	aowlLink	logbookScan	source
+AV00090	Abby : 1809-	Unknown			1809	1809 c.					Cond & sold at St Johns, N 1881	Unknown	AS0022 ?	Abby	Brig	109		NULL	NULL	44, 5
+AV00122	Abigail : 1807-1808	Sag Harbor, NY			1807	1807 Sep 21 c.	1808	1808 Jul 1			Broken up at Sag Harbor	Bunker	AS0813	Abigail	Ship	202		NULL	NULL	180, 185, 432, 5, 99, 765
+AV00123	Abigail : 1808-	Sag Harbor, NY			1808	1808					Broken up at Sag Harbor	Bunker	AS0813	Abigail	Ship	202		NULL	NULL	27, 5, 99
+AV00124	Abigail : 1809-1810	Sag Harbor, NY		Brazil	1809	1809 Aug 1 c.	1810	1810 Jul 8			Broken up at Sag Harbor	Bunker	AS0813	Abigail	Ship	202		NULL	NULL	1, 4, 27, 99, 128, 181, 180, 185, 70, 432, 5
+AV00125	Abigail : 1810-1811	Sag Harbor, NY		Brazil, Patagonia	1810	1810 Aug 18	1811	1811 Aug 12			Broken up at Sag Harbor	Bunker	AS0813	Abigail	Ship	202		NULL	NULL	1, 4, 27, 5, 128, 137, 181, 180, 432, 99
+AV00212	Acushnet : 1806-1808	New Bedford, MA		Cape of Good Hope	1806	1806	1808	1808				Tobey, Lewis	AS0052	Acushnet	Ship	231		NULL	NULL	1, 2, 4, 234, 5, 579
+AV00306	Adolphus : 1808-	Nantucket, MA		Atlantic	1808	1808 Apr 27						Unknown	AS0823	Adolphus	Sloop			NULL	NULL	4, 5
+AV00439	Alert : 1807-	Nantucket, MA			1807	1807 Nov						Worth	AS0799	Alert	Brig			NULL	NULL	1, 4
+AV00594	Alknomac : 1807-1808	Sag Harbor, NY		Brazil	1807	1807	1808	1808 May 1			Withdr 1871	Jones, Elias	AS0843	Alknomac	Ship	285		NULL	NULL	1, 4, 27, 99, 765
+AV00595	Alknomac : 1808-1809	Sag Harbor, NY		Brazil	1808	1808 Jul 23 c.	1809	1809 June			Withdr 1871	Jones, Elias	AS0843	Alknomac	Ship	285		NULL	NULL	1, 4, 27, 128, 181, 180, 185, 432, 99
+AV00596	Alknomac : 1809-1810	Sag Harbor, NY		Brazil	1809	1809 Aug 1 c.	1810	1810 Jul 8			Withdr 1871	Jones, Elias	AS0843	Alknomac	Ship	285		NULL	NULL	1, 4, 27, 128, 181, 180, 185, 432, 99, 758
+AV00632	Alliance : 1806-1808	Nantucket, MA		East Cape	1806	1806	1808	1808 Apr 21				Pinkham, Hezekiah	AS0804	Alliance	Ship		KWM	NULL	NULL	1, 4, 69
+AV00633	Alliance : 1808	Nantucket, MA			1808	1808	1808	1808				Pinkham, Hezekiah	AS0804	Alliance	Ship		KWM	NULL	NULL	69
+AV00634	Alliance : 1808-1810	Nantucket, MA		Cape of Good Hope, Saldanha Bay	1808	1808	1810	1810 Apr 12				Pinkham, Hezekiah	AS0804	Alliance	Ship		KWM	NULL	NULL	1, 4, 69, 763
+AV00635	Alliance : 1810-1812	Nantucket, MA		Pacific	1810	1810 Jul 8	1812	1812 Dec 8				Pinkham, Hezekiah	AS0804	Alliance	Ship		KWM	NULL	NULL	1, 4, 5, 69, 107, 758
+AV00658	Alligator : 1808-	Nantucket, MA			1808	1808					Capt by British 1812, full of sperm oil	Unknown	AS0845	Alligator	Ship			NULL	NULL	4
+AV00659	Alligator : 1810-1812	Nantucket, MA		Pacific	1810	1810	1812	1812			Capt by British 1812, full of sperm oil	Swain, Obed	AS0845	Alligator	Ship			NULL	NULL	1, 4, 48, 5
+AV00945	Ann (Anne) : 1809-	Nantucket, MA			1809	1809 c.					Taken by French	Gwenn (Gwynn, Gwinn), James	AS0051	Ann (Anne)	Ship	289		NULL	NULL	408, 5
+AV00960	Ann (Anne) : 1807-1809	Nantucket, MA			1807	1807 Oct	1809	1809 May 13			Taken by French	Gwenn (Gwynn, Gwinn), James	AS0051	Ann (Anne)	Ship	289		NULL	NULL	2, 4, 50, 117, 234, 296, 5
+AV01042	Annawan : 1807-	New Bedford, MA			1807	1807						Russell, Edward K.	AS0886	Annawan				NULL	NULL	1
+AV01373	Atlas : 1808-1810	Nantucket, MA		Pacific	1808	1808	1810	1810				Joy, Reuben	AS0927	Atlas	Ship / Ship ?	249/247	NHA	NULL	NULL	1, 4, 48, 5, 117, 561
+AV01441	Aurora : 1810-	New York, NY			1810	1810 #					Lost, NZ, 1821?	Smith, Owen Folger	AS0940	Aurora	Brig	180		NULL	NULL	5
+AV01565	Barclay : 1807-	New Bedford, MA		Pacific, Brazil	1807	1807					Withdr and broken up, at NB, 1859	Randall, Gideon	AS0067	Barclay	Ship	281		NULL	NULL	1, 4, 70, 5
+AV01567	Barclay : 1809-1811	New Bedford, MA		Pacific	1809	1809	1811	1811 May 9			Withdr and broken up, at NB, 1859	Randall, Gideon	AS0067	Barclay	Ship	281		NULL	NULL	1, 4, 5
+AV01721	Belvidere : 1808-1810	Nantucket, MA			1808	1808 Apr	1810	1810				Nichols	AS0967	Belvidere	Ship / Brig / Schr			NULL	NULL	4, 757
+AV01722	Belvidere : 1810-1812	Nantucket, MA			1810	1810	1812	1812				Baxter, Reuben	AS0967	Belvidere	Ship / Brig / Schr			NULL	NULL	5, 107, 609
+AV01930	Boston : 1807-1808	Nantucket, MA		East Cape	1807	1807	1808	1808 Sep				Clasby	AS0998	Boston	Ship	187		NULL	NULL	1, 4, 5
+AV01931	Boston : 1810-1812	Nantucket, MA		Pacific	1810	1810	1812	1812 Jul 16				Bunker, Reuben Ramsdell +	AS0998	Boston	Ship	187		NULL	NULL	4, 5
+AV01931	Boston : 1810-1812	Nantucket, MA		Pacific	1810	1810	1812	1812 Jul 16				Coffin +	AS0998	Boston	Ship	187		NULL	NULL	758
+AV02031	Brazil : 1807-1808	Sag Harbor, NY			1807	1807	1808	1808				Fowler, Oliver	AS1005	Brazil	Ship			NULL	NULL	4, 27, 44, 137, 181, 180, 99
+AV02032	Brazil : 1808-1809	Sag Harbor, NY		Brazil	1808	1808 Jul 23 c.	1809	1809 May 27 c.				Fowler, Oliver	AS1005	Brazil	Ship			NULL	NULL	1, 4, 27, 44, 181, 180, 432, 99
+AV02069	Brothers : 1807-	Nantucket, MA			1807	1807 Dec 12					cond at Rio	Perkins	AS1012	Brothers	Ship	256		NULL	NULL	1, 4, 5
+AV02070	Brothers : 1808-	Nantucket, MA		Pacific	1808	1808					cond at Rio	Worth, Benjamin	AS1012	Brothers	Ship	256		NULL	NULL	1, 4, 5
+AV02071	Brothers : 1809-1810	Nantucket, MA		Pacific	1809	1809 Jun 27	1810	1810 Nov 18			cond at Rio	Worth, Benjamin	AS1012	Brothers	Ship	256		NULL	NULL	1, 4, 5
+AV02589	Charles : 1807-	New Bedford, MA			1807	1807 Oct 1						Baxter	AS0702	Charles	Ship	227		NULL	NULL	1, 4, 234, 5
+AV02590	Charles : 1809-	New Bedford, MA			1809	1809 Nov						Baxter	AS0702	Charles	Ship	227		NULL	NULL	1, 4, 335, 5
+AV02819	Chili : 1807-1809	Nantucket, MA		Pacific	1807	1807 Dec 12	1809	1809 Aug 1			Capt by British, c. 1813	Bunker, James	AS1099	Chili	Ship	293		NULL	NULL	1, 4, 117, 5
+AV02820	Chili : 1809-1811	Nantucket, MA		Brazil, Pacific	1809	1809 Nov 5	1811	1811 Nov			Capt by British, c. 1813	Bunker, James	AS1099	Chili	Ship	293		NULL	NULL	1, 4, 122, 432, 5
+AV03377	Cornelia : 1808-	New Bedford, MA		Atlantic	1808	1808 May 1						Hathaway, Ebenezer	AS0779	Cornelia	Schr	74		NULL	NULL	1, 2, 4, 5
+AV03494	Criterion : 1807-	Nantucket, MA		Pacific	1807	1807 Aug 27					Cond at Halifax, NS, 1829	Starbuck	AS1169	Criterion	Ship	229		NULL	NULL	1, 4, 5
+AV03495	Criterion : 1808-	Nantucket, MA			1808	1808 Apr 1					Cond at Halifax, NS, 1829	Starbuck	AS1169	Criterion	Ship	229		NULL	NULL	1, 4, 5
+AV03496	Criterion : 1809-1811	Nantucket, MA		Brazil	1809	1809	1811	1811 Jul 2			Cond at Halifax, NS, 1829	Clasby, William	AS1169	Criterion	Ship	229		NULL	NULL	1, 4, 5
+AV03513	Culloden   : 1807-	New Bedford, MA		Brazil	1807	1807						Swain, George	AS1175	Culloden	Ship	239		NULL	NULL	70, 50
+AV03588	Danube : 1808-1810	New Bedford, MA		Pacific	1808	1808 September 1	1810	1810 Jun 12				Mosher, Jethro	AS0167	Danube	Ship	194		NULL	NULL	1, 4, 50, 117, 234, 5
+AV03603	Dauphin (Dolphin) : 1808-1809	East Greenwich, RI or New London, CT			1808	1808 Sep	1809	1809 Jul			Lost, Saldanha Bay, Cape of Good Hope, 1830	Sayre, Joshua	AS1189	Dauphin	Ship	273 / 240 / 217		NULL	NULL	1, 11, 4, 5, 98, 432, 434, 5, 758, 65
+AV03604	Dauphin : 1809-1810	East Greenwich, RI		Brazil	1809	1809	1810	1810 Jul 7		L ?	Lost, Saldanha Bay, Cape of Good Hope, 1830	Sawyer (possibly Sayre)***?	AS1189	Dauphin	Ship	273 / 240 / 217		NULL	NULL	1, 4, 5, 98, 432, 434
+AV03604	Dauphin : 1809-1810	East Greenwich, RI		Brazil	1809	1809	1810	1810 Jul 7		R ?	Lost, Saldanha Bay, Cape of Good Hope, 1830	Douglass, Luke****?	AS1189	Dauphin	Ship	273 / 240 / 217		NULL	NULL	1, 4, 5, 98, 434, 18, 758
+AV03605	Dauphin : 1810-1811	East Greenwich, RI		Woolwich Bay	1810	1810 after Sep 22	1811	1811 Oct 8			Lost, Saldanha Bay, Cape of Good Hope, 1830	Coffin, Jethro	AS1189	Dauphin	Ship	273 / 240 / 217		NULL	NULL	1, 4, 79, 98, 5, 434, 13, 18, 758
+AV03618	Dauphin (Dolphin) : 1807-1808	New London, CT		Patagonia	1807	1807 Apr 27 or Aug 7	1808	1808 Jun			Lost, Saldanha Bay, Cape of Good Hope, 1830	Sayre, Joshua	AS1189	Dauphin	Ship	273 / 240 / 217		NULL	NULL	1, 11, 5, 98, 66, 434, 5, 519, 65
+AV03669	Delight : 1809-	Nantucket, MA		Atlantic	1809	1809 Dec						Coffin	AS1200	Delight	Schr / Sloop			NULL	NULL	1, 5
+AV03754	Diana : 1807-1809	New Bedford, MA		Pacific	1807	1807 Aug	1809	1809 Feb 28			Lost, Peru, Dec, 1827	Paddack, David	AS0165	Diana	Ship / Ship ?	215/216		NULL	NULL	2, 4, 5, 234, 254
+AV03755	Diana : 1809-1811	New Bedford, MA		Pacific	1809	1809 Aug	1811	1811 Jun 13			Lost, Peru, Dec, 1827	Paddack, David	AS0165	Diana	Ship / Ship ?	215/216		NULL	NULL	1, 4, 234
+AV03756	Diana : 1810-1812	New Bedford, MA		Pacific	1810	1810 Apr	1812	1812 Jul 3				Hathaway, Ebenezer	AS2671	Diana	Ship	215/216/218		NULL	NULL	1, 2, 4, 5, 234, 254
+AV03801	Dove : 1810-1811	Nantucket, MA		Atlantic, W Indies	1810	1810	1811	1811				Wood	AS1226	Dove	Brig / Sloop			NULL	NULL	1, 4
+AV04019	Edward : 1808-	New Bedford, MA			1808	1808					Capt by the British 1813	Ray	AS1253	Edward	Ship	395 or 326		NULL	NULL	1, 4, 70, 5, 606
+AV04137	Eliza : 1808-	Nantucket, MA		Brazil	1808	1808						Chase, Obed	AS1270 ?	Eliza	Brig / Ship			NULL	NULL	1, 4, 320
+AV04138	Eliza : 1809-	Nantucket, MA			1809	1809 Jun 20						Unknown	AS1270 ?	Eliza	Brig / Ship			NULL	NULL	4
+AV04623	Essex : 1806-1808	Nantucket, MA		Delagoa	1806	1806	1808	1808 Jan 9			Stove by a whale and sunk, Nov, 1820	Harris, David	AS1319	Essex	Ship	238		NULL	NULL	1, 4, 5, 579
+AV04624	Essex : 1809-	Nantucket, MA		Brazil, Pacific	1809	1809					Stove by a whale and sunk, Nov, 1820	Russell, Daniel	AS1319	Essex	Ship	238		NULL	NULL	4, 5, 561
+AV04862	Fame : 1809-1811	Nantucket, MA		East Shore	1809	1809	1811	1811 Apr 26				Coffin, Job	AS1353	Fame	Ship			NULL	NULL	1, 4, 79
+AV05386	Gardner : 1807-1808	Nantucket, MA		Cape of Good Hope	1807	1807	1808	1808 Oct 31			Capt by the British, Dec 4, 1813	Briggs	AS1429	Gardner	Ship			NULL	NULL	1, 4, 5
+AV05387	Gardner : 1809-1811	Nantucket, MA		Brazil, Pacific	1809	1809 Oct	1811	1811 Jul 16			Capt by the British, Dec 4, 1813	Ray, Isaiah	AS1429	Gardner	Ship			NULL	NULL	1, 4, 5
+AV05389	Gardner : 1806-	Nantucket, MA			1806	1806					Capt by the British, Dec 4, 1813	Briggs	AS1429	Gardner	Ship			NULL	NULL	222, 5
+AV05543	George : 1809-	Unknown			1809	1809						Clark, Eber	AS1459	George				NULL	NULL	1
+AV05865	Golden Farmer : 1809-1811	Nantucket, MA		Brazil, Pacific	1809	1809 Oct 1	1811	1811 Jun 22				Swain, George, II	AS1480	Golden Farmer	Ship	295 / 294		NULL	NULL	1, 4
+AV06176	Harlequin : 1808	Nantucket, MA			1808	1808	1808	1808			Cond at Paita, 1809	Starbuck, Levi	AS1537	Harlequin	Brig / Ship			NULL	NULL	156, 5
+AV06183	Harlequin : 1808-1809	Nantucket, MA		Pacific	1808	1808	1809	1809	C		Cond at Paita, 1809	Starbuck, Benjamin	AS1537	Harlequin	Brig / Ship			NULL	NULL	1, 4, 121, 5
+AV06387	Henry : 1806-1808	Nantucket, MA		Pacific	1806	1806	1808	1808 Aug 8				Myrick, Peter	AS1580	Henry	Ship	262		NULL	NULL	1, 4, 5, 297
+AV06388	Henry : 1809-1811	Nantucket, MA		Pacific	1809	1809	1811	1811 Feb 9				Gardner, Isaac	AS1580	Henry	Ship	262		NULL	NULL	1, 4, 5, 297
+AV06494	Herald : 1808-1810	New Bedford, MA		Cape of Good Hope	1808	1808 Sep 1	1810	1810 April 13			Sold to Honolulu, 1854; to SF, 1855	Coffin, Ariel	AS0776	Herald	Ship / Bark	262		NULL	NULL	1, 2, 4, 70, 79, 151, 234, 5
+AV06603	Hero : 1808-1810	Westport, MA		Cape of Good Hope, Saldanha Bay, Indian O	1808	1808 Oct (Nov 3)	1810	1810 Feb 22			Cond and broken up, Coquimbo, Chile, 1813	Paddack, Latham	AS0778	Hero	Bark	162	NHA	NULL	NULL	1, 4, 6, 5, 234
+AV06744	Hope : 1806-	Nantucket, MA			1806	1806					Capt by British, Sept 27, 1812	Unknown	AS1615	Hope	Ship	196		NULL	NULL	4, 70, 5
+AV06745	Hope : 1807-1808	Nantucket, MA			1807	1807 Sep 19	1808	1808			Capt by British, Sept 27, 1812	Unknown	AS1615	Hope	Ship	196		NULL	NULL	4, 5
+AV06746	Hope : 1808-1809	Nantucket, MA			1808	1808	1809	1809 May 17			Capt by British, Sept 27, 1812	Clark	AS1615	Hope	Ship	196		NULL	NULL	1, 4, 5
+AV06747	Hope : 1809-1810	Nantucket, MA		Brazil	1809	1809	1810	1810 Nov			Capt by British, Sept 27, 1812	Clark	AS1615	Hope	Ship	196		NULL	NULL	1, 4, 432, 5
+AV06822	Hudson : 1807-1808	East Greenwich, RI			1807	1807	1808	1808 Jul 16			Lost, Long Island, NY, Mar, 1810	Bunker, Uriah	AS1626	Hudson	Ship	235		NULL	NULL	98, 5
+AV06823	Hudson : 1808-1809	East Greenwich, RI		Brazil	1808	1808 Oct 8	1809	1809 Oct 21			Lost, Long Island, NY, Mar, 1810	Bunker, Uriah	AS1626	Hudson	Ship	235	RIH	NULL	NULL	6, 70, 98, 432, 5
+AV06824	Hudson : 1809-1810	East Greenwich, RI			1809	1809	1810	1810	L		Lost, Long Island, NY, Mar, 1810	Spink, Michael	AS1626	Hudson	Ship	235		NULL	NULL	5, 98
+AV06846	Hunter : 1809-	Nantucket, MA		Atlantic	1809	1809 May 7						Luce	AS1631	Hunter	Sloop			NULL	NULL	1, 4
+AV07036	Industry : 1809-1810	Nantucket, MA		Brazil	1809	1809	1810	1810 Nov 1			Cond at St Domingo, 1820	Russell, George, Jr.	AS1650	Industry	Ship	172		NULL	NULL	1, 4, 432, 5
+AV07046	Industry : 1808-	Nantucket, MA		Brazil	1808	1808 c.					Cond at St Domingo, 1820	Russell, George, Jr.	AS1650	Industry	Ship	172		NULL	NULL	70, 5, 758
+AV07183	Isabella and Orina : 1809-1814	Unknown			1809	1809	1814	1814				Unknown	AS1662	Isabella and Orina			MHB	NULL	NULL	91
+AV07500	Jefferson : 1806-1808	New Bedford, MA		South Seas	1806	1806	1808	1808 ?			Transf to Milford Haven	Brock, Andrew	AS1696	Jefferson	Ship	267/247		NULL	NULL	1, 4, 5, 561
+AV07510	Jefferson : 1809-1810	Sag Harbor, NY		Patagonia, Brazil	1809	1809 Jul 29	1810	1810 Jul 7				Post, James, II	AS1697	Jefferson	Ship		RML	NULL	NULL	1, 4, 27, 5, 70, 137, 180, 185, 432, 99
+AV07661	John and James : 1808-1809	Nantucket, MA		Brazil	1808	1808	1809	1809 Jun 27				Clark (Clarke)	AS1708	John and James	Ship			NULL	NULL	1, 4, 432, 758
+AV07662	John and James : 1809-1810	Nantucket, MA		Brazil	1809	1809	1810	1810 Nov				Perkins	AS1708	John and James	Ship			NULL	NULL	1, 4, 432
+AV07758	John Jay : 1806-1808	Nantucket, MA		Pacific	1806	1806	1808	1808 Jan 9			Broken up at Nantucket, 1830	Clark, William, II	AS1713	John Jay	Ship	217		NULL	NULL	1, 4, 122, 5
+AV07759	John Jay : 1808-1810	Nantucket, MA		Pacific	1808	1808	1810	1810 Jun 3			Broken up at Nantucket, 1830	Unknown	AS1713	John Jay	Ship	217		NULL	NULL	4, 5
+AV07760	John Jay : 1810-1812	Nantucket, MA		Pacific	1810	1810 Sep 16	1812	1812 Sep 4			Broken up at Nantucket, 1830	Coffin, William B.	AS1713	John Jay	Ship	217		NULL	NULL	1, 4, 5, 79, 122, 107, 758
+AV08114	Lady Adams : 1808-	Nantucket, MA			1808	1808					Missing; all supposed lost	Folger, Elisha	AS1760	Lady Adams	Ship	230		NULL	NULL	1, 4, 117, 5
+AV08115	Lady Adams : 1810-1812	Nantucket, MA		Pacific	1810	1810	1812	1812 Jan 29			Missing; all supposed lost	Folger, Elisha, Jr.	AS1760	Lady Adams	Ship	230		NULL	NULL	1, 4, 5, 107
+AV08241	Latona : 1807-	New Bedford, MA			1807	1807						Alden, Seth	AS1771	Latona	Ship			NULL	NULL	1, 50
+AV08242	Latona : 1809-	New Bedford, MA			1809	1809						Alden, Seth	AS1771	Latona	Ship			NULL	NULL	117, 198
+AV08269	Lavina (Lavinia) : 1810-	Sag Harbor, NY			1810	1810 Aug 18						Clark, Moses	AS1778	Lavina [Lavinia]	Ship			NULL	NULL	180, 432, 5
+AV08270	Lavina (Lavinia) : 1809-1810	Sag Harbor, NY		Patagonia	1809	1809 Aug 19 c.	1810	1810 Jul 20				Fowler, Oliver	AS1778	Lavina [Lavinia]	Ship			NULL	NULL	1, 4, 27, 44, 128, 137, 181, 180, 185, 432, 5
+AV08309	Leo : 1807-1809	Nantucket, MA		Pacific	1807	1807	1809	1809 May			Broken up at Nant, 1823	Gardner, Amaziah	AS0785	Leo	Ship			NULL	NULL	1, 4, 64, 5
+AV08310	Leo : 1808-1810	Nantucket, MA		Pacific	1808	1808	1810	1810 Aug 1				Swain, Owen	AS1785	Leo	Brig	217		NULL	NULL	1, 4, 5
+AV08311	Leo : 1809-1811	Nantucket, MA		Pacific	1809	1809 Aug 2	1811	1811 November 1			Broken up at Nant, 1823	Gardner, Robert, Jr.	AS0785	Leo	Ship			NULL	NULL	1, 5
+AV08312	Leo : 1810-1813	Nantucket, MA		Pacific	1810	1810	1813	1813 Apr				Luce, Obed +	AS1785	Leo	Brig	217		NULL	NULL	1, 4, 5
+AV08312	Leo : 1810-1813	Nantucket, MA		Pacific	1810	1810	1813	1813 Apr				Chadwick +	AS1785	Leo	Brig	217		NULL	NULL	758
+AV08357	Leonidas : 1807-1808	New London, CT		Patagonia	1807	1807 Aug 9	1808	1808 Jun 23			Sold, 1809	Barnes (Bearns, Barns), William	AS1789	Leonidas	Ship	282		NULL	NULL	1, 11, 4, 5,66, 434, 519, 632, 758, 65
+AV08358	Leonidas : 1808-1809	New London, CT		Brazil	1808	1808 Aug 31	1809	1809 Jun 19			Sold, 1809	Douglas, Alexander	AS1789	Leonidas	Ship	282		NULL	NULL	11, 4, 5, 66, 268, 432, 434, 519, 758, 65
+AV08446	Lima : 1807-1809	Nantucket, MA		Brazil	1807	1807	1809	1809			Cond at Rio, 1842	Swain, Solomon	AS2825	Lima	Ship	286		NULL	NULL	5, 70
+AV08447	Lima : 1809-1811	Nantucket, MA		Pacific	1809	1809 Jul 11	1811	1811 Jul 1			Cond at Rio, 1842	Swain, Solomon	AS2825	Lima	Ship	286		NULL	NULL	1, 4, 5
+AV08472	Lion I : 1807-	Nantucket, MA			1807	1807					Capt by British, 1813	Paddack	AS2650	Lion I	Ship			NULL	NULL	4, 5, 603
+AV08473	Lion I : 1808-1811	Nantucket, MA		Pacific	1808	1808 Aug 8	1811	1811 Jan 13			Capt by British, 1813	Paddack, Peter	AS2650	Lion I	Ship			NULL	NULL	1, 4, 5, 603
+AV08653	Lucy : 1808-1810	New Bedford, MA			1808	1808 May	1810	1810	L			Lewis, Robinson	AS0364	Lucy	Brig / Schr	96		NULL	NULL	1, 2, 4, 50, 234, 5
+AV08670	Lucy : 1810-	Sag Harbor, NY			1810	1810					Wrecked on Cape Cod, MA, 1797	Unknown	AS2746	Lucy				NULL	NULL	44
+AV08700	Lydia : 1807-	Nantucket, MA			1807	1807 Aug 27					Broken up at Nantucket, 1818	Allen	AS1823	Lydia	Ship	160		NULL	NULL	1, 4, 5
+AV08701	Lydia : 1808-1809	Nantucket, MA		Brazil	1808	1808 Apr	1809	1809 Apr 1			Broken up at Nantucket, 1818	Swain, David, II	AS1823	Lydia	Ship	160		NULL	NULL	1, 4, 70, 5
+AV08702	Lydia : 1809-1810	Nantucket, MA		Brazil	1809	1809	1810	1810 Jul 1		K	Broken up at Nantucket, 1818	Swain, Silas*	AS1823	Lydia	Ship	160		NULL	NULL	1, 432, 5
+AV08703	Lydia : 1810-1812	Nantucket, MA		Pacific	1810	1810	1812	1812 Jul		K	Broken up at Nantucket, 1818	Swain, David, II*	AS1823	Lydia	Ship	160		NULL	NULL	1, 4, 5, 107
+AV08724	Lydia : 1807-1808	New London, CT		Patagonia	1807	1807 Aug 27	1808	1808 Jun				Douglas, Alexander	AS1824	Lydia	Ship			NULL	NULL	1, 11, 4, 5, 66, 519, 65
+AV08725	Lydia : 1808-1809	New London, CT		Brazil	1808	1808	1809	1809				Douglas, Alexander	AS1824	Lydia	Ship			NULL	NULL	1, 11, 4, 66, 5, 65
+AV08991	Maria : 1808-1810	New Bedford, MA		Pacific	1808	1808 Jul	1810	1810 May 8			Cond and sold at Talcahuano, Feb,1863 renamed Maria Pacheco	Coffin, David	AS0231	Maria	Ship ?	202		NULL	NULL	1, 2, 4, 79, 234, 336, 5, 74
+AV08992	Maria : 1810-1812	New Bedford, MA		Pacific	1810	1810 Nov c.	1812	1812 May 7or15			Cond and sold at Talcahuano, Feb,1863 renamed Maria Pacheco	Coffin, David	AS0231	Maria	Ship ?	202		NULL	NULL	1, 2, 4, 64, 234, 336, 5, 74, 758
+AV09059	Mars : 1806-1808	Nantucket, MA		Pacific, Brazil, Patagonia	1806	1806	1808	1808 Jun 21			Sunk prob 1812	Fitch, Obediah	AS1864	Mars	Ship	225		NULL	NULL	4, 70
+AV09060	Mars : 1808-1810	Nantucket, MA		Pacific, Saldanha Bay	1808	1808	1810	1810 May 1			Sunk prob 1812	Unknown	AS1864	Mars	Ship	225		NULL	NULL	4, 763
+AV09061	Mars : 1810-1812	Nantucket, MA		Pacific	1810	1810 Aug 21	1812	1812 Oct 26			Sunk prob 1812	Fitch, John	AS1864	Mars	Ship	225		NULL	NULL	1, 4, 48, 107
+AV09115	Martha : 1808-1809	New Bedford, MA			1808	1808	1809	1809			Cond Bay of Islands, Nov 20, 1874	Tobey, Lewis	AS0401	Martha	Ship	271 / 235		NULL	NULL	1, 2, 4, 234, 5
+AV09116	Martha : 1809-1810	New Bedford, MA		Brazil	1809	1809 Aug	1810	1810 Jun 12			Cond Bay of Islands, Nov 20, 1874	Tobey, Lewis	AS0401	Martha	Ship	271 / 235		NULL	NULL	1, 2, 4, 234, 5
+AV09117	Martha : 1810-	New Bedford, MA			1810	1810					Cond Bay of Islands, Nov 20, 1874	Tobey, Lewis	AS0401	Martha	Ship	271 / 235		NULL	NULL	2, 64, 5
+AV09118	Martha : 1810-1811	New Bedford, MA		Brazil	1810	1810	1811	1811 Jul 11			Cond Bay of Islands, Nov 20, 1874	Dillingham, Lemuel	AS0401	Martha	Ship	271 / 235		NULL	NULL	1, 4, 234, 5
+AV09277	Mary Ann : 1810-1811	Nantucket, MA		Coast of Africa	1810	1810	1811	1811 Mar 16			Taken by British, 1813	Folger	AS1877	Mary Ann	Ship			NULL	NULL	1, 4, 5, 757
+AV09836	Minerva : 1810-1812	Nantucket, MA		Pacific	1810	1810	1812	1812 Dec 7			Seized Oct 5, 1800; Fitch bought her back. value $30,000, brought her home empty. Broken up at Nant, 1819	Chase, George Brown	AS1948	Minerva	Ship	200		NULL	NULL	1, 4, 48, 5, 107
+AV09889	Minerva : 1807-1808	Sag Harbor, NY		Patagonia, Brazil	1807	1807 Sep 21 c.	1808	1808 June 28				Sayre, Francis	AS1954	Minerva	Ship	215		NULL	NULL	27, 44, 70, 180, 185, 432, 5, 765
+AV09890	Minerva : 1808	Sag Harbor, NY			1808	1808	1808	1808				Sayre, Francis	AS1954	Minerva	Ship	215		NULL	NULL	27, 44, 5, 180, 185
+AV10038	Monticello : 1809-1811	Nantucket, MA		Pacific	1809	1809	1811	1811 Jan 13			Aband near Pt Belcher, Sept 14, 1871	Coffin, Barzillai	AS1977	Monticello	Ship			NULL	NULL	1, 79, 5
+AV10108	Mount Hope : 1809-	Nantucket, MA		Atlantic	1809	1809 Feb					Capt and burned by British, July 9, 1812	Unknown	AS1985	Mount Hope	Schr			NULL	NULL	1, 5
+AV10823	Olive : 1807-	Nantucket, MA			1807	1807 Jul 6						Swain	AS2089	Olive	Ship			NULL	NULL	1, 4, 5
+AV11415	Perseverance/Perseveranda : 1809-1810	Nantucket, MA		Pacific	1809	1809	1810	1810 Nov 18			Capt by British on Tuckernuck Sh, 1814	Coffin, Absolom	AS2171	Perseverance/Perseveranda	Ship	242		NULL	NULL	1, 4, 79, 5
+AV11596	Phoebe Ann : 1806-1808	New Bedford, MA		Pacific	1806	1806	1808	1808 Jun 22			Broken up, 1829	Russell, Sylvanus	AS0565	Phoebe Ann	Ship	210		NULL	NULL	1, 2, 4, 234, 5
+AV11597	Phoebe Ann : 1808-1810	New Bedford, MA		Pacific	1808	1808 Sep	1810	1810 Jul 22			Broken up, 1829	Russell, Sylvanus	AS0565	Phoebe Ann	Ship	210		NULL	NULL	1, 2, 4, 234, 5, 256
+AV11598	Phoebe Ann : 1810-1812	New Bedford, MA		Pacific	1810	1810 Nov	1812	1812 Jun 2			Broken up, 1829	Russell, Sylvanus	AS0565	Phoebe Ann	Ship	210		NULL	NULL	1, 2, 4, 151, 234, 5, 256
+AV12136	Ranger : 1806-1808	Nantucket, MA		Pacific	1806	1806	1808	1808 Jun 21				Unknown	AS2260	Ranger	Ship			NULL	NULL	4
+AV12137	Ranger : 1808-1810	Nantucket, MA		Pacific	1808	1808	1810	1810 Jun 3				Joy, Obed	AS2260	Ranger	Ship			NULL	NULL	1, 4, 117, 432
+AV12139	Ranger : 1810-1812	Nantucket, MA		Pacific	1810	1810	1812	1812	S			Joy, William	AS2260	Ranger	Ship			NULL	NULL	1, 4, 5
+AV12188	Rebecca : 1809-1810	Nantucket, MA		Brazil	1809	1809	1810	1810 Aug			Capt by British, 1812	Chase, George	AS2268	Rebecca	Ship	175		NULL	NULL	1, 4, 122, 5
+AV12189	Rebecca : 1810-	Nantucket, MA		Woolwich Bay	1810	1810					Capt by British, 1812	Coffin, Jethro	AS2268	Rebecca	Ship	175		NULL	NULL	1, 4, 79, 5
+AV12245	Reliance : 1808-1810	Nantucket, MA		Cape of Good Hope	1808	1808	1810	1810 Apr 11				Pinkham	AS2275	Reliance	Ship			NULL	NULL	4
+AV12252	Renown : 1810-1811	Nantucket, MA		South Seas	1810	1810	1811	1811 Mar			Capt by British, c. 1813; renamed Adam; lost Deal Beach, 1825	Unknown	AS2277	Renown	Ship			NULL	NULL	4, 5
+AV12647	Ruby : 1806-1808	Nantucket, MA		Pacific	1806	1806	1808	1808 Sep 11			Cond at Honolulu, 1822	Barnard	AS2320	Ruby	Ship	221		NULL	NULL	1, 4, 5
+AV12648	Ruby : 1809-1811	Nantucket, MA		Pacific	1809	1809 Aug 2	1811	1811 Oct			Cond at Honolulu, 1822	Wyer, Christopher	AS2320	Ruby	Ship	221		NULL	NULL	1, 4, 5, 107
+AV12658	Russell : 1807-	New Bedford, MA			1807	1807					California trade, 1849	Allen, Joseph	AS0562	Russell	Ship / Bark	301	DAR	NULL	NULL	65, 50, 5
+AV12659	Russell : 1809-	New Bedford, MA			1809	1809					California trade, 1849	Allen, Joseph	AS0562	Russell	Ship / Bark	301		NULL	NULL	5, 50
+AV12721	Salem : 1809	Boston, MA			1809	1809	1809	1809	L		Driven ashore Delagoa Bay, by Fr privateer, Feb 2, 1809	Unknown	AS2335	Salem	Ship			NULL	NULL	5
+AV12729	Sally : 1810-1816	Nantucket, MA			1810	1810	1816	1816			Broken up at Nantucket, 1823	Russell	AS2710 ?	Sally	Sloop / Sloop (Brig)	195/194		NULL	NULL	122
+AV12739	Sally : 1806-1808	New Bedford, MA		East Coast	1806	1806	1808	1808 Jan			Captured, sent into Bermuda, July 20, 1812	Clasby, Lot	AS0594	Sally	Ship	222		NULL	NULL	1, 2, 4, 234
+AV12740	Sally : 1808-1810	New Bedford, MA		Pacific	1808	1808	1810	1810 Aug			Captured, sent into Bermuda, July 20, 1812	Clark, Obed	AS0594	Sally	Ship	222		NULL	NULL	1, 2, 4, 234
+AV12741	Sally : 1810-1812	New Bedford, MA		Pacific	1810	1810	1812	1812 Jul 20	S		Captured, sent into Bermuda, July 20, 1812	Clark, Obed	AS0594	Sally	Ship	222		NULL	NULL	1, 4, 234, 758
+AV12766	Samuel : 1807-1809	Nantucket, MA		Pacific	1807	1807	1809	1809 May 5			Cond at Rio, 1822	Gardner	AS2338	Samuel	Ship	287		NULL	NULL	1, 4, 5
+AV12767	Samuel : 1809-1811	Nantucket, MA		Pacific	1809	1809	1811	1811			Cond at Rio, 1822	Swain, Jonathan +	AS2338	Samuel	Ship	287		NULL	NULL	1, 4, 5
+AV12767	Samuel : 1809-1811	Nantucket, MA		Pacific	1809	1809	1811	1811			Cond at Rio, 1822	Whippey, Davis +	AS2338	Samuel	Ship	287		NULL	NULL	122, 5
+AV13467	Sterling : 1809-1811	Nantucket, MA		Pacific	1809	1809	1811	1811 Jun 22			Capt by the British, 1813	Folger, Richard	AS2434	Sterling	Ship	242		NULL	NULL	1, 4, 5
+AV13469	Sterling : 1807-1809	Nantucket, MA			1807	1807	1809	1809			Capt by the British, 1813	Unknown	AS2434	Sterling	Ship	242		NULL	NULL	5
+AV13507	Sukey : 1806-1808	Nantucket, MA		Pacific	1806	1806	1808	1808 Dec 2			Capt by the British, 1813	Gardner, George Washington	AS2443	Sukey	Ship		NHA	NULL	NULL	1, 4, 6, 122, 5, 561, 609
+AV13508	Sukey : 1809-1811	Nantucket, MA		Pacific	1809	1809 Jul 11	1811	1811 Jun 6			Capt by the British, 1813	Gardner, George Washington	AS2443	Sukey	Ship		NHA	NULL	NULL	1, 4, 6, 122, 5, 561
+AV13645	Swan : 1809-	New Bedford, MA			1809	1809						Unknown	AS0593	Swan	Schr	67 / 70 / 82		NULL	NULL	4, 5
+AV13649	Swan : 1806-	New Bedford, MA		Brazil	1806	1806						West, Stephen	AS0593	Swan	Schr	67 / 70 / 82		NULL	NULL	70, 5, 561
+AV13758	Thacher : 1808	Dartmouth, MA		Atlantic	1808	1808 Apr 1	1808	1808 Jul 1				Mosher, Jethro	AS0790	Thacher	Schr	123		NULL	NULL	1, 2, 4, 50, 234, 5
+AV13759	Thacher : 1808-1809	Dartmouth, MA		Atlantic	1808	1808 Aug 19	1809	1809 May 12				Tobey, Samuel	AS0790	Thacher	Schr	123	NBW	NULL	NULL	1, 4, 5, 234, 470
+AV13819	Thomas I : 1809-1811	Nantucket, MA		Pacific	1809	1809 Oct	1811	1811 Sep 27			Cond at Oahu 1825	Whippey, Davis	AS2493	Thomas I	Ship	270		NULL	NULL	1, 4, 5, 273, 107, 603
+AV14007	Topaz : 1807-1808	Boston, MA			1807	1807 #	1808	1808				Folger, Mayhew	AS2503	Topaz	Ship		NHA	NULL	NULL	6, 48, 5, 214, 268
+AV14059	Triton : 1808-1810	New Bedford, MA		Cape of Good Hope	1808	1808 Sep 10	1810	1810 Jan 7			Capt by British, 1813	Swain, Micajah	AS0523	Triton	Brig / Ship	156		NULL	NULL	1, 4, 117, 234, 5, 256
+AV14060	Triton : 1810-	New Bedford, MA			1810	1810					Capt by British, 1813	Hathaway, Charles	AS0523	Triton	Brig / Ship	156		NULL	NULL	1, 5, 117
+AV14261	Union : 1807-1808	Nantucket, MA		Patagonia	1807	1807	1808	1808 Mar 12				Hussey	AS2529	Union	Brig			NULL	NULL	1, 4, 5
+AV14262	Union : 1808-1810	Nantucket, MA		Cape of Good Hope	1808	1808	1810	1810 Mar				Luce	AS2529	Union	Brig			NULL	NULL	1, 4, 5
+AV14263	Union : 1810-1811	Nantucket, MA		South Coast	1810	1810	1811	1811 Jan				Bunker	AS2529	Union	Brig			NULL	NULL	1, 4, 5
+AV14265	Union : 1807-	Nantucket, MA		Brazil	1807	1807					Sunk, Oct 1, 1807 after collision with a sperm whale	Swain, Silas	AS0663	Union	Ship ?			NULL	NULL	70, 415, 5
+AV15022	Unknown : 1804-1809	Sag Harbor, NY			1804	1804 Jun c.	1809	1809				Unknown	AS0000	Unknown			SPL	NULL	NULL	6
+AV15251	Walker : 1808-1810	New Bedford, MA		Pacific	1808	1808 Jul	1810	1810 Jun 13			Capt by English, Mar 23, 1813	West, Stephen	AS0677	Walker	Ship	281		NULL	NULL	1, 4, 234, 5, 561
+AV15252	Walker : 1810-	New Bedford, MA		Pacific	1810	1810					Capt by English, Mar 23, 1813	West, Stephen	AS0677	Walker	Ship	281		NULL	NULL	2, 4, 5, 561
+AV15333	Warren : 1808-1809	Sag Harbor, NY		Coast of Brazil, Patagonia	1808	1808 Jul 21	1809	1809 May 18				Post, James, II	AS2582	Warren	Ship		RML	NULL	NULL	1, 4, 27, 44, 70, 137, 181, 180, 185, 432
+AV15334	Warren : 1809	Sag Harbor, NY		Patagonia	1809	1809	1809	1809				Sayre, Francis	AS2582	Warren	Ship			NULL	NULL	180
+AV15335	Warren : 1809-1810	Sag Harbor, NY		Patagonia	1809	1809 Aug 1 c.	1810	1810 Jun 16				Sayre, Francis	AS2582	Warren	Ship			NULL	NULL	1, 4, 27, 44, 128, 181, 180, 185, 432
+AV15403	Washington : 1808-1809	Sag Harbor, NY		Coast of Brazil, Patagonia	1808	1808 Jul 23 c.	1809	1809 May 13				Fowler, William	AS2594	Washington	Ship	300		NULL	NULL	1, 5, 70, 99, 137, 181, 180, 185, 432
+AV15404	Washington : 1809-1810	Sag Harbor, NY		Patagonia	1809	1809 Aug 12 c.	1810	1810 Jul 2				Fowler, William	AS2594	Washington	Ship	300		NULL	NULL	1, 27, 44, 99, 128, 181, 180, 185, 432, 5
+AV15807	Winslow : 1806-	New Bedford, MA		Pacific	1806	1806					Lost near Honolulu, Mar 17, 1858	Coleman, Prince	AS0676	Winslow	Ship / Bark	222 / 263		NULL	NULL	1, 2, 5
+AV15808	Winslow : 1808-1810	New Bedford, MA		Pacific	1808	1808 Oct	1810	1810 Jun			Lost near Honolulu, Mar 17, 1858	Coleman, Prince	AS0676	Winslow	Ship / Bark	222 / 263		NULL	NULL	1, 2, 234, 5
+AV15809	Winslow : 1810-1812	New Bedford, MA		Pacific	1810	1810 Aug	1812	1812 Feb			Lost near Honolulu, Mar 17, 1858	Gardner, Edmund	AS0676	Winslow	Ship / Bark	222 / 263		NULL	NULL	1, 2, 54, 5, 158, 234, 561
+AV16795	Barclay : 1808-	New Bedford, MA			1808	1808					Withdr and broken up, at NB, 1859	Randall	AS0067	Barclay	Ship	281		NULL	NULL	234, 5
+AV16808	Culloden   : 1806-	New Bedford, MA		Brazil	1806	1806						Swain, George	AS1175	Culloden	Ship	239		NULL	NULL	415, 50
+AV16838	Mary Ann : 1809-1810	Nantucket, MA		Coast of Patagonia	1809	1809 c.	1810	1810			Taken by British, 1813	Folger	AS1877	Mary Ann	Ship			NULL	NULL	432, 5, 765, 757
+AV17230	Hazard : 1807-	bound for Rhode Island			1807	1807						Whippey, Davis	AS1558	Hazard	Sloop			NULL	NULL	612
+AV17231	Olive : 1810-	Nantucket, MA		Nant	1810	1810						Swain, Jonathan	AS2090 ?	Olive	Sloop / Sloop ?			NULL	NULL	603
+AV17277	Alligator : 1806-	Nantucket, MA		East Africa	1806	1806					Capt by British 1812, full of sperm oil	Swain	AS0845	Alligator	Ship			NULL	NULL	644
+AV19731	Dauphin : 1810	East Greenwich, RI			1810	1810 Sep 20	1810	1810 Sep 22			Lost, Saldanha Bay, Cape of Good Hope, 1830	Coffin, Jethro	AS1189	Dauphin	Ship	273 / 240 / 217		NULL	NULL	1, 4, 79, 98, 5, 434, 13, 18, 758
+AV19733	Henry : 1806-	New Bedford, MA		Pacific	1806	1806 Jul 17						Macy	AS1580	Henry	Ship	262		NULL	NULL	758, 297
+AV19734	Sterling : 1806-	Nantucket, MA		Pacific	1806	1806					Capt by the British, 1813	Starbuck, (probably Simeon)	AS2434	Sterling	Ship	242		NULL	NULL	758
+AV19761	Merchant : 1806-	Nantucket, MA		West Indies	1806	1806 c.						Coffin	AS3053	Merchant				NULL	NULL	765
+AV19762	St. Lawrence : 1807-	Sag Harbor, NY		Patagonia, Brazil	1807	1807 Sep						Post, (James, II)	AS2426	St. Lawrence	Ship	523		NULL	NULL	765
